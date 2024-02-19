@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="layout" name="game_demo" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="id" name="textField" id="0x7f050000" />
+    <public type="id" name="game_gl_surfaceview" id="0x7f050001" />
+</resources>

@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: koudaizhentan.apk
+compressionType: false
+doNotCompress:
+- png
+- assets/app.icf
+- assets/save_version.txt
+- assets/iTunesArtwork
+- mp3
+- wav
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '10'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '16'
+  versionName: 1.0.7

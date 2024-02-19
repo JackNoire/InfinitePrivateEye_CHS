@@ -1,0 +1,4730 @@
+Manifest-Version: 1.0
+Created-By: d2j-apk-sign 0.0.0.4
+
+Name: assets/resource/animations/char_face/kloe01.anim
+SHA1-Digest: YrhR/yox2axtQjdBTAcHlX/XDFU=
+
+Name: assets/resource/images/EP_3/info/ep3_detail05.png
+SHA1-Digest: cTtaP2ILdxhFhBg3T9ITZR3L4vI=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_mirae_p1_face01.p
+ ng
+SHA1-Digest: 6KmTZIng+Wi7t/1mR/2r9q6l15s=
+
+Name: assets/images/costume/ui_char_ass_c_pos1_4.png
+SHA1-Digest: sw9StJMrWaYfCNlfBEsec3KAL1Q=
+
+Name: assets/resource/images/EP_5/suspect/suspect_kangchul_p1.png
+SHA1-Digest: DPrtxToFoOVXU0q1LchPNkyLgx8=
+
+Name: assets/images/standard/ui_std_main_p.png
+SHA1-Digest: eA7drzREOggaVaqb5hcoKIaE1fE=
+
+Name: assets/resource/images/EP_1/bg/ep1_bg_obj04.png
+SHA1-Digest: pTaDfFlzs8v+V8wqTQMQjqtU7x4=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_a
+ ngry.png
+SHA1-Digest: dR2HR8ryMgglGWFh731KGS8IL0I=
+
+Name: assets/images/costume/ui_cos_icon_ass_a_3.png
+SHA1-Digest: jgNpOGpYE0Mmb17qJxQDTWabz/4=
+
+Name: assets/resource/animations/char_face/assets/ujin02.png
+SHA1-Digest: JbPpoR9KKS9SMvAAPt1i/tS3A4g=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn06.png
+SHA1-Digest: 7EbFwEl6Do+wUzXjhALaGnbmY5s=
+
+Name: assets/resource/animations/room_ani/office/assets/cha_ryu03.png
+SHA1-Digest: mSlPZWd1ZvgRaGHyJiiOtzRbnhY=
+
+Name: assets/resource/images/EP_add4/info/add4_icon03.png
+SHA1-Digest: fMGcbUTErbO4gglXoxMU/0tezBM=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_detailvi
+ ew.png
+SHA1-Digest: 52+x6dpSiaMYzsntBfW1hlrmyjU=
+
+Name: assets/sound/bgm/snd_title.mp3
+SHA1-Digest: m26vVffk97jrXKQczNIYOZYFKgA=
+
+Name: assets/resource/images/EP_add3/bg/add3_bg02_obj01.png
+SHA1-Digest: OMUMFp7/+WUOer2VyqerVrz/Xf8=
+
+Name: assets/resource/animations/room_ani/office/project_ryu.anim
+SHA1-Digest: veXCy2LOgC3z3vWcaJLRLnYSgC0=
+
+Name: assets/images/mainmenu/ui_main_ach_n.png
+SHA1-Digest: aauXBXHCdY7EuitS73wFoq/UhIk=
+
+Name: assets/resource/animations/room_ani/office/hidden_item.anim
+SHA1-Digest: i0dn/FLDiEJyOrpgeTT61D6DDQY=
+
+Name: assets/resource/images/EP_1/suspect/suspect_eunbi_p1_face1.png
+SHA1-Digest: D3HRhReDlPWrHZquT3K4kedlGDI=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg1_obj01_402.png
+SHA1-Digest: 2Mz5BHtBBo6595V36akDSHKVfo0=
+
+Name: assets/images/standard/ui_std_simple_loading_bg.png
+SHA1-Digest: jeRv0flw364oPBHAWQBgnV/3lTg=
+
+Name: assets/resource/images/EP_1/info/ep1_icon06.png
+SHA1-Digest: +o3MThCxD30nujiAZnfMPPKutcs=
+
+Name: assets/resource/images/EP_4/suspect/suspect_sangwoo_p1.png
+SHA1-Digest: QRloEhglxBD/HzmfI/VbiyV5wQc=
+
+Name: assets/images/costume/ui_cos_choise.png
+SHA1-Digest: CwEA52U8vCT+OyDmRvh3vI1G18o=
+
+Name: assets/resource/images/EP_6/suspect/suspect_jaemi_p1.png
+SHA1-Digest: 2EgwcO1zhMR4P6sZY9q7ixRLaGg=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg00.png
+SHA1-Digest: RCYbX44WQwJVavLSheqF0a1S360=
+
+Name: assets/resource/animations/tuto/tuto_ep4_02.anim
+SHA1-Digest: Yw/8yS7Jy4pQXI/WE/Lw1UfjDFs=
+
+Name: assets/resource/images/EP_5/info/ep5_icon15.png
+SHA1-Digest: EZzhzWE7EhZaO7Y40vzFRj8GNwU=
+
+Name: assets/resource/animations/room_ani/office/assets/led_red.png
+SHA1-Digest: N2Kjz+xka9iUlC7tn6QP8v8h8YA=
+
+Name: assets/resource/images/EP_1/info/ep1_icon07.png
+SHA1-Digest: caSwNeFpOk2zZ4G33NbiPfWE2II=
+
+Name: assets/resource/animations/room_ani/ui/alram5.anim
+SHA1-Digest: vrIzRTa+nYtcw+1eWMEHJ1O2G8M=
+
+Name: assets/resource/images/EP_2/info/ep2_detail02.png
+SHA1-Digest: MIxiyCH+LuixdXGtxW64VZyhrjI=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_combine.
+ png
+SHA1-Digest: z6g+Hu8jOhhQ57zwnAraZZkrEeA=
+
+Name: assets/resource/images/EP_5/suspect/suspect_dojin_p1_face01.png
+SHA1-Digest: IUry/F51NtZcNTWeRSPwHknbZlU=
+
+Name: assets/images/standard/ui_std_hint_more_s.png
+SHA1-Digest: Pu8c2PeBJchGlmRSq3LVAsGHqyE=
+
+Name: assets/resource/animations/tuto/assets/ep7_03.png
+SHA1-Digest: MBJfcWd6EsHBwHmNYOJsL7lNyw8=
+
+Name: assets/images/standard/ui_std_gameover_face2.png
+SHA1-Digest: GbL2D9yWJBVyFQX1ODhoq4sFEVw=
+
+Name: assets/resource/animations/room_ani/office/office_char_miji_act.
+ anim
+SHA1-Digest: DFRLTq7BMKbO28TkGuY60ORnJ/M=
+
+Name: assets/resource/images/EP_4/info/ep4_detail06.png
+SHA1-Digest: PFq5kxqHQHKw5ZPIwtuLo9uVe6U=
+
+Name: assets/animations/buttons/infobox/infobox_slot_failed.anim
+SHA1-Digest: p5W6b1SBJQWmRq9xDc1ERNt2CLg=
+
+Name: assets/images/office/ui_assistant_choice_a_info.png
+SHA1-Digest: bIML2tHPEKcvPZTxSmuig8ad+GE=
+
+Name: assets/resource/images/EP_2/suspect/suspect_jitae_p2.png
+SHA1-Digest: S2Pj0IN3hJ+QeJazPOb/9NtWMnA=
+
+Name: assets/resource/images/EP_3/info/ep3_detail11.png
+SHA1-Digest: sIvJjE5hyNt2zKbnSnAfrZ2JeTM=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep6_02.png
+SHA1-Digest: w0jgekIT3hv6M85uFXkmmTeYwOo=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_minjae_p1_face02.
+ png
+SHA1-Digest: vA4ePkxwnfNnx3sPUbpLo/LoSAA=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep3_ani04.png
+SHA1-Digest: RUbVF6oayYVyM5jPo07svYa8ndM=
+
+Name: assets/images/mainmenu/ui_main_epi_bg.png
+SHA1-Digest: 1Gbyv2/KUfQmsDgvPy77BUlVaNY=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_clock_hour.p
+ ng
+SHA1-Digest: E+GXytu0JwxxcnYBgcQ9TIaJEMs=
+
+Name: assets/sound/effect/snd_help_eyes2.wav
+SHA1-Digest: mIgioUKvpsZlTYNkBHIwNMyVdfI=
+
+Name: assets/resource/images/EP_6/info/ep6_detail09.png
+SHA1-Digest: 9mj11QktqknBhRub7B5U9E/5ai0=
+
+Name: assets/images/standard/ui_std_back.png
+SHA1-Digest: lzp+N+t932KZNMMuR1xWn+NkFMs=
+
+Name: assets/resource/images/EP_3/info/ep3_detail14.png
+SHA1-Digest: IkEbHm7EXYWfQ5YkJUrGfs04wlA=
+
+Name: assets/resource/animations/room_ani/ui/alram3.anim
+SHA1-Digest: vrIzRTa+nYtcw+1eWMEHJ1O2G8M=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg04.png
+SHA1-Digest: 6BDlkwHgtYoOWhxjIKHEONkMIjk=
+
+Name: assets/images/mainmenu/ui_main_banner.png
+SHA1-Digest: UxOgksQzYw+8sjwl8qkY076O70o=
+
+Name: assets/images/mainmenu/ui_main_btn5_p.png
+SHA1-Digest: XE2bMPITk5hvQZmLqPd0x22fAwk=
+
+Name: assets/resource/images/Share/zoom_warnning.png
+SHA1-Digest: /Ni4XoirCFvWRM39PhFC+Ijmcek=
+
+Name: assets/resource/images/EP_5/info/ep5_icon12.png
+SHA1-Digest: WhJ/T+PwBApaEZPxelB9XKDTNKs=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd_ryu01.png
+SHA1-Digest: 7yV55mNjOEpL0dRfd9uxq+RRBes=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn24.png
+SHA1-Digest: zG41ILZe0awKm52+omBkPcAPyt4=
+
+Name: assets/images/mainmenu/ui_main_ach_23.png
+SHA1-Digest: /nvFGxa+ViqG+lvtRzqQziUuPXM=
+
+Name: assets/images/interrogation/ui_objection_btn.png
+SHA1-Digest: p/8dw2XUC3skgyIpvZSZMulZv5I=
+
+Name: assets/resource/images/EP_5/info/ep5_detail03.png
+SHA1-Digest: UgmjQdPsyvoUZqoY8kTymsIGER4=
+
+Name: assets/resource/images/EP_3/bg/ep1_bg1_wine_hint.png
+SHA1-Digest: mAGcaXweUD+9ULuclurSfW+X7lc=
+
+Name: assets/images/mainmenu/ui_main_col_btn1_p.png
+SHA1-Digest: Op11/v5cItTD3pDxIhVsjRXaUOE=
+
+Name: assets/resource/images/EP_3/suspect/profile_songhee.png
+SHA1-Digest: +4MdZnQ3/hLrZmPKTaqC59DiXzU=
+
+Name: assets/resource/images/EP_0/info/ep0_icon03.png
+SHA1-Digest: Nfj0Kr9BJt9o+XdCjgx1rHA3J/A=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_film01.png
+SHA1-Digest: JiiFgdcJ3yl2fGRcm2KVWgcob8U=
+
+Name: assets/resource/images/EP_3/suspect/suspect_songhee_face2.png
+SHA1-Digest: umqr5fVhPs/t17Io/rAh+Wdf3wQ=
+
+Name: assets/images/system/ui_sys_option_p.png
+SHA1-Digest: 5D0j0sObNYzdi0DBePyaRh07OKs=
+
+Name: assets/resource/images/Char/ryu/acter_ryu_p1_face01.png
+SHA1-Digest: 2W7HQeivCHSAB08tMVJl06xrA7Y=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg02_obj02.png
+SHA1-Digest: BHlnIXFhFaoJ9JJwAgu/1NP73h8=
+
+Name: assets/resource/images/EP_5/info/ep5_icon05.png
+SHA1-Digest: jz0jMtHP7VpvXmBF1F2JpI9c2b0=
+
+Name: assets/resource/images/EP_5/suspect/suspect_ujin_p1_face02.png
+SHA1-Digest: uFwQ2VKDt4bk/knL256Ztb00YiQ=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_face02.png
+SHA1-Digest: aWD5BlcGyfsVVyjmyd64ddHOhb4=
+
+Name: assets/resource/animations/tuto/assets/ep4_02.png
+SHA1-Digest: tJ+UTPRqNnW+ICQvHstXVq0qa4c=
+
+Name: assets/images/shop/ui_shop_btn.png
+SHA1-Digest: xXc+tVBZyIP37e14njhe/K5JoDE=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep5_03.png
+SHA1-Digest: Hp8U6dJ3BzLAhe1ET94QnHXJ7uI=
+
+Name: assets/sound/effect/snd_inven_open.wav
+SHA1-Digest: KVk1xkaH4Ofe1Xv92WhG6W1hxuk=
+
+Name: assets/resource/images/EP_5/suspect/suspect_ujin_p1_ani.png
+SHA1-Digest: 6nQIK7twP+1jM5tyVbG0nXCFJc8=
+
+Name: assets/animations/buttons/office_button/office_button_move_relea
+ se.anim
+SHA1-Digest: QF6CSjz9Mg2w50YC1QUt9xTpiJk=
+
+Name: assets/resource/images/EP_0/info/ep0_detail03.png
+SHA1-Digest: TQVXxks2BIx0zBUpgCpvbNT2O5k=
+
+Name: assets/resource/animations/char_face/assets/daegoon02.png
+SHA1-Digest: HrFDsKOZPWU3wZZG+TZlPMbdQP4=
+
+Name: assets/resource/images/Share/ui_move_right_75.png
+SHA1-Digest: rRI8SsAZYmPRPs5RUaVNQGj5YQw=
+
+Name: assets/animations/buttons/infobox/infobox_slot_equip_effect.anim
+SHA1-Digest: qN2V8yjnW9BfCAhZmqNB8428wh4=
+
+Name: assets/images/mainmenu/ui_main_ach_3.png
+SHA1-Digest: nE3MNLFid0X+ysmKZN5rIZo/lA8=
+
+Name: assets/images/system/ui_sys_option_title.png
+SHA1-Digest: INddcBTQ1wYlWIXh8vMvE1z2C6M=
+
+Name: assets/images/mainmenu/ui_main_help_title.png
+SHA1-Digest: A9ssBMvFHDPG/8NADYQ6S2J5AsU=
+
+Name: assets/resource/images/EP_3/info/ep3_icon12.png
+SHA1-Digest: VcsD5Jx+v0T2iKcyewZeqV+o8CQ=
+
+Name: assets/resource/images/EP_5/bg/ep5_zoom04.png
+SHA1-Digest: Up3/5+sHS6/e4GA3cTmTt1KNzBo=
+
+Name: assets/resource/images/EP_6/info/ep6_icon03.png
+SHA1-Digest: Ymzkxw9xAtQklzHfvkk9pmA/fQI=
+
+Name: assets/resource/sounds/FX/snd_e03.wav
+SHA1-Digest: cAT3MCUhxq4Z0znvgR7/ILK0HD8=
+
+Name: assets/resource/images/EP_add2/info/add2_icon04.png
+SHA1-Digest: M0fLqvGnHQvWawr23ET19GzsQZU=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep5_01.png
+SHA1-Digest: 7f1R7vARLKwbKBKI4l63dljwOoY=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg05.png
+SHA1-Digest: bDktRZniSzMmkrAYvPNDpNOuJqE=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_char_cop.a
+ nim
+SHA1-Digest: eZaGRULqLNV5h5MuKyzXY107Xbw=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_up2.anim
+SHA1-Digest: q/w2BglZG2OYFY2QK9JCSOMSu1E=
+
+Name: assets/resource/images/EP_4/info/ep4_icon09.png
+SHA1-Digest: XbHQdNWoE0KCKaTBIOnvqMTOa+c=
+
+Name: assets/images/interrogation/ui_objection_focus.png
+SHA1-Digest: fWSWnthgHxGdNyofzcpzdGNu1Jo=
+
+Name: assets/images/system/ui_sys_option.png
+SHA1-Digest: hqP/dVLH1mr0A8HUfymfmz1M+qk=
+
+Name: assets/resource/images/EP_4/info/ep4_icon08.png
+SHA1-Digest: 11vHOEsxCI4dKiqyNRg59U1liN4=
+
+Name: assets/resource/images/EP_0/info/ep0_icon02.png
+SHA1-Digest: fKn5XgYP2R0j9K2fMHocg8WsUms=
+
+Name: assets/images/mainmenu/ui_main_btn4_p.png
+SHA1-Digest: cAfrHg23ncCRknPGAZcVQRKDdHA=
+
+Name: assets/resource/animations/tuto/assets/ep2_02.png
+SHA1-Digest: Nq8565odTuvy5sYkWeVWf5+LExM=
+
+Name: assets/images/mainmenu/ui_main_ach_17.png
+SHA1-Digest: WTkcqPOqhw2SYvDwdYjZeHyzbKg=
+
+Name: assets/resource/images/EP_7/bg/ep7_bg1.png
+SHA1-Digest: wuhIl57K8nHtUysp3PBAThRUfK4=
+
+Name: assets/images/mainmenu/ui_main_col_btn5_p.png
+SHA1-Digest: /MtOYMLli7vqrkDsXwzvT5h/eOE=
+
+Name: assets/resource/images/EP_2/info/ep2_detail01.png
+SHA1-Digest: +f7uj4L6mKZnkCQu84d44q7N5Tw=
+
+Name: assets/resource/animations/room_ani/office/assets/bg1.png
+SHA1-Digest: kX6KIKmhB9G7KUvoVSXQfiJ5m1w=
+
+Name: assets/animations/buttons/direction/assets/useitem_effect02.png
+SHA1-Digest: qLE1GKp1NHaWNoAREN89ivlhz1s=
+
+Name: assets/sound/effect/snd_inven6.wav
+SHA1-Digest: QhsJUXosfkYt0xYN2FRFAmp27H4=
+
+Name: assets/resource/images/EP_2/suspect/suspect_suyun_p1_face01.png
+SHA1-Digest: bhYD+Mvg3bhTRD45OqggKWcUfT0=
+
+Name: assets/images/standard/ui_std_gameover_text.png
+SHA1-Digest: onfyEiXre2rldZ2j7bTw49nvuMU=
+
+Name: assets/images/standard/ui_std_decide.png
+SHA1-Digest: qIErjVW6zs0hdhK27JWb9W3S9OE=
+
+Name: assets/images/costume/ui_cos_icon_ass_b_5.png
+SHA1-Digest: /EK9E/iXnn5oT2rfaMMeRYD7K5A=
+
+Name: assets/animations/buttons/direction/assets/useitem_char.png
+SHA1-Digest: OmyKuVhfN/bCPZUqoyiCOyo9Sww=
+
+Name: assets/resource/animations/tutorial/tutorial06.anim
+SHA1-Digest: 8QFuDvMtiDB+kVwGQFrj4Ayw+Y4=
+
+Name: assets/resource/animations/char_face/assets/dojin01.png
+SHA1-Digest: MyyeyEQf7Fmv5/5vmtKI3zJhMZI=
+
+Name: assets/resource/animations/room_ani/office/assets/office_assi_su
+ bin_act.png
+SHA1-Digest: k7Odm1BFLrudFApzO02+ntG7WV4=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_07.png
+SHA1-Digest: jyu1b7zXaVUiiQPC1JL5d9wvSvs=
+
+Name: assets/resource/animations/char_face/assets/jaemi01.png
+SHA1-Digest: VKWxxoiTbBSjpJyEwVeWLnm0uLc=
+
+Name: assets/resource/images/EP_6/suspect/profile_byungjun.png
+SHA1-Digest: jz+ChNw5mXmzQOb1Y5IvW0ewdLI=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p1.png
+SHA1-Digest: WwqC7xLBG99d8omPWdQyzbzsK0o=
+
+Name: assets/resource/images/EP_6/info/ep6_detail02.png
+SHA1-Digest: Ee4XdQqAdnrljIgyRf3jLGvqOcU=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_minjae_p1_face03.
+ png
+SHA1-Digest: BHSk+gQeuGind370KMgEANZDFrw=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_bg02.png
+SHA1-Digest: Y3ZMSI0qiGDmZqpxW5oQ+cTZTGs=
+
+Name: assets/resource/images/EP_6/suspect/suspect_dongkun_p1_face02.pn
+ g
+SHA1-Digest: XxiAAHN7ak/6we1aNtyrZF3n7xw=
+
+Name: assets/resource/images/EP_add3/info/add3_icon06.png
+SHA1-Digest: ECouyiYdW0brCy1XxQFVmHRRlzg=
+
+Name: assets/resource/images/EP_5/info/ep5_detail05.png
+SHA1-Digest: VOo1Y983Vx7YhNYNC6mndEDxP/Q=
+
+Name: assets/resource/animations/room_ani/office/assets/cha02.png
+SHA1-Digest: RZnuqhmji76cvWf9V0OoKLuaMWI=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_p
+ oint.png
+SHA1-Digest: Xl3h/MyUH7WxcypAOMg2/XtCDqw=
+
+Name: assets/images/costume/ui_char_ass_a_pos1_1.png
+SHA1-Digest: Bo1CryIXp9zfOeXzqp5ikd9yleA=
+
+Name: assets/resource/animations/char_face/assets/mirea02.png
+SHA1-Digest: P6zNimpyhSy/yi9rSCHkVYae+ZA=
+
+Name: assets/resource/images/Share/ui_move_right_50.png
+SHA1-Digest: p3vMU504AJPyuYa+qRO0LjFNrYo=
+
+Name: assets/resource/images/EP_6/info/ep6_icon11.png
+SHA1-Digest: sOMm6Fvbcs34kEFdFLlBRujuBBI=
+
+Name: assets/animations/buttons/question/assets/question_bg2.png
+SHA1-Digest: H68KLLhGOQCQpKmG7UcQcuDQNZs=
+
+Name: assets/resource/images/EP_5/suspect/profile_ujin.png
+SHA1-Digest: H0Yq9Nr/BOHIwCXGeYOZQb7ybDw=
+
+Name: assets/images/costume/ui_char_ass_a_pos1_3.png
+SHA1-Digest: fC91WMPKKwqyfxQLciUHrzsWtnQ=
+
+Name: assets/resource/images/EP_add2/info/add2_detail04.png
+SHA1-Digest: PIP5sm5d4reA6tuoJv8Hci3LbQM=
+
+Name: assets/resource/images/EP_4/suspect/suspect_sangwoo_p1_eye.png
+SHA1-Digest: 6C5ed6DRIuPPxbJI/Yg1sL2ES90=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg03.png
+SHA1-Digest: FvTSGgcpOiASzFSO6d68+e7Gamc=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg01_obj02.png
+SHA1-Digest: ME6nen2cMmywHY+pPzr12aOtKCA=
+
+Name: assets/images/costume/ui_cos_icon_ass_c_1.png
+SHA1-Digest: 0G+wI3l2I/KwHqE1W7RPgxog/uU=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn21.png
+SHA1-Digest: fWclPcaZkNT9Ov6jVH9QoAraH2c=
+
+Name: assets/images/mainmenu/ui_main_ach_7.png
+SHA1-Digest: r5FtpAQiyOZqWfAAXB+lEnte5HA=
+
+Name: assets/resource/images/EP_4/suspect/suspect_sangwoo_p1_face1.png
+SHA1-Digest: zI75Y7aTFhmoL3+dwteAAlo+ooE=
+
+Name: assets/resource/images/EP_1/suspect/suspect_eunbi_p1_face3.png
+SHA1-Digest: 8zqxdbb2+BB9XGU80pDX/IIGaCA=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg4.png
+SHA1-Digest: VcCOlBgoGcwQWtDxqUQd/s4tc1k=
+
+Name: assets/resource/animations/tutorial/tutorial04.anim
+SHA1-Digest: OFOjFmTuYA86kGFwORU+TeW71FE=
+
+Name: assets/sound/bgm/snd_episode_clear.mp3
+SHA1-Digest: 96kKM9h9rlUwy37CPqAhIH9G/fI=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire04.png
+SHA1-Digest: VTVZs8S+cevNJp63Ng7pC5gcutM=
+
+Name: assets/resource/images/Share/ui_move_left_75_2.png
+SHA1-Digest: DmOFKbULQ8gDP2UtrsGZmOpfNyo=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 3Tjq+YHR/vKs6QRTef5YKAbDYCY=
+
+Name: assets/resource/sounds/BGM/bgm_intro.mp3
+SHA1-Digest: NxW27z+45RUzvNoj9Nkn+8WZc9c=
+
+Name: assets/sound/effect/snd_popup2.wav
+SHA1-Digest: G0c5fZQUx+5mI+NB76Oup/KX6Fc=
+
+Name: assets/images/standard/ui_std_gameover_text5.png
+SHA1-Digest: 332HE6IdHmzgs9tes7Vp9lWuSVk=
+
+Name: assets/resource/images/EP_add3/info/add3_icon10.png
+SHA1-Digest: U2BmkUHoL+ImjLiOSSzAxfTGWrE=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_bg01.png
+SHA1-Digest: DTc3hPJuRWZ25sK4aAsxl5X7U/k=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_face05.png
+SHA1-Digest: LCXlC/HcArdlRbnUHMeN46ttXTk=
+
+Name: assets/resource/animations/room_ani/office/office_char_hero_act2
+ .anim
+SHA1-Digest: /LhZoyD0soszV8ETjd1nfVvbMjk=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn017.png
+SHA1-Digest: 8dccuWUPuwSwnYq0c3BQ4IIxfhg=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep1_ani1_obj1.
+ png
+SHA1-Digest: krOYI2FUr0Qv5LQKUmAwNDB9GzQ=
+
+Name: assets/resource/images/EP_add1/info/add1_detail03.png
+SHA1-Digest: ocDxBXBEHTsdck1jXb8mtEzh4gc=
+
+Name: assets/resource/images/EP_6/suspect/suspect_byungjun_p1_face02.p
+ ng
+SHA1-Digest: RfCcFsGubdxWAB0GO2SDjvyTg3k=
+
+Name: assets/resource/animations/char_face/sooyoun02.anim
+SHA1-Digest: c2EhLXTpNLqTlmog/YGf5PiGBRk=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_effect01.
+ png
+SHA1-Digest: DXXNPG/aSrpz27nYh0+RnldwQ1E=
+
+Name: assets/images/costume/ui_cos_icon_hero_4.png
+SHA1-Digest: NCG8ao9Rg3Rd87erjO4vkJ2toCM=
+
+Name: assets/resource/animations/intro_ani/op_ani_add2_1.anim
+SHA1-Digest: j37u6lF7/nJ45wHOIzjsg5bSmSk=
+
+Name: assets/animations/buttons/office_button/assets/office_icon_effec
+ t1.png
+SHA1-Digest: ieMDkI77RaHz8fEauOpEaiShhsM=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep0_05.png
+SHA1-Digest: AzhtrfApVecYALXI0bFmb23mUjE=
+
+Name: assets/images/interrogation/ui_question_life_bg.png
+SHA1-Digest: baQ2YzIFtBTiaooqpBpuZBD6DjM=
+
+Name: assets/resource/images/EP_add1/info/add1_icon06.png
+SHA1-Digest: mn/Rv61TSH8CysyLf/8qFmX8KpE=
+
+Name: assets/resource/images/EP_5/suspect/profile_dojin.png
+SHA1-Digest: HC6f44IG2HlbavjAt9bed4uj9YI=
+
+Name: assets/images/costume/ui_dressroom_bg.png
+SHA1-Digest: XkbQ2/naI7KmnfpeqXKO+KsAP5Q=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sinae_p1_face01.p
+ ng
+SHA1-Digest: /qKJ/jD5GaErVlrjJeY2DZGiX9c=
+
+Name: assets/resource/animations/room_ani/office/assets/effect11.png
+SHA1-Digest: fcRPoJOw3qHPy81nr6Xeikum8Jw=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_02.png
+SHA1-Digest: ZqbfnxwflGavPSVrtk/65akV3QQ=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_slot_eff
+ ect3.png
+SHA1-Digest: wzM6dRnp1jCnlz90txo8n1TfjC8=
+
+Name: assets/images/inven/ui_inv_focus.png
+SHA1-Digest: +8khmLZX/Zs/WwnEWGo2rpGUfpw=
+
+Name: assets/resource/images/EP_1/info/ep1_icon08.png
+SHA1-Digest: OP/spIWyQhWVQ+HiJPKyGLDvW7I=
+
+Name: assets/images/mainmenu/ui_main_epi_2.png
+SHA1-Digest: UPqIC1neRnM3dGoLz92Eicbfq8g=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_left.anim
+SHA1-Digest: rCGTd0t2FGKwQJ9AF3Oi9lXz4u8=
+
+Name: assets/resource/images/EP_5/info/ep5_icon06.png
+SHA1-Digest: QsLZ3x/Qpyj6XtkB79jYnOG0X0I=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_bg.png
+SHA1-Digest: ZwC0Fq9w4C7jLI5niyj9zQ9VVIk=
+
+Name: assets/resource/images/EP_2/info/ep0_detail07.png
+SHA1-Digest: Y72Bsv1+eMIWvHz77goTApwGFB0=
+
+Name: assets/images/mainmenu/ui_main_memory_16.png
+SHA1-Digest: QywpvLHbYaLySYLW9vtjx3ZXzJ0=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/cloud01.png
+SHA1-Digest: +YMP47OINFAiPfBu0Tp84lEnNOI=
+
+Name: assets/images/standard/ui_std_hint_bg_s.png
+SHA1-Digest: MGTVwg/SL5QL/4KuAJfV4y15WGA=
+
+Name: assets/resource/images/EP_add3/info/add3_detail02.png
+SHA1-Digest: N7UjVAKW57dwPzvHJ33Gh0tUYcI=
+
+Name: assets/resource/sounds/FX/snd_e07.wav
+SHA1-Digest: 21aSnNNU2ZPe22m9MVwm+VNq0Rk=
+
+Name: assets/resource/images/EP_add1/bg/add1_zoom03.png
+SHA1-Digest: /DCqNOKROhZp/Dek/dTCZe5PaVI=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: /+bvS9/tCX8Xf27T81E0ROwTpDs=
+
+Name: assets/images/mainmenu/ui_main_epi_reset.png
+SHA1-Digest: OyIB7+bzmGo20eXdauxKvTSykB4=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg02.png
+SHA1-Digest: h2iB5evjxHmFAUNB7Urw8VQiKT0=
+
+Name: assets/animations/buttons/standard/main_title.anim
+SHA1-Digest: bz1AFcaAOhX0TqR3hsY9CnS9n1U=
+
+Name: assets/images/mainmenu/ui_main_memory_12.png
+SHA1-Digest: Uvc9pebTzgh3VkgtX1bEWHh+58M=
+
+Name: assets/resource/images/Char/assistantC/char_assi_c_eye.png
+SHA1-Digest: 6dV+E9UZOviCouz6oUIs6sWPHJw=
+
+Name: assets/resource/animations/room_ani/office/assets/screen.png
+SHA1-Digest: 0y/+IC9hKDs543nABVTGX401kB4=
+
+Name: assets/resource/images/EP_1/info/ep1_icon04.png
+SHA1-Digest: ybeCaxN4TCjX5DLtn4o2Zh/dMc4=
+
+Name: assets/resource/images/EP_5/suspect/suspect_dojin_p1_face03.png
+SHA1-Digest: YTUfomlxSn71xYbsL0IfHYUQBNg=
+
+Name: assets/images/standard/ui_std_hint_more.png
+SHA1-Digest: yEi4Fgf109vACHqZuExvY3xMKNw=
+
+Name: assets/resource/images/EP_6/info/ep6_detail12.png
+SHA1-Digest: lIu8OET0e3zU4TtkM3tDnPKYTSs=
+
+Name: assets/images/standard/ui_std_simple_loading_text.png
+SHA1-Digest: rSmZkgMP9sXRlnrG+1l3hj9rd1E=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_add1_02.png
+SHA1-Digest: GgZB1gKbNEekkRFWhoBQBXjhsMg=
+
+Name: assets/resource/images/EP_4/suspect/profile_sangwoo.png
+SHA1-Digest: 2eWw7Ned9nsJ3VAQivEKI4nGoIE=
+
+Name: assets/resource/images/EP_add1/info/add1_icon03.png
+SHA1-Digest: nCwSIuJup/kNShRN35LxpgH/BIQ=
+
+Name: assets/images/mainmenu/ui_main_memory_24.png
+SHA1-Digest: 4AYG8859TC9mMeq8DMzyMXcR86E=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom01.png
+SHA1-Digest: iMFgjs3l8S6Ml/oUy5c/tVobJBs=
+
+Name: assets/resource/animations/room_ani/office/office_char_sina_act.
+ anim
+SHA1-Digest: sLB8bPaQ02wxEG/JYiYmtIL41ww=
+
+Name: assets/resource/animations/room_ani/office/assets/bg.png
+SHA1-Digest: uRDCYW81x+ppEIu05t48Rm4dNAo=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep3_04.png
+SHA1-Digest: 92HIVZy9VVG004bPgbS6gGFo5dk=
+
+Name: assets/resource/animations/char_face/jaeuk01.anim
+SHA1-Digest: 6vmeB1rHywy5czZye1B0EHLmEfk=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p1_face4.png
+SHA1-Digest: dE8+uuecFHp/LMqtjgZ0MfJdIs4=
+
+Name: assets/images/costume/ui_char_ass_b_pos1_1.png
+SHA1-Digest: xJL/5GyfQraSclDSnYYqkpjpN4E=
+
+Name: assets/resource/images/EP_6/suspect/profile_dongkun.png
+SHA1-Digest: vPuWMWoQCPYsO/b68oAHzlpFhOU=
+
+Name: assets/resource/images/EP_add2/bg/add2_zoom03.png
+SHA1-Digest: HBXMkumZWwcwwG3TN6Oxkri2RbM=
+
+Name: assets/resource/images/EP_add2/info/add2_detail01.png
+SHA1-Digest: Cg86l/SN8L7INg+4exrMz+n8D/I=
+
+Name: assets/images/inven/ui_inv_com_def_msg.png
+SHA1-Digest: pf8lPQEeVhaiiHHcCu1qojAyB+I=
+
+Name: assets/resource/images/EP_3/suspect/suspect_songhee.png
+SHA1-Digest: pXrZbb4mucjUuTjlos6I3HKoidE=
+
+Name: assets/resource/images/EP_5/suspect/suspect_dojin_p1.png
+SHA1-Digest: ebUUQroRuJ6MfYHVtLa/t2DwgfA=
+
+Name: assets/resource/animations/char_face/sooyoun01.anim
+SHA1-Digest: OrIhZ4Oj/9r9aa1dTmQyBrgxhnc=
+
+Name: assets/resource/images/EP_4/bg/ep4_zoom04.png
+SHA1-Digest: AONgpSeU8xqYi5VevtOrEC/hbvE=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_06.png
+SHA1-Digest: h23HT4McAovwhtkTUkWVHaxtEZI=
+
+Name: assets/resource/images/EP_6/info/ep6_icon06.png
+SHA1-Digest: ziqj1SU7i+u3Zsjrs1IGVZ4xNu0=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg01_obj02_2.png
+SHA1-Digest: f/ZCeD3IhGPKtu25MTrqUG7iHA8=
+
+Name: assets/resource/images/EP_2/info/ep2_icon04.png
+SHA1-Digest: I2VTCHcJOUVpwBjbufmIhosroks=
+
+Name: assets/resource/animations/char_face/huijae01.anim
+SHA1-Digest: JXQiiN3euhxFcVyABjZSpzIHnC8=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg06_index.png
+SHA1-Digest: wY2h5nXcqc8g/U3E8gNAqhrZpzc=
+
+Name: assets/resource/images/EP_3/info/ep3_icon07.png
+SHA1-Digest: AsqdKdAYMHZZfOPs0JH9+txN6TU=
+
+Name: assets/resource/animations/tutorial/tutorial12.anim
+SHA1-Digest: wnVtzDVa2VUiZgBHqsZSW3WbLKM=
+
+Name: assets/resource/images/EP_1/suspect/suspect_dasol_p1.png
+SHA1-Digest: qep8cmwbDaxUCeqseQgjlk+GKK0=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p2_face2.png
+SHA1-Digest: OU1wyz+9hZvVpb9t1Nv69zqk49g=
+
+Name: assets/resource/animations/room_ani/office/assets/bar.png
+SHA1-Digest: V12edZCU4bFO6/m0SPfz+BqK24k=
+
+Name: assets/images/costume/ui_cos_equip.png
+SHA1-Digest: IFgPWanH90a4TBkil09ZUAEp7oY=
+
+Name: assets/resource/images/EP_5/suspect/suspect_dojin_p1_eye.png
+SHA1-Digest: rc4XKXnGo5Nek4Dy4nxsy5oq784=
+
+Name: assets/resource/animations/char_face/dasol01.anim
+SHA1-Digest: 3q+ZeHgxusFCC20NZhht2YVQOZI=
+
+Name: assets/resource/images/EP_2/info/ep2_detail07_suchul.png
+SHA1-Digest: 5Mi9EQ7+hCiCwzNGFoc3JILjAQU=
+
+Name: assets/images/standard/ui_std_chapter_msg.png
+SHA1-Digest: esYCgnSMyAI5MYdbvUeuBjxk7zs=
+
+Name: assets/resource/animations/tutorial/tutorial10.anim
+SHA1-Digest: LXJHgKLof0p/fgUxZkvSy37ap8Y=
+
+Name: assets/images/system/ui_sys_home.png
+SHA1-Digest: 9fAyQh/gucROpIAx+vGQ9y/Efcc=
+
+Name: assets/resource/images/Char/hero/char_hero_p3.png
+SHA1-Digest: y1jt5dF8r+VQityUPLZD3mW1Na8=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_clock_base.p
+ ng
+SHA1-Digest: W6IZ18ks1uWYBOvvUQ0UXYXlAbg=
+
+Name: assets/images/office/ui_title_choise_assistant.png
+SHA1-Digest: dTjzp1D+HppWh8u5JFsJVJCa6OA=
+
+Name: assets/resource/sounds/BGM/bgm_talk1.mp3
+SHA1-Digest: DaL9hYsr5C3E7/68eh44r4mGc4s=
+
+Name: assets/resource/images/EP_2/info/ep2_icon01.png
+SHA1-Digest: m/0aWIfm5VmRx5Byrru9RPK/4Q8=
+
+Name: assets/images/costume/ui_char_hero_pos2_4.png
+SHA1-Digest: la5QMG3YNa8tHjq+5jjKEZZM5bE=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire09.png
+SHA1-Digest: UvcMKqwApNunSaf2FpiOPTg3AvA=
+
+Name: assets/animations/buttons/standard/assets/base2_alarm.png
+SHA1-Digest: O+jmEJzRbSr/V2K60YJYgN386kA=
+
+Name: assets/animations/buttons/standard/assets/font_suspect-hd.png
+SHA1-Digest: 0eHBlQOiwoApOD9t6Pj3ClTCTVc=
+
+Name: assets/images/mainmenu/ui_main_alert_3.png
+SHA1-Digest: F0oJRjBSUrNCMoKpO3bS0fnChvY=
+
+Name: assets/animations/buttons/office_button/assets/office_icon_costu
+ me2.png
+SHA1-Digest: 8F3TpwfUYySV3kbrmfKksuU1w/A=
+
+Name: assets/images/standard/ui_help_muscular.png
+SHA1-Digest: 6/oC07+uCpY96+ReLp4KAeyL7Ag=
+
+Name: assets/resource/images/Char/hero/char_hero_p2.png
+SHA1-Digest: U7mskmt6mY+kF7jEWltFebzmDPI=
+
+Name: assets/resource/images/EP_add1/suspect/profile_mirea.png
+SHA1-Digest: 8XpbX43YnW6aZFhR3qSEzOTQFsQ=
+
+Name: assets/resource/animations/char_face/assets/byungjun02.png
+SHA1-Digest: bRpq9kRz039aGI6avHddXKXPDyk=
+
+Name: assets/resource/animations/char_face/assets/suenga02.png
+SHA1-Digest: 709lVxMXYTeb4f/9eg2Qj6f8460=
+
+Name: assets/resource/animations/char_face/dongkun01.anim
+SHA1-Digest: uTKbgdmFdf5m/eHRXHAUdXMA9Lc=
+
+Name: assets/images/costume/ui_char_hero_pos1_3.png
+SHA1-Digest: +2wyQiSZSAW2+bYME/AU0J+4hi8=
+
+Name: assets/resource/images/EP_5/bg/ep6_bg4_obj01.png
+SHA1-Digest: IGb1T6WjDLCm31hv4z8MZKacAfI=
+
+Name: assets/resource/images/EP_1/suspect/profile_eunbi.png
+SHA1-Digest: +k/5QDaOjNs98oWYafS7qLvd5wg=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep7_1.anim
+SHA1-Digest: gGeAXR24ohuMeHpjA172kpYSZv4=
+
+Name: assets/resource/images/EP_1/suspect/suspect_eunbi_p1.png
+SHA1-Digest: O51M7aHcAkpg5lkmiB1MkC/b0sw=
+
+Name: assets/resource/images/EP_6/info/ep6_detail10.png
+SHA1-Digest: xnkDkla9eEUK94gH/KbTiRnLSgI=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire06.png
+SHA1-Digest: F9RGSs0mpEeiXIE6xqRSlLhs3tw=
+
+Name: assets/resource/images/EP_5/info/ep5_detail14.png
+SHA1-Digest: QL+we2OKxozAVoCaa8WPVm6z6zE=
+
+Name: assets/resource/images/Share/info/icon003.png
+SHA1-Digest: W+u/+GtJ/9+9SJiOus6kmZ/GZC0=
+
+Name: assets/resource/images/EP_0/info/ep0_detail05.png
+SHA1-Digest: K2ZgOnJxZLm7+G387VfHefKpT/8=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_blood1.png
+SHA1-Digest: drWh6EMoE0nQkZQJEa2LknNRV00=
+
+Name: assets/resource/images/EP_4/info/ep4_icon02.png
+SHA1-Digest: pPY7KsrYb0L7OsH86tEyn3Rvh6k=
+
+Name: assets/images/mainmenu/ui_main_ach_13.png
+SHA1-Digest: 086yVZVGEg6ZFhPRJtOCRfuY45A=
+
+Name: assets/images/mainmenu/ui_main_epi_9.png
+SHA1-Digest: +yrbgzF5c4MvIrsazOiQwRJeNEI=
+
+Name: assets/resource/images/EP_2/suspect/suspect_jitae_p1_face2.png
+SHA1-Digest: 8hQP8mG8dgukUHfWYscAArEzCqo=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_eye.png
+SHA1-Digest: /2BJKASouOxSOBzlUUhUGsa+F20=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face2_1.png
+SHA1-Digest: 4H/WIxTPT9dqBnCHBJ1/+AwKX4o=
+
+Name: assets/resource/images/EP_1/suspect/suspect_dasol_p1_face2.png
+SHA1-Digest: Q3TaBj87dM6gYAm9cTaDPIzj60Y=
+
+Name: assets/resource/animations/char_face/huigul03.anim
+SHA1-Digest: c3tvz5YRkN4wG4VaqruwYz6pl1E=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg01_obj01.png
+SHA1-Digest: 7dkFyzpb37+huIYyPyM2FWkJ1yw=
+
+Name: assets/images/mainmenu/ui_main_col_btn1.png
+SHA1-Digest: WjODp8+5un8ndKe8VPPgdP4P8X0=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_mirae_p1.png
+SHA1-Digest: Hnqb9FfB6ukRF3e+rO3oPA59jh4=
+
+Name: assets/resource/images/EP_3/info/ep3_icon10.png
+SHA1-Digest: a/mAzlkkQAlCus+W06P2O0xa+JE=
+
+Name: assets/resource/images/EP_1/info/ep1_detail04.png
+SHA1-Digest: kMctS5dsea11cZDKKgm+tmKpNbc=
+
+Name: assets/resource/animations/room_ani/bg_ani/Episode1_water.anim
+SHA1-Digest: ZZvtzGsotB6SsDJNSs2RrcdTae0=
+
+Name: assets/images/system/ui_sys_retry.png
+SHA1-Digest: NW5/1+2i7Sndms6yQ90oFF92oJo=
+
+Name: assets/images/system/ui_sys_option_bg.png
+SHA1-Digest: od5JdhnvQHQiZzl7IZEPAhIf47w=
+
+Name: assets/resource/images/EP_2/suspect/suspect_jitae_p1.png
+SHA1-Digest: ZePwOn9NOw353szMPCtAyeACEBo=
+
+Name: assets/resource/animations/char_face/sangwoo02.anim
+SHA1-Digest: aeP9Gj8E4nYnt3hTGketsu6WV4w=
+
+Name: assets/images/mainmenu/ui_main_col_btn5.png
+SHA1-Digest: M+6TxkBJifnmsNenPnDUvyy37po=
+
+Name: assets/images/mainmenu/ui_main_memory_bg.png
+SHA1-Digest: NdCPg/9tjjr8FhGvGbAK65nBtDI=
+
+Name: assets/resource/sounds/BGM/bgm_suspect1.mp3
+SHA1-Digest: WYTWFEv92RmMxAlzzM2+yImYMeg=
+
+Name: assets/resource/animations/char_face/assets/jitae01.png
+SHA1-Digest: twzHwSy/ZWrN6i/NpWu+i07YgKQ=
+
+Name: assets/resource/animations/room_ani/office/assets/cha_ryu02.png
+SHA1-Digest: Bzfa3EH01Zo1F+qnvjNSbjkaMM0=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep4_03.png
+SHA1-Digest: OKc4QCrjIyrFAeriBGQLkS9vwYc=
+
+Name: assets/resource/images/Char/assistantA/char_assi_a_eye.png
+SHA1-Digest: qXAxtZaYRuXxAhesW7TlzvmBCs4=
+
+Name: assets/animations/buttons/standard/assets/main_title_1.png
+SHA1-Digest: ygT+frRjIXnIVYmGycduFMjHhxo=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/fly01.png
+SHA1-Digest: RULhmeDypR47vKssDssFn2Hf3Ws=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd3_02.png
+SHA1-Digest: yDon+mIPDV/n5tsMIXfRgUo8heU=
+
+Name: assets/images/mainmenu/ui_main_memory_11.png
+SHA1-Digest: 0MeaLF979MkX/hE+lGnriLapx3Q=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn07.png
+SHA1-Digest: jkgjjS2oRNESzCCINcwn1wq2U98=
+
+Name: assets/animations/buttons/question/assets/objection_effect.png
+SHA1-Digest: bdKUbla0MyLR8cVjTsHqtyx+Rdc=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn018.png
+SHA1-Digest: e83Q5vhZJUCoSdMrYDUA3nU7EGE=
+
+Name: assets/resource/animations/char_face/sinae01.anim
+SHA1-Digest: 7Y0AfBp2pD76xqBuTpoTMfXxU0c=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg04.png
+SHA1-Digest: +NsNjvWglxdfXRj8+donYhgUTe8=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face1_1.png
+SHA1-Digest: 0qe601742URtvzgfbkiQEUyQ1cw=
+
+Name: assets/resource/images/EP_5/info/ep5_detail01.png
+SHA1-Digest: CqDreM0NurwfXBDH0qogQjp9ceI=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg5.png
+SHA1-Digest: KTT65FyYlROGkG0DJerx0M6QWZs=
+
+Name: assets/images/standard/ui_std_contine_p.png
+SHA1-Digest: zgZhzT/1+XTvnFvvefux3e3tzu4=
+
+Name: assets/animations/buttons/infobox/infobox_combine_release.anim
+SHA1-Digest: RA3U4RBZ3A2fxRNa2zJyTKG5DnM=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep3_02.png
+SHA1-Digest: 71sha3VkXRpmfJWKITacOmiIUvc=
+
+Name: assets/resource/sounds/FX/snd_f11.wav
+SHA1-Digest: I19mU1MqDr6KwMQDzbzWzk+15MA=
+
+Name: assets/resource/images/EP_6/suspect/suspect_byungjun_p2.png
+SHA1-Digest: dppsQjwomu3WD2k17JVaXkYdHmk=
+
+Name: assets/Icon-72.png
+SHA1-Digest: Fpfn4q3r68bm4e/cOs9Ua3pbAdU=
+
+Name: assets/resource/animations/char_face/assets/kloe01.png
+SHA1-Digest: 17Lb5sts/x5FjR7gukuzKiS7Avo=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg04_index.png
+SHA1-Digest: KT34hGa01LDMZyhpxt/R83a4rlk=
+
+Name: assets/resource/images/Share/ui_allow_right_75.png
+SHA1-Digest: DSVzON2pUukRj4HU8EvNULQj9V4=
+
+Name: assets/resource/sounds/FX/snd_f13.wav
+SHA1-Digest: SWV4ZuP6N8VAgV0BGGHfTY8tAns=
+
+Name: assets/resource/images/EP_3/info/ep3_icon13.png
+SHA1-Digest: Jh3FHVlD45OY86sXfFivU4EOQQU=
+
+Name: assets/resource/animations/char_face/byungjun01.anim
+SHA1-Digest: +vSIQhYBzgeXXX/qn6au6aovrIg=
+
+Name: assets/images/mainmenu/ui_main_memory_21.png
+SHA1-Digest: FMr34P91XEUX9jHKVYV2gJf74YU=
+
+Name: assets/images/mainmenu/ui_main_epi_3.png
+SHA1-Digest: vHypVfGy8+Omp1alhBA5af/LvMg=
+
+Name: assets/resource/images/EP_add4/bg/add4_zoom01.png
+SHA1-Digest: lFcCU25sj7XOMOgCZMCJrQDGiFY=
+
+Name: assets/images/mainmenu/ui_main_memory_6.png
+SHA1-Digest: q4Hjyne2CXe6w6nDX9RWa6Ne04A=
+
+Name: assets/resource/animations/char_face/dongkun02.anim
+SHA1-Digest: yaTWRI3SiN48PQ9Dp/1fmD0nza8=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_effect02.
+ png
+SHA1-Digest: 20uspR/Hjl1ponanGsXJvK9Ag6o=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p1_face2.png
+SHA1-Digest: aMeZ1bxUqrnSU3hvpynrcgpQ7V4=
+
+Name: assets/resource/images/EP_6/suspect/suspect_jaemi_p1_eye.png
+SHA1-Digest: KoeCOMrNaBK7VLqM0ALxslqaE+8=
+
+Name: assets/images/office/ui_assistant_choice_a.png
+SHA1-Digest: f2uz9NgpE5DBF1PmE8SkztRx4ls=
+
+Name: assets/resource/images/EP_4/info/ep4_detail03.png
+SHA1-Digest: m3iLA5WdJMrUxf/wyLwnMSjBFhs=
+
+Name: assets/resource/images/EP_6/info/ep6_detail03.png
+SHA1-Digest: Sw2Uuyr75znmnPtCz7qFEquOu3E=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn11.png
+SHA1-Digest: NDzlXvGRe2R2KMPHHXBEwlMfbfE=
+
+Name: assets/images/inven/ui_pop_info_combine_2.png
+SHA1-Digest: 0s5e1SQ4VgeJc0Q05yI2VRC1oK4=
+
+Name: assets/resource/images/EP_add3/info/add3_icon04.png
+SHA1-Digest: wS2gqFBotTpfRw5LctxQFLq4VPI=
+
+Name: assets/sound/effect/snd_inven4.wav
+SHA1-Digest: zr0HW3baRlMHaX6VWsbGYrXr+s8=
+
+Name: assets/resource/animations/char_face/sangwoo01.anim
+SHA1-Digest: He7ch1D/hSPc/MlckYLvmOg90VY=
+
+Name: assets/images/mainmenu/ui_main_epi_11.png
+SHA1-Digest: LVM0xQp2WiqQnoo8OJNtRml7m0c=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_eye.png
+SHA1-Digest: t1l+juxLsWzJM+BeZ/pyPjVVkZI=
+
+Name: assets/resource/images/EP_add4/bg/add4_bg03.png
+SHA1-Digest: hSJNxGEti2M8pA6UIpaonb0zUeQ=
+
+Name: assets/images/mainmenu/ui_main_col_btn2_p.png
+SHA1-Digest: U9Fp6PCtndr1duC6noLaoaXjTek=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg02_obj01.png
+SHA1-Digest: TPUX0+JC+ZQYgHmpeyD04B22bKg=
+
+Name: assets/resource/images/EP_5/info/ep5_detail15.png
+SHA1-Digest: Pf2LrCdpYU9Q8gk4NgrjvM4bmto=
+
+Name: assets/resource/animations/tutorial/tutorial13.anim
+SHA1-Digest: 7HbihRdTsjL63NFl7UOHs4Jx4WA=
+
+Name: assets/images/standard/ui_help_hypnosis.png
+SHA1-Digest: iptiH01pTPKP0VkuSS6P5znJnSY=
+
+Name: assets/resource/animations/char_emotion/assets/emotion_suprise.p
+ ng
+SHA1-Digest: TK6vw+LbHovcj9E1oHRvJRDFE+w=
+
+Name: assets/resource/images/EP_0/suspect/suspect_jiyoun_p1_face02.png
+SHA1-Digest: vu8sbsmd4K999KYKVsBimWfh21w=
+
+Name: assets/resource/images/EP_2/info/ep2_detail06_hongsuck.png
+SHA1-Digest: TzVN9oEmPj3IpPgr0JPpL4KF0oA=
+
+Name: assets/images/mainmenu/ui_main_col_btn3_p.png
+SHA1-Digest: gpKjLVP9RLI6pOkZWagGDbHG5J4=
+
+Name: assets/resource/images/EP_0/suspect/suspect_ara_p1_face02.png
+SHA1-Digest: pJMWkr927IF7w2UEvrRmCDqqs3g=
+
+Name: assets/resource/animations/tuto/tuto_ep7_03.anim
+SHA1-Digest: r/IHZSF49lfxYRq3WgHFXYXoJtw=
+
+Name: assets/resource/images/EP_4/info/ep4_icon06.png
+SHA1-Digest: gqEfRjAuDsgSjvIhRUoARp4lpCw=
+
+Name: assets/sound/effect/snd_inven_detail.wav
+SHA1-Digest: DB70auEsS2hARAE6wwY8BHENP+g=
+
+Name: assets/resource/images/EP_add3/info/add3_detail09.png
+SHA1-Digest: uOXMJp10HLI5+0LwYv0Lq3lEBjI=
+
+Name: assets/resource/animations/room_ani/office/assets/cha_kkoma03.pn
+ g
+SHA1-Digest: ewOsDgrzrtYxt9wgF0aJmwp4lV8=
+
+Name: assets/resource/animations/char_face/suenga01.anim
+SHA1-Digest: +hRfmqwRcKfyw7R1u9qhavtcZ7E=
+
+Name: assets/resource/animations/tuto/assets/ep7_04.png
+SHA1-Digest: 9sVVN7O98Ym0OCgZYCczIPQPVbU=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_slot_eff
+ ect4.png
+SHA1-Digest: hjmw1IZ6XfXLWiCaxSnRKL0iM64=
+
+Name: assets/resource/images/EP_5/suspect/suspect_kangchul_p1_face03.p
+ ng
+SHA1-Digest: MXh7vkww0/q/J3Q4fGVjrPug+3U=
+
+Name: assets/images/mainmenu/ui_main_ach_12.png
+SHA1-Digest: b6phNEHm5J+6exTDphjle7/WHaA=
+
+Name: assets/resource/images/EP_2/info/ep2_icon08.png
+SHA1-Digest: MPiR5u0XMr0tOBGO/bdRhaJ0Z2Y=
+
+Name: assets/resource/animations/room_ani/office/assets/project_lcd.pn
+ g
+SHA1-Digest: S5hazgk1GFnJjpx5sIRrT3g4kHM=
+
+Name: assets/resource/images/EP_0/bg/ep0_zoom04.png
+SHA1-Digest: 7J9oSgOq7kTjjyHUJaQPTF1q49c=
+
+Name: assets/resource/animations/char_face/minjae01.anim
+SHA1-Digest: OLX7rr++9wV+qTF1J5Yu60DH85Y=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_01.png
+SHA1-Digest: ykAizaeroEK0ugRQCuKsMW5gmW8=
+
+Name: assets/resource/animations/char_face/assets/huigul01.png
+SHA1-Digest: n04cqQ3IF8HJlLGEtsySg19sbFI=
+
+Name: assets/resource/images/EP_add1/info/add1_detail04.png
+SHA1-Digest: Fq32yZgHscd9NnaUY4mVczdnyv0=
+
+Name: assets/resource/images/EP_6/info/ep6_detail08.png
+SHA1-Digest: M6L165mTRzLnAEhXxh+Vf+3M2mU=
+
+Name: assets/images/standard/ui_std_suspect.png
+SHA1-Digest: mrf0JsyLrUIzQ6ewll1PNs+t6YA=
+
+Name: assets/resource/animations/char_face/assets/ujin01.png
+SHA1-Digest: G5gAae9B39PFQtkSFVBow6EtSPk=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_b
+ g2.png
+SHA1-Digest: /CjO7jO7N6bS2/kReYFOr1Ktm7M=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_05.png
+SHA1-Digest: TYKtpJrvKPBeAuImpeb9wcuo0sI=
+
+Name: assets/resource/images/EP_4/info/ep4_icon12.png
+SHA1-Digest: 7j2aQXOAEMPAC9cLzvGtApc6ue0=
+
+Name: assets/resource/animations/guide_ani/assets/welcom_giveup.png
+SHA1-Digest: +LMUkXkc2PrOo9jma56exQqnUUc=
+
+Name: assets/resource/animations/tuto/assets/ep2_03.png
+SHA1-Digest: bgUIyLiVBPYT9PH16D6vMduE6JM=
+
+Name: assets/images/office/ui_title_bar.png
+SHA1-Digest: NAXqjdcqMRcDWQ3pdtR4ZQ7YuVw=
+
+Name: assets/images/mainmenu/ui_main_epi_12.png
+SHA1-Digest: VJoa+/rNY4v+KCunlXYjvc8VC3Q=
+
+Name: assets/resource/images/EP_4/info/ep4_detail04.png
+SHA1-Digest: 6d4ZdBMIH7w47v4JPe9HefkLyPo=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p1_face2.png
+SHA1-Digest: ZFBjroP6DgR/gRXKJtDNQVvJBfc=
+
+Name: assets/resource/animations/room_ani/office/assets/led_bar_red.pn
+ g
+SHA1-Digest: 6pfcbTp4SDnK5/dls0w0f/zzkFA=
+
+Name: assets/images/costume/ui_cos_btn_ass_c_p.png
+SHA1-Digest: HZLD/m1qo++K7I9oaUCXsJNZBHw=
+
+Name: assets/resource/animations/room_ani/ui/alram2.anim
+SHA1-Digest: vrIzRTa+nYtcw+1eWMEHJ1O2G8M=
+
+Name: assets/resource/images/Char/assistantB/char_assi_b_face01.png
+SHA1-Digest: YFEtNDL4wiEgjrzQrbfUn77LSPs=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_lcd2.anim
+SHA1-Digest: XJBGKmmPj5bd4iS0migzX2mVlxs=
+
+Name: assets/images/costume/ui_char_ass_c_pos1_5.png
+SHA1-Digest: HLQuohQCaHsy7dsujcYxQ6KA/ag=
+
+Name: assets/resource/images/EP_1/info/ep1_icon05.png
+SHA1-Digest: yXSS4XxNCOmdqD6OO4tjV84K4oU=
+
+Name: assets/images/interrogation/ui_suspect_gage_bg.png
+SHA1-Digest: cZ23qqKECj3V9/sX6Zkt3f/93O0=
+
+Name: assets/resource/images/EP_add4/info/add4_icon04.png
+SHA1-Digest: eCS1e+DmbpB8wmLTyTf+qUQNuhA=
+
+Name: assets/resource/animations/char_face/assets/dasol02.png
+SHA1-Digest: 3+60xUBcKcyvV49Rhlk9/ijzWd8=
+
+Name: assets/resource/animations/room_ani/office/office_char_subin_act
+ .anim
+SHA1-Digest: 2mK76BrKK9E6R7HeSr7RuNlhDLQ=
+
+Name: assets/resource/images/EP_0/bg/ep0_01_obj02.png
+SHA1-Digest: ykVEtkQYDp5y3s+32BZcLoE8To0=
+
+Name: assets/resource/animations/guide_ani/assets/ui_office_move_touch
+ .png
+SHA1-Digest: h6ZwNb7QkcL1v6qkU2+CSsioj/w=
+
+Name: assets/resource/images/EP_add3/bg/add3_bg02.png
+SHA1-Digest: AW2d9RW4AWRRMgbIWaiN1CQbDTs=
+
+Name: assets/resource/images/EP_3/info/ep3_detail03.png
+SHA1-Digest: Z9Olvyrk6t9CZ+9d0AYsO/NGIxI=
+
+Name: assets/resource/animations/tutorial/assets/tuto_bg.png
+SHA1-Digest: Uwj9RndTU9NSB8dKF6YK/fVB/YE=
+
+Name: assets/images/costume/ui_cos_icon_ass_a_2.png
+SHA1-Digest: /hfnu1+m8nqYEvKHQ5FLCfMQ5rQ=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg1_obj01_403.png
+SHA1-Digest: pMdToYx/nFujXa7b4qIE+xUuwCE=
+
+Name: assets/resource/images/EP_0/bg/ep0_02.png
+SHA1-Digest: HGJVqt2AuTCDaj1ur3jj/IpCgl0=
+
+Name: assets/resource/animations/char_face/jihae01.anim
+SHA1-Digest: w6RYpXHLpk+CIqEEkv+6n73ro3U=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_face01.png
+SHA1-Digest: xVYWynTscxDIyuaggTX2+dOz+00=
+
+Name: assets/images/mainmenu/ui_main_memory_5.png
+SHA1-Digest: y9dLFvJQmdY1HP+vphixmBjyXRE=
+
+Name: assets/resource/images/Share/ui_move_left_100_2.png
+SHA1-Digest: +AfE6oJugn0bo0J1eOdlqR3k3bc=
+
+Name: assets/resource/images/Share/info/icon004.png
+SHA1-Digest: REvUG4Eyuf4tnFS0jwUDt6iDn7k=
+
+Name: assets/resource/images/EP_0/suspect/suspect_ara_p1_face01.png
+SHA1-Digest: x5eHkEsQHzWNmUlyargZUpyzXt0=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_right2.anim
+SHA1-Digest: rxts+IW0e4jQYiGsjcd9LTOrcSg=
+
+Name: assets/resource/images/EP_add4/info/add4_detail01.png
+SHA1-Digest: 1LJuT/4/sn/i/GEknc24LUGU2B8=
+
+Name: assets/resource/animations/tutorial/tutorial16.anim
+SHA1-Digest: S+DBA+5J2wgu/BrAsnk7JrR18Mg=
+
+Name: assets/resource/images/EP_6/info/ep6_icon08.png
+SHA1-Digest: loVJ7gD2v/GjEWCr51gkdI9ANZM=
+
+Name: assets/images/mainmenu/ui_main_col_title_achieve.png
+SHA1-Digest: uHaYEgW7b+ZtP8Hi4ipW0vxsphQ=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1.png
+SHA1-Digest: NTian+bxgIgI1TPv189gEUV+NrE=
+
+Name: assets/resource/images/EP_add3/info/add3_detail07.png
+SHA1-Digest: B1Ore56+JmfBqB6pzKcDIxgn8/Q=
+
+Name: assets/resource/images/EP_5/info/ep5_detail11.png
+SHA1-Digest: ESL4AovMMeYE6WqHtfVTvRtDvCU=
+
+Name: assets/resource/images/EP_0/info/ep0_detail04.png
+SHA1-Digest: 5E0M57Z/VYEYUufn+PvD8leiCDA=
+
+Name: assets/images/standard/ui_std_gameover_text1.png
+SHA1-Digest: Fc/7mTdaziT+mCTayJUBOj5Hv0g=
+
+Name: assets/images/interrogation/ui_question_life.png
+SHA1-Digest: uT38hknNb3yhz1151vfWD7vjpjQ=
+
+Name: assets/images/mainmenu/ui_main_btn1.png
+SHA1-Digest: BcBpNctweqKvWxAIlzJbVnoL8Ig=
+
+Name: assets/resource/animations/room_ani/office/assets/office_char_he
+ ro_act.png
+SHA1-Digest: 6pgGHF9I1dIfWDUceev1Z/6MsCI=
+
+Name: assets/resource/animations/char_face/mirae02.anim
+SHA1-Digest: jN1RUbNvP4rPG4BRzvNP+CgQU24=
+
+Name: assets/resource/animations/char_face/assets/jaeuk01.png
+SHA1-Digest: MZGZGKb0PHOh9vjxsOLkh6mPJpA=
+
+Name: assets/resource/images/EP_0/bg/ep0_zoom03.png
+SHA1-Digest: fFCoKLlmhn9lUaTR4L1X3UBjEhA=
+
+Name: assets/resource/animations/tutorial/tutorial14.anim
+SHA1-Digest: AM/HluNhx7pJkSYnaQAJx7ULc6c=
+
+Name: lib/armeabi/libcocos2d.so
+SHA1-Digest: 2TFVgrivA3ivPQ51Ajstoj/BVkk=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_mirae_p1_face03.p
+ ng
+SHA1-Digest: hN9PosNlr7w6zd3y48kNcJiJ5Hk=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg06.png
+SHA1-Digest: IFsmkUOfTJ4y3mrLro7QnJksELE=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg03.png
+SHA1-Digest: gH/73PK1/erdMGWq57YpjnQ81JY=
+
+Name: assets/animations/buttons/standard/assets/main_title_3.png
+SHA1-Digest: uefpsuhw1C3HE7YYsdyOxQaLUvM=
+
+Name: assets/resource/images/EP_1/bg/ep1_bg_obj03.png
+SHA1-Digest: lO8EVQFjDRxfUfAyDNEspnWXyIw=
+
+Name: assets/images/costume/ui_cos_btn_ass_a.png
+SHA1-Digest: tzabtg1Q2Ou+F3Jlz6AK5JRHYMo=
+
+Name: assets/resource/images/EP_1/info/ep1_detail09.png
+SHA1-Digest: HFmILPEBcVRWfwoTWYOFx2Zkstc=
+
+Name: assets/resource/images/EP_4/bg/ep4_zoom05.png
+SHA1-Digest: NXKXqY8sCRXU2c0xLVLINUx2faU=
+
+Name: assets/resource/animations/tutorial/tutorial01.anim
+SHA1-Digest: cU41D86HXQvMuJMxBsO1Ni6bAH8=
+
+Name: assets/resource/images/EP_5/suspect/suspect_hyuna_p1_face01.png
+SHA1-Digest: 3TsxpgduU8i7Xl0o8I2aBYlfGQU=
+
+Name: assets/resource/animations/tuto/assets/ans_bg.png
+SHA1-Digest: 1COZf57HFaIiACTeTDx3p+rzq6c=
+
+Name: assets/resource/images/EP_3/info/ep3_detail08.png
+SHA1-Digest: NvZJGT8jS19c1aUnKXNPfEyyapU=
+
+Name: assets/images/mainmenu/ui_main_epi_play.png
+SHA1-Digest: CpYW/cx8GazAdhhs9aKxkwl2uFQ=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn25.png
+SHA1-Digest: 34HteAgNLkMF9qD01/WOxlY/x48=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep1_ani1_bg.pn
+ g
+SHA1-Digest: tKb/+hydHTCKzmTYRfHk5ze2NRA=
+
+Name: assets/resource/images/Char/cop/char_cop_p3.png
+SHA1-Digest: hW4Fd7a0KMYPjLUACmWPLLA9kDA=
+
+Name: assets/images/mainmenu/ui_main_epi_flim.png
+SHA1-Digest: ztjTqMby7WOJyMytqFdTNYZQAYA=
+
+Name: assets/Icon-72@2x.png
+SHA1-Digest: nzGbgOfUj+KKHtNARkvcIpd3g6E=
+
+Name: assets/resource/animations/tutorial/assets/tuto_tch.png
+SHA1-Digest: tE/MOVBeblw4tjqxvWN4RYPNGRA=
+
+Name: assets/resource/images/EP_add1/info/add1_icon04.png
+SHA1-Digest: Ee5TTdbZp4M1b8u64Ofvnz43ia0=
+
+Name: assets/resource/animations/char_face/rina02.anim
+SHA1-Digest: JO+WK6+rOaOQOQj1RvzoKTD6DiI=
+
+Name: assets/images/system/ui_sys_option_off.png
+SHA1-Digest: U7Ta7LOQPYtK5MqWLxRRp3vNZXo=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn23.png
+SHA1-Digest: +tJFAF97F2Z4igi8dV1CuSQyw4Q=
+
+Name: assets/animations/buttons/standard/assets/base3.png
+SHA1-Digest: CYHA/7PW98ZXnmf9gCZ9MFzlJiY=
+
+Name: assets/resource/images/EP_3/suspect/suspect_songhee_face1.png
+SHA1-Digest: F0nlII33rfEk9FeOkJRD8DkQ8c4=
+
+Name: assets/resource/images/EP_1/suspect/suspect_eunbi_p1_face2.png
+SHA1-Digest: DVe3DnuUUXo7iaR6raMEFqwxUVY=
+
+Name: assets/resource/images/EP_add1/info/add1_icon02.png
+SHA1-Digest: SYRn++vYWOL+TfHB/FxQaRChalA=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_04.png
+SHA1-Digest: Qa16eafXf6fTt8J1HnObJxoOC98=
+
+Name: assets/images/costume/ui_cos_lock.png
+SHA1-Digest: /uRhzsQK/zHIsEAzDkZ/BJS2OUk=
+
+Name: assets/resource/images/EP_3/info/ep3_icon02.png
+SHA1-Digest: mnIUluz13EPkS17dJCg5QgEyikg=
+
+Name: assets/resource/animations/room_ani/office/assets/w630 h230.png
+SHA1-Digest: Fl/AIDpa/BgWeeNYdd9FZgIsVF0=
+
+Name: assets/images/standard/ui_std_gameover_face5.png
+SHA1-Digest: KLgOZP3gyf8W97VGleGX4jBdgGg=
+
+Name: assets/images/mainmenu/ui_main_banner_close.png
+SHA1-Digest: o/PHm8/G1xlAyzTqsdifOpzhju8=
+
+Name: assets/images/shop/ui_shop_buy.png
+SHA1-Digest: 5QTxwLSkH/8FSZkXHrE21ajssb4=
+
+Name: assets/resource/images/EP_2/suspect/suspect_suyun_p1_face02.png
+SHA1-Digest: 7I0RtS4XtLQHY66RaKU08ESKtqg=
+
+Name: assets/resource/animations/guide_ani/text_welcom.anim
+SHA1-Digest: JO0HF/5csla7/tm9yIKOvBKurrY=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg01.png
+SHA1-Digest: cd36J4A6Qib0agJCf/nn6fWJMxQ=
+
+Name: assets/resource/images/EP_add3/info/add3_icon09.png
+SHA1-Digest: bijsKbNAaFP+LmhAwgZsoiCnLoU=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn20.png
+SHA1-Digest: jv3AjnqyFXeBjziCjLSkfIPO+Uw=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg01_obj01.png
+SHA1-Digest: z7A8EaKuOp1Ph32XTdSvqSndOnI=
+
+Name: assets/images/mainmenu/ui_main_memory_13.png
+SHA1-Digest: jfyNYMDDdKBhTVYp+/2LhkUfRHo=
+
+Name: assets/images/inven/ui_inv_bg.png
+SHA1-Digest: SbEB2qdCZmyHCYQ9wm17TM+eHTA=
+
+Name: assets/resource/images/EP_5/info/ep5_detail16.png
+SHA1-Digest: AS+XQV7KcoFye5LirbjuIjco+I4=
+
+Name: assets/resource/animations/char_face/assets/eunbi02.png
+SHA1-Digest: PS9ASYT2XxfC0JICxhfw2R/XUno=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep6_4.anim
+SHA1-Digest: NKXgrLbWQmPx3t1kciDqBrRvuEY=
+
+Name: assets/resource/images/Char/assistantC/char_assi_c_face03.png
+SHA1-Digest: wZNt79rSq6W2S2C7hJ5sfgswV4M=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg1_obj01_401_2.png
+SHA1-Digest: uj7++66XyHH3/u5ICmOcd4n8qHE=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_edge.png
+SHA1-Digest: Wfxon/8aL4N1xOy4Ds3SFIfnXb0=
+
+Name: assets/images/costume/ui_char_ass_c_pos1_1.png
+SHA1-Digest: I7CdWcDP4ie342oIt6ZUkN/IFek=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sooyoun_p1_face01
+ .png
+SHA1-Digest: t955z1B0kr3gwxnY8VU7rxq1UZU=
+
+Name: assets/images/standard/ui_std_skip_p.png
+SHA1-Digest: Z64ZhzjLSzplyce1SKpmgYYW6IU=
+
+Name: assets/images/mainmenu/ui_main_ach_18.png
+SHA1-Digest: oAG+RfRkPAUSAZ9IkbVksZz95+Q=
+
+Name: assets/images/mainmenu/ui_main_epi_down.png
+SHA1-Digest: e4kaedbtWB52sngeq0LXaCk4U40=
+
+Name: assets/images/standard/ui_cursor_control.png
+SHA1-Digest: 3l/mL6RiLpwpVuDMStgsSwSJ3yU=
+
+Name: assets/images/interrogation/ui_objection_btn_p.png
+SHA1-Digest: b5N9knISrS9QPeQ6KEIWIi4ssfc=
+
+Name: assets/app.icf
+SHA1-Digest: GkKn68r18/AmiZgTgWxujTSvdlo=
+
+Name: assets/sound/bgm/snd_chapter_clear.mp3
+SHA1-Digest: GaZrQwqNK/WDp+aJXpi+rOlFimg=
+
+Name: assets/resource/images/EP_2/info/ep2_icon03.png
+SHA1-Digest: Eo50qsMtrgX/lJ6IRsfDONYrQAw=
+
+Name: assets/images/inven/ui_pop_arrow_left_p.png
+SHA1-Digest: Zg8MXby7CJH0r7TB4c7qqwC0KOk=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_right3.anim
+SHA1-Digest: rxts+IW0e4jQYiGsjcd9LTOrcSg=
+
+Name: assets/resource/animations/room_ani/office/assets/cha01.png
+SHA1-Digest: shjO3AwyjjErBC5UXC7RuJcNsH8=
+
+Name: assets/images/mainmenu/ui_main_col_btn4_p.png
+SHA1-Digest: 5IM+brbnURrBvWfAZkysTS79kes=
+
+Name: assets/resource/images/EP_5/suspect/suspect_ujin_p3.png
+SHA1-Digest: 3NsmxZ+iKDipgKS9WsKoDnQpZKg=
+
+Name: assets/sound/effect/snd_inven5.wav
+SHA1-Digest: pbnA/hJG9HfNYTEj5uJsm9oKLI4=
+
+Name: assets/images/costume/ui_char_hero_pos2_5.png
+SHA1-Digest: Z2ItQN7YkuOO9T0qPqsdYqlGVlg=
+
+Name: assets/resource/animations/char_face/dasol02.anim
+SHA1-Digest: E4JviDtgjczMXbfcwDdiloVLqHw=
+
+Name: assets/resource/images/EP_add3/info/add3_detail01.png
+SHA1-Digest: CkWTsU9HEztzx7sCq209V3+c+mw=
+
+Name: assets/resource/images/EP_4/suspect/suspect_huijae_p1.png
+SHA1-Digest: R94OZ/FB/j7VytgkBn8blPwi9So=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Y0yWCc/O9xgLTzsnrcLecxHb7I8=
+
+Name: assets/resource/images/EP_5/info/ep5_icon08.png
+SHA1-Digest: RkQSZozFYWCoFcd57dqbm14japM=
+
+Name: assets/images/interrogation/ui_objection_effect.png
+SHA1-Digest: bdKUbla0MyLR8cVjTsHqtyx+Rdc=
+
+Name: assets/resource/animations/char_face/assets/hyuna01.png
+SHA1-Digest: 6fa6eqPLjFJ7aho/OYxHRypC1GI=
+
+Name: assets/resource/images/Char/cop/char_cop_p1.png
+SHA1-Digest: FzVS+5QKbC52wCXKJE3pIXAhIDw=
+
+Name: assets/resource/images/EP_4/info/ep4_detail01.png
+SHA1-Digest: WuHVLa0+rFGz2zqAC1PgeFgZuVI=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn014.png
+SHA1-Digest: IgakNlEgLvHxJ/J0vJ8UZiiAw2k=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_char_ryu.a
+ nim
+SHA1-Digest: Fj+xb3hXSaQYnHtFnqwkm55hEdA=
+
+Name: assets/resource/animations/char_face/assets/sinae02.png
+SHA1-Digest: hYfIBfkDEmTR13zG39Sq6MT9lf4=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep0_1.anim
+SHA1-Digest: hZ7yGQddO1MjiR8vSEQDKSRjhF8=
+
+Name: assets/resource/images/EP_3/info/ep3_detail04.png
+SHA1-Digest: Yj32FpmAY2zWk35bvNVxxksolNk=
+
+Name: assets/Default.png
+SHA1-Digest: tzbHJOYICueuj5Xeg4Jy4QUcdn8=
+
+Name: assets/resource/images/EP_2/info/ep2_detail09.png
+SHA1-Digest: iLxVEwGhERj+LS98MRfCG7WmoRA=
+
+Name: assets/images/mainmenu/ui_main_col_hidden_scr_bar.png
+SHA1-Digest: 37T7/hH572QZX3Z3/LvTw9xlLxo=
+
+Name: assets/sound/effect/snd_btn3.wav
+SHA1-Digest: ZlwAWvV6rNeVpKcFms6Y85sqF24=
+
+Name: assets/images/mainmenu/ui_main_btn2.png
+SHA1-Digest: esQSV24xWNI8t9BxKmrIbPtwxYc=
+
+Name: assets/images/mainmenu/ui_main_btn3_p.png
+SHA1-Digest: qJlZtW76r9P9SmlUK+AvhAG1nVg=
+
+Name: assets/resource/images/EP_6/info/ep6_icon02.png
+SHA1-Digest: tDpH6NI/WYH0puf75Ic7ajgUblI=
+
+Name: assets/images/mainmenu/ui_main_epi_7.png
+SHA1-Digest: OVqvyB8y6/1y10dzBQehWnI4NMg=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_down2.anim
+SHA1-Digest: ZktGoMhpMEzLKP3pgUj4yBoiSM0=
+
+Name: assets/resource/images/EP_add1/info/add1_detail06.png
+SHA1-Digest: Ugs+TYlbyxIzJpPtHPsPb5xfq4E=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep6_04.png
+SHA1-Digest: gdZs2C5EIttjZChz+gLMC5di1sA=
+
+Name: assets/images/standard/ui_std_chapter_act4.png
+SHA1-Digest: FRruGYKpaYcQ/oR4ReHH4KldKBQ=
+
+Name: assets/resource/images/EP_3/suspect/profile_kloe.png
+SHA1-Digest: XT81giBDITSu/C7EN0d8/kdC0Ps=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom05.png
+SHA1-Digest: FVhbKm2iQkjSVupFoDfl5yCM/1w=
+
+Name: assets/images/costume/ui_cos_icon_ass_b_1.png
+SHA1-Digest: HCmqMrIKllWhDR8lNw2WFclXUKc=
+
+Name: assets/resource/animations/char_emotion/assets/emoticon02.png
+SHA1-Digest: Id9NsSgow93kjWUwRh9VssCRAxY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: vx6pDbuXUS8RoPKLl1IVtSLVi/I=
+
+Name: assets/resource/images/EP_2/suspect/pofile_suyon.png
+SHA1-Digest: imYqCCqrbPVpMWsd/wMr3bpz90Q=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn09.png
+SHA1-Digest: NCtQmtBvTSWQLZwx1URrUI9JAlQ=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_01.png
+SHA1-Digest: 2njTT47xCJuP9OkYP5p8wl57RJ4=
+
+Name: assets/resource/animations/guide_ani/assets/empty_black.png
+SHA1-Digest: YL6zhu77rMvNWZORK8fUbLHF44I=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_face06.png
+SHA1-Digest: 8lPYr6//wK7E5GPbEywC+l/mf80=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face3.png
+SHA1-Digest: +SZRneHmaVBb62Gb2+Zx2cLJ65o=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep0_04.png
+SHA1-Digest: BX8AqHwGBBmFcfW0i7aJa8TSLa4=
+
+Name: assets/animations/buttons/office_button/assets/office_icon_costu
+ me1.png
+SHA1-Digest: 95Ce/nbHPbEoR3hi5QUaGcnLdlg=
+
+Name: assets/images/inven/ui_pop_arrow_left.png
+SHA1-Digest: op5goqJ8sEfZC48BIfLYeDeHOLw=
+
+Name: assets/resource/sounds/FX/snd_e06.mp3
+SHA1-Digest: vjWFsYHZlQegHT3Rx1C2vsJ28MM=
+
+Name: assets/resource/images/EP_add4/bg/add4_bg01.png
+SHA1-Digest: Vqx5dWSpUa//5t7rE5ZlTOL6eYQ=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sinae_p1_face02.p
+ ng
+SHA1-Digest: yKf/6T0/3N1H8mZ4U+DJ/PCSS5E=
+
+Name: assets/images/mainmenu/ui_main_col_btn2.png
+SHA1-Digest: 3mxA31YgAnF9j9F7xRl/z81ZZFU=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p1_face1.png
+SHA1-Digest: 6yhGW1CoXk9iM1jLnfUzwgH4Erc=
+
+Name: assets/resource/animations/room_ani/office/project_kkoma.anim
+SHA1-Digest: QQYsZvXfsPUhyUsv3Rrqd/S6SuU=
+
+Name: assets/resource/images/EP_3/bg/ep3_bg1.png
+SHA1-Digest: jBVkUkVhW4CaPAPphQYVj52DUjQ=
+
+Name: assets/resource/animations/room_ani/office/assets/led_green.png
+SHA1-Digest: SkpCN47CbzcZlgNUUdk222ydnsE=
+
+Name: assets/images/standard/ui_std_skip.png
+SHA1-Digest: ICf+hFI+Hu1CcfKee7XKchxztgo=
+
+Name: assets/images/mainmenu/ui_main_memory_10.png
+SHA1-Digest: 1II5ElJxn6a21t/H7ZA0WjVKWiY=
+
+Name: assets/images/office/ui_assistant_choice_focus.png
+SHA1-Digest: 5heISLIssl7Y+aC2mKZrM4Vd5f0=
+
+Name: assets/resource/images/EP_3/info/ep3_icon03.png
+SHA1-Digest: 8dpDRRJfFskboyPCcPy2q21NIGY=
+
+Name: assets/images/standard/ui_std_system.png
+SHA1-Digest: 3tpUVJZ8jT+S1Cqhc5au5hoJZXc=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire02.png
+SHA1-Digest: WZk7WMloPJ6UarJ9UdXvg/bvaMU=
+
+Name: assets/images/standard/ui_std_back_p.png
+SHA1-Digest: RTksJ3PrrimOEl3jFF6SIE79xnU=
+
+Name: assets/images/standard/ui_std_close.png
+SHA1-Digest: Y+3fuyKGriOSzBXywe83pNrnmNM=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep4_2.anim
+SHA1-Digest: OUt8zmDNQS+miRHpJ/0l1xJNbFw=
+
+Name: assets/images/costume/ui_cos_equip_p.png
+SHA1-Digest: FYqeVul3Nju0Bel91fkPIJ/4Ays=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_minjae_p1_face04.
+ png
+SHA1-Digest: oN757HF5lD6ddYkl5RteiPNJTfI=
+
+Name: assets/resource/images/EP_6/info/ep6_icon12.png
+SHA1-Digest: 7fvlKS0FI5mCH+Lj4RqiWmiyAVs=
+
+Name: assets/images/mainmenu/ui_main_epi_ass_b.png
+SHA1-Digest: sypNVbHK6eriCxt7h1EjBya81uw=
+
+Name: assets/resource/animations/tutorial/tutorial02.anim
+SHA1-Digest: y9chkFgSX3H/JpuNoGmEx66gw6k=
+
+Name: assets/resource/sounds/FX/snd_f02.wav
+SHA1-Digest: jBH7AzEtv5CIkSwLw8/G/q69qyY=
+
+Name: assets/resource/animations/tutorial/tutorial05.anim
+SHA1-Digest: /F9rzeTcMQO05g1uhKFXGKjE++c=
+
+Name: assets/resource/images/EP_5/bg/ep5_zoom05.png
+SHA1-Digest: jthVpa7b8GRflA/7In6msux4Rs0=
+
+Name: assets/images/system/ui_sys_title.png
+SHA1-Digest: QzX3nuuuXIt7NDhRy+yHhR+eGF8=
+
+Name: assets/images/costume/ui_cos_buy_p.png
+SHA1-Digest: 1forTnU+ff9724w9vCGKUApMHDg=
+
+Name: assets/images/mainmenu/ui_main_epi_list_p.png
+SHA1-Digest: 6JXZhzaT3kJ3p5vnPXJ/Vj0b8O4=
+
+Name: assets/resource/images/EP_add1/info/add1_icon05.png
+SHA1-Digest: QRqpB7hkvy6JqzHH+pCF1GJX3FY=
+
+Name: assets/resource/images/EP_4/info/ep4_icon13.png
+SHA1-Digest: z2JxU+a1H+Euu+je62QDBLiK4TE=
+
+Name: assets/resource/images/EP_2/info/ep2_icon07.png
+SHA1-Digest: q3xt0Y6HZLR4T/YtjZpQbOWbjQg=
+
+Name: lib/armeabi/libcocosdenshion.so
+SHA1-Digest: sAfqIaOr2DOy1AzVW1Rux+6hzgg=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/cloud03.png
+SHA1-Digest: aryo2qWbRnN2OxCX+5OVLlEWwtc=
+
+Name: assets/resource/animations/char_face/assets/sinae01.png
+SHA1-Digest: SbyT2oxAAxcctTqIR0x/teu4LlU=
+
+Name: assets/images/costume/ui_cos_btn_hero_p.png
+SHA1-Digest: tj/QKp/+XUMA7jZUxLKJ1z+T1HM=
+
+Name: assets/images/costume/ui_cos_icon_ass_c_2.png
+SHA1-Digest: PoJJEsCZ3cPNyBYnx/45MWNS9SM=
+
+Name: assets/resource/animations/room_ani/office/assets/w400-h105.png
+SHA1-Digest: FVZW8xLDthbQt4ngcucg5SoF19o=
+
+Name: assets/resource/images/EP_add1/suspect/profile_minjae.png
+SHA1-Digest: u0CHstca2HSACSg7MNQs6w4Nf/k=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg3.png
+SHA1-Digest: VbNRqgC8C6WpuPaefXpz1rcRXVc=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep5_ani01.anim
+SHA1-Digest: 6UQieoREKvTjXQR76EwOq1SaHMQ=
+
+Name: assets/images/standard/ui_std_gameover_text3.png
+SHA1-Digest: gyiVdmHDN7/fV35JKIgCzelwB3s=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: 9WVbJCU3Y/+g9FdLE3UE/fB6wu0=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep0_01.png
+SHA1-Digest: j6fY6IdvYNugpOvMmmMlvpM2mzs=
+
+Name: assets/resource/animations/char_face/assets/sangwoo01.png
+SHA1-Digest: 8jdSqr/qjVZWwsyYoX0mXTUaN1M=
+
+Name: assets/images/standard/ui_std_gameover_face1.png
+SHA1-Digest: iXxMo5vw+AmI5GtrsFVm+7oUIq0=
+
+Name: assets/resource/images/EP_4/suspect/suspect_sangwoo_p1_face3.png
+SHA1-Digest: 0OPj5XR19QTVpP7grlZFAJO572U=
+
+Name: assets/sound/bgm/snd_gameover.mp3
+SHA1-Digest: JplpcfQUN/YeDVMBEGSJEUsT1Kw=
+
+Name: assets/resource/animations/tuto/assets/ep2_01.png
+SHA1-Digest: 4li8/+0uNm9Ukm+34K9NIXig63U=
+
+Name: assets/images/system/ui_sys_cos-hd.png
+SHA1-Digest: DY5+y5UXV20+pXrsuN6CFd+Mb9w=
+
+Name: assets/animations/buttons/direction/assets/useitem_effect03.png
+SHA1-Digest: iodMPt6wm0T3PjLdk+p/SzTcVuo=
+
+Name: assets/resource/images/EP_0/suspect/suspect_jiyoun_p1.png
+SHA1-Digest: Sq+iAVtR7wII484F/ZN5PnlVVjk=
+
+Name: assets/images/interrogation/ui_suspect_btn_p.png
+SHA1-Digest: vEk+R0I+pKrFhMZXMRyuHxh/gbo=
+
+Name: assets/resource/images/EP_2/bg/ep2_zoom01.png
+SHA1-Digest: 8zq1EV0VV8tGBw/MlfaAFzYO4yM=
+
+Name: assets/images/interrogation/ui_objection_bg.png
+SHA1-Digest: IpTUyipdS4anb3AKzW26ErpL/zQ=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom04.png
+SHA1-Digest: Ir3hbN3SHWpfb83tia5FnBmoKIk=
+
+Name: assets/resource/images/EP_add3/bg/add3_bg01_index.png
+SHA1-Digest: BVaKnCzpvroBwwqKQRN3MofSiQg=
+
+Name: assets/resource/sounds/FX/snd_f05.wav
+SHA1-Digest: noZu4XZ2Rh9bRd+exHUrzI/tsXI=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_t
+ alk.png
+SHA1-Digest: u5IM58SsFVc5AmYJt0Q1RY9jMJM=
+
+Name: assets/resource/sounds/BGM/bgm_talk2.mp3
+SHA1-Digest: kC1rReeuwM0D5Kl8q3Bb0zqSPmw=
+
+Name: assets/resource/images/EP_5/info/ep5_icon09.png
+SHA1-Digest: mNB0GZilVUdxXQJalCAL/HefXGM=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg05_index.png
+SHA1-Digest: dz7Y4zb1WxNefbSLGAFCtKVaf4c=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep5_02.png
+SHA1-Digest: uNyeTM04U0fHYCUuQXxA5OiGdR8=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg01_index.png
+SHA1-Digest: M8yA7wzuAZR9nbC2XgS6xR1l+/I=
+
+Name: assets/resource/images/EP_5/info/ep5_icon11.png
+SHA1-Digest: 8GqlAGv/MrE0v2qoo02+jCCEixc=
+
+Name: assets/images/mainmenu/ui_main_bg.png
+SHA1-Digest: WILApq2gcUAfhCtXqg57ZTJbwsQ=
+
+Name: assets/resource/images/EP_4/suspect/suspect_huijae_p1_face3.png
+SHA1-Digest: id/dqbgcLIFFk7QnfU0+F8Od+FI=
+
+Name: assets/resource/images/EP_add1/bg/add1_zoom02.png
+SHA1-Digest: oOy0Y+kEnatIn5lt0W8XivnwMvc=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_05.png
+SHA1-Digest: mGrNi/a6WD8kDk5vhiO+xIHQWP8=
+
+Name: assets/resource/animations/tuto/assets/ep7_05.png
+SHA1-Digest: P8M+tQDLqhUnGrBt0znQvwJgYl8=
+
+Name: assets/resource/images/EP_0/info/ep0_icon04.png
+SHA1-Digest: LGKtCUh61Mpq7CiC5kdA3zruDno=
+
+Name: assets/animations/buttons/direction/assets/useitem_watch.png
+SHA1-Digest: BHE9LdjlvMCNqNmB4hRy1aWqjUU=
+
+Name: assets/resource/images/EP_4/suspect/suspect_huijae_p1_face1.png
+SHA1-Digest: CtG7ed5Zk4a8GcDGMyQMNotzkqo=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_film02.png
+SHA1-Digest: 3tnkdPVvnFMc7ezAT5obEwTRDNY=
+
+Name: assets/images/mainmenu/ui_main_ach_2.png
+SHA1-Digest: Rc8HytUrwVJrsMtcf6fSOY+o09g=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_minjae_p1_face01.
+ png
+SHA1-Digest: az1+D0BWAgz4WkkBXWLyHi6ukH4=
+
+Name: assets/images/interrogation/ui_suspect_btn_n.png
+SHA1-Digest: F9XDVCHFk/xK8B/e8wLMZdHXlx8=
+
+Name: assets/animations/buttons/office_button/office_button_costume_to
+ uch.anim
+SHA1-Digest: MFt7qw4DwH/lqjZOjN5Qls0wi7o=
+
+Name: assets/images/costume/ui_cos_icon_ass_c_4.png
+SHA1-Digest: dJe7aKKp9lROfn5Y/WihnE842P4=
+
+Name: assets/resource/animations/room_ani/office/assets/button_3.png
+SHA1-Digest: k5XIG6hr1nUVbJBMGv4MqrZFtsg=
+
+Name: assets/images/mainmenu/ui_main_btn1_p.png
+SHA1-Digest: Q39NNUnSbbP1X53+uw8EEzLXLbA=
+
+Name: assets/resource/animations/char_face/assets/dongkun01.png
+SHA1-Digest: XlG4rt/3czB12IbeLPTAZLFqO5I=
+
+Name: assets/animations/buttons/direction/assets/useitrm_bg.png
+SHA1-Digest: X3JOHhARgY7MhXD9ykhHOGDpUR4=
+
+Name: assets/resource/images/EP_add1/info/add1_icon01.png
+SHA1-Digest: VuZd+LOIIrfFxQV6SFd+WsMbbVI=
+
+Name: assets/resource/images/EP_add4/suspect/profile_ryu.png
+SHA1-Digest: zwlaGJ+Znrm8pf6q5tyNDZdRFdg=
+
+Name: assets/animations/buttons/infobox/infobox_detail_release.anim
+SHA1-Digest: wxJWWHzzRkVW0vWZyv3TgPEIdTE=
+
+Name: assets/images/standard/ui_std_loading_sec.png
+SHA1-Digest: xB5HbUE63DZ+IwEB0GPqjAABXIA=
+
+Name: assets/resource/images/EP_1/info/ep1_icon02.png
+SHA1-Digest: kYRCxWLsvTicXX3YzE9GdfAdXb0=
+
+Name: assets/resource/images/EP_add1/info/add1_icon08.png
+SHA1-Digest: TfL4o/w+rYNfUK1RuiLXRpI/DOM=
+
+Name: assets/resource/images/EP_3/info/ep3_icon14.png
+SHA1-Digest: Se3ZdLN+gTFCdMlie4cKlZqu/FM=
+
+Name: assets/images/mainmenu/ui_main_memory_3.png
+SHA1-Digest: sUevC6FHwJSDz+XNfd0h4AqVEmg=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn10.png
+SHA1-Digest: XMnSjbJzP5cGESU+Pw9VFeWKqpg=
+
+Name: assets/resource/images/EP_add4/info/add4_detail04.png
+SHA1-Digest: UFz5+pz1aQctyFeJuJMi85wehzY=
+
+Name: assets/animations/buttons/question/question_btn_4.anim
+SHA1-Digest: BdQPMNuxUzJucfQv4j9kpp1bwkQ=
+
+Name: assets/images/standard/ui_std_clear_text.png
+SHA1-Digest: 6+m+oyKW9l2NkUAKHYafWzhsWwo=
+
+Name: assets/images/standard/ui_std_gameover_face3.png
+SHA1-Digest: jXWiQRlhKuqe5xAAd8chrfqSWtc=
+
+Name: assets/resource/images/EP_add3/suspect/profile_sooyoun.png
+SHA1-Digest: wICVEHEWjKFEdnVsPZi0pP/zjZw=
+
+Name: assets/resource/images/EP_2/info/ep2_detail11.png
+SHA1-Digest: ReVa/mpD+1ZCmiUD6Ppx5xwYsRE=
+
+Name: assets/images/standard/ui_std_logo.png
+SHA1-Digest: aEz0F7K0QOYCeV60r3GyA41s/W8=
+
+Name: assets/resource/animations/room_ani/office/assets/cha_kkoma01.pn
+ g
+SHA1-Digest: ccKSdAXYJyUMkJ9GT5LX1d8irik=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_add1_01.png
+SHA1-Digest: AVlkhTtCa+ULe+PhGMSTk8M6VTE=
+
+Name: assets/resource/images/Char/hero/char_hero_p1.png
+SHA1-Digest: HjOP7MOENXgUgRy2FKi1YqETMzA=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1_face02.png
+SHA1-Digest: ILmw325e1KDAJ/d/TIv52oDnke4=
+
+Name: assets/resource/animations/char_face/assets/huijae02.png
+SHA1-Digest: 1ojlEJ9k7S/QdtT1h+2imfW0YcE=
+
+Name: assets/images/mainmenu/ui_main_memory_22.png
+SHA1-Digest: aw0Cc4afVokX7AndNN0ak3PR600=
+
+Name: assets/images/mainmenu/ui_main_epi_8.png
+SHA1-Digest: vC7kAjzShFyTpI2r/mEjXLJy0OE=
+
+Name: assets/animations/buttons/office_button/office_button_move_activ
+ e.anim
+SHA1-Digest: +Dutv4SICOTy3FTqrByi4jJxzsY=
+
+Name: assets/resource/images/EP_4/info/ep4_detail10.png
+SHA1-Digest: JRUgLNudcJxh0DR4lDAZlkNDzHo=
+
+Name: assets/resource/animations/tuto/assets/ep4_03.png
+SHA1-Digest: sCYxTBa6cYX/sTZYFD9F6Evh+rQ=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg2_obj03.png
+SHA1-Digest: 8zGuBw4MnJSz0Qk9YYvSUlYWJTw=
+
+Name: assets/resource/images/EP_2/info/ep2_icon06.png
+SHA1-Digest: KVPuU/QdeRZLV4WbH7fnAqGWD9c=
+
+Name: assets/resource/images/Char/huynjung/acter_huynjung_p1_face03.pn
+ g
+SHA1-Digest: DMy9t9nIKS+K+j7izvxzo/wgKIY=
+
+Name: assets/sound/effect/snd_btn2.wav
+SHA1-Digest: h4nT+MB4HwZFmTsA3twN41tnYYo=
+
+Name: assets/resource/images/EP_3/info/ep3_icon08.png
+SHA1-Digest: AsqdKdAYMHZZfOPs0JH9+txN6TU=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep4_04.png
+SHA1-Digest: P1IBF17s+Lu2ORgm4eLg2oNinyw=
+
+Name: assets/resource/animations/char_face/assets/eunbi01.png
+SHA1-Digest: 9LJeq/rkTJwXWHYpK5jLZG3OeCU=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg1_obj01_401.png
+SHA1-Digest: w0pwzx7NAj8p/NmEcaxZc+t5ap0=
+
+Name: assets/resource/images/EP_add2/info/add2_icon03.png
+SHA1-Digest: +P9kRP20TelIXUjJRpiYri3iBl4=
+
+Name: assets/images/inven/ui_pop_ok_btn_p.png
+SHA1-Digest: g6GxNf9gxdrQJd8sqHXDAGUVFKg=
+
+Name: assets/resource/sounds/FX/snd_e02.wav
+SHA1-Digest: hCZGJ81SMKn3ibyckYPBrwYI7pE=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg01_obj02.png
+SHA1-Digest: f/ZCeD3IhGPKtu25MTrqUG7iHA8=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face0.png
+SHA1-Digest: uI9NWeHl9gMAhLObAFMY2uppsq0=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep3_03.png
+SHA1-Digest: I04sDe79cu975QKoA3sJbdvP+Yg=
+
+Name: assets/resource/animations/guide_ani/button_move.anim
+SHA1-Digest: Wv4KLATOMg8GMOcj1unOzJVUtLY=
+
+Name: assets/resource/images/EP_3/suspect/suspect_jihae_p1_face2.png
+SHA1-Digest: 3+0KjN1soRK9Xpa/XYSmiPYhybc=
+
+Name: assets/resource/images/EP_4/info/ep4_icon03.png
+SHA1-Digest: 5cvCPY8RmvBGOWpAkh9uIphsD/I=
+
+Name: assets/resource/images/Share/welcom.png
+SHA1-Digest: rwLxq71Fq8E5BDj7HvOjjuzEyq8=
+
+Name: assets/resource/animations/room_ani/office/assets/office_miji_ac
+ t.png
+SHA1-Digest: Y89IYevOwdMShqKsHBto/PCJqjw=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg01_02.png
+SHA1-Digest: /wQdjPXg5ohIxDSmf4WIeiUQFrI=
+
+Name: assets/images/shop/ui_shop_buy_p.png
+SHA1-Digest: viGhA05KcBKBGU/y+9D1LWjg3Wo=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_bg.png
+SHA1-Digest: qFQs5uCOZngqKlrwQ/dWPcr0bWw=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p1_face1.png
+SHA1-Digest: klKRuyRyeqH8SWOG7Ow+Fc+8sVU=
+
+Name: assets/animations/buttons/standard/talk_press.anim
+SHA1-Digest: gv4IcdzQL9cCm0Jdx84sgXknBMg=
+
+Name: assets/resource/images/EP_1/info/ep1_icon01.png
+SHA1-Digest: db2Dipi6cPVYz94iRMqlun6DSkM=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep6_03.png
+SHA1-Digest: 3kPBkfiD9FsHD+xK7EbmOUp2LAo=
+
+Name: assets/resource/images/EP_6/suspect/profile_jaemi.png
+SHA1-Digest: 6CueFX4DDs8RQVzKG56UUnIrE90=
+
+Name: assets/resource/animations/room_ani/office/assets/cha_kkoma02.pn
+ g
+SHA1-Digest: lCPT2ZdGgxhyfyua2hpeLS+ssZI=
+
+Name: assets/resource/animations/char_face/jitae04.anim
+SHA1-Digest: bSPhSChBu4HHHvq85CWlkL9M5lw=
+
+Name: assets/resource/images/Char/ryu/acter_ryu_p1_eye.png
+SHA1-Digest: jl8/kMHm/AS3Ofmau3TOMN8UgUE=
+
+Name: assets/animations/buttons/standard/assets/takl_press2.png
+SHA1-Digest: 0BVvyHr4DLQbbJdu9CrTdlPUnx8=
+
+Name: assets/resource/images/EP_add4/info/add4_icon02.png
+SHA1-Digest: GV1cF2Ls7vwO7s3E1LZykT1WQQs=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg03_index.png
+SHA1-Digest: 7T3BSeWluJrTa4ezPfKlLD7oxc8=
+
+Name: assets/resource/animations/char_face/assets/jitae03.png
+SHA1-Digest: YdjeSN+ZNmWoOyZbRNwk2ftzUGo=
+
+Name: assets/resource/animations/room_ani/ui/assets/ui_allow_left.png
+SHA1-Digest: ZrmlhatBtwsZ6e3UJJZPt48hZtQ=
+
+Name: assets/images/standard/ui_std_loading_bg.png
+SHA1-Digest: JKGcAdWn6ZD6F4e8RwqTa6QcWrM=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: wIYmBtX+xryqrtJLzqRWejMjnVA=
+
+Name: assets/resource/images/EP_2/suspect/suspect_suyun_p1.png
+SHA1-Digest: 4602LA8oxvTu1vbecV99g8gj0/M=
+
+Name: assets/images/standard/ui_std_system_p.png
+SHA1-Digest: wRec82a0k6KEpGtqKfvowTFyHm8=
+
+Name: assets/images/costume/ui_char_hero_pos2_2.png
+SHA1-Digest: 0xlWb4VJ/ZMkcb4jLXvDb4/rKPQ=
+
+Name: assets/images/mainmenu/ui_main_epi_list_s.png
+SHA1-Digest: UrNk6OvdtSFJibQK19EzSSvcQ8A=
+
+Name: assets/animations/buttons/standard/assets/main_title_4.png
+SHA1-Digest: Kx0uIQbMYzRRuyJTaDBDiYL0nyo=
+
+Name: assets/resource/sounds/FX/snd_f12.wav
+SHA1-Digest: bO8h7hXAKwWKax1znvO/j7B47t8=
+
+Name: assets/images/mainmenu/ui_main_ach_21.png
+SHA1-Digest: APdeMciiGq598WBThYGCii7TaUQ=
+
+Name: assets/images/mainmenu/ui_main_alert_1.png
+SHA1-Digest: ePmLvfWETiRQl7u8yC+J1j9vT18=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg02_index.png
+SHA1-Digest: AvEZPwK+8tUebrotUcv/L0V0tBI=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sinae_p1_eye.png
+SHA1-Digest: qM/n9xhWIAe09IYMymhxeESRSKY=
+
+Name: assets/images/standard/ui_help_hypnosis_p.png
+SHA1-Digest: AgJR2bTJ7LqJeBwku12kfg1J0pE=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg03_index.png
+SHA1-Digest: MIHbmvZNskfFoL0MadKp8eGNMFQ=
+
+Name: assets/images/costume/ui_cos_btn_ass_c.png
+SHA1-Digest: 8L5mSduqvGFSgrX6SKy8+T5/kLs=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd3_03.png
+SHA1-Digest: BbAlXExINqhcYH0lTvzXyPXVj3I=
+
+Name: assets/animations/buttons/office_button/assets/office_icon_move2
+ .png
+SHA1-Digest: Sr3vMIYidPveLU0LArOMgiUXAeM=
+
+Name: assets/resource/animations/tuto/assets/ep2_04.png
+SHA1-Digest: nTAH/R8jel1gQxuNgC2dAbnQcog=
+
+Name: assets/animations/buttons/standard/assets/main_title_8.png
+SHA1-Digest: q0M7iGA00XWWshIq2m5c4xnoEc0=
+
+Name: assets/resource/animations/char_face/jiyoun02.anim
+SHA1-Digest: rJLOXIEpolzo7TiPDW599B2anI8=
+
+Name: assets/resource/animations/room_ani/office/assets/w1124-h27.png
+SHA1-Digest: os/AUo5d0lXpim97c9ucIrhm/FQ=
+
+Name: assets/images/interrogation/ui_pointout_btn.png
+SHA1-Digest: ptMw0w7+PLJzQo7SPnYZQsmuP/4=
+
+Name: assets/resource/animations/char_face/assets/jihae01.png
+SHA1-Digest: txSStUguVKkU7VCLNoUOYmXoxqc=
+
+Name: assets/resource/images/EP_4/info/ep4_icon04.png
+SHA1-Digest: aO2Z3e29FY56TNzD66mXw06WryI=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sooyoun_p2.png
+SHA1-Digest: To3RJzJBxtLCLwERHHyAbVYH6xU=
+
+Name: assets/resource/animations/char_face/huigul01.anim
+SHA1-Digest: +pbcxxVVasq03UN6cHVa8FkQGak=
+
+Name: assets/images/costume/ui_cos_icon_hero_1.png
+SHA1-Digest: HCmqMrIKllWhDR8lNw2WFclXUKc=
+
+Name: assets/resource/images/EP_3/info/ep3_detail06.png
+SHA1-Digest: mjuKe+FQqQTcvdVtb729oe7oOLQ=
+
+Name: assets/resource/images/EP_5/info/ep5_detail08.png
+SHA1-Digest: ohmIYOPjxYJfsCPUPWhU5dp6YRE=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom06.png
+SHA1-Digest: 9Pl134YdbpQp1h+JGncANGz0L4I=
+
+Name: assets/resource/images/EP_3/info/ep3_detail12.png
+SHA1-Digest: qr4s8fo/KaiK5fW6iQpIBwmQmio=
+
+Name: assets/resource/images/EP_add2/info/add2_detail02.png
+SHA1-Digest: oj9HGcD3BvFdeGDDNrYmXDVJhYo=
+
+Name: assets/resource/images/EP_add3/bg/add3_bg01_obj01.png
+SHA1-Digest: XqlrXSpIy49sMNMNge1yMyWFexc=
+
+Name: assets/resource/animations/char_face/jiyoun03.anim
+SHA1-Digest: iF0E1Tuk1V13fFqVEGonS/I8DbE=
+
+Name: assets/images/office/ui_assistant_choice_c_info.png
+SHA1-Digest: PgH908JIHtvNtdRHu4shmgkBKGw=
+
+Name: assets/resource/images/EP_4/info/ep4_detail07.png
+SHA1-Digest: Gzzty5AyEAq4aBNlnPl576BvAVk=
+
+Name: assets/resource/animations/room_ani/office/office_char_miji.anim
+SHA1-Digest: seFhyLaf/FTZhYp99AmOL958xFw=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd_cop01.png
+SHA1-Digest: +139HAYwDQxNLnVAckL9ZK7VQ9g=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire07.png
+SHA1-Digest: I9Cb7+WCahtBiuyLlj95SnasvfA=
+
+Name: assets/resource/images/EP_5/info/ep5_detail02.png
+SHA1-Digest: Q8i3UuKALFh2mzPDn6ZtSt0zFbg=
+
+Name: assets/resource/images/EP_add3/bg/add3_bg02_index.png
+SHA1-Digest: PwdAaKJw08NlkEZ5R4RhihXBnPo=
+
+Name: assets/resource/images/EP_5/info/ep5_icon03.png
+SHA1-Digest: KVPuU/QdeRZLV4WbH7fnAqGWD9c=
+
+Name: assets/images/costume/ui_cos_icon_ass_b_4.png
+SHA1-Digest: ObbOnjhVtctYIjpnDeQFSmlY87I=
+
+Name: assets/resource/images/EP_add2/info/add2_icon06.png
+SHA1-Digest: r/PZ8wO08ZQtDh4GvkDdHYdjCPM=
+
+Name: assets/animations/buttons/standard/ani_std_decide_s.anim
+SHA1-Digest: +29FPPAzcvW/szMEnmRHxTxE8xQ=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep3_1.anim
+SHA1-Digest: G/Nive1gs2mO503NmLNi6R90rlU=
+
+Name: assets/resource/images/EP_5/info/ep5_detail04.png
+SHA1-Digest: kNf6lykqPcopgdTbSr9nSB99FIc=
+
+Name: assets/resource/images/EP_6/suspect/suspect_dongkun_p1_face03.pn
+ g
+SHA1-Digest: /cWQ0jvQ9utGtGAuTJ/Ppxvxreg=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep3_fire.anim
+SHA1-Digest: SKso+f7ttxSA1RQnUt2O/V213HM=
+
+Name: assets/animations/buttons/standard/ani_std_inven_s.anim
+SHA1-Digest: saelN717ZBOyjMY2ApFKbSQWRDE=
+
+Name: assets/images/mainmenu/ui_main_epi_4.png
+SHA1-Digest: HBF7QLpy9hNLqSINZ5xDOASrXYU=
+
+Name: assets/resource/animations/char_face/assets/huigul03.png
+SHA1-Digest: 5J/QBvy3GH9t6tjDZOnwPbO1R2w=
+
+Name: assets/resource/images/EP_1/info/ep1_icon09.png
+SHA1-Digest: /QsVwzjIx4epSFFPmvcKr14vLLE=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep5_1.anim
+SHA1-Digest: bL9W2sv76vqPxqfrjn1wE6JeSds=
+
+Name: assets/images/inven/ui_pop_yes_btn_p.png
+SHA1-Digest: ZEjRnpB48wBlIOsyYEwyvXSlFhQ=
+
+Name: assets/resource/images/EP_add3/info/add3_detail03.png
+SHA1-Digest: h53w+zsq/t1+/L5IuN7TGsN/PQk=
+
+Name: assets/resource/images/EP_1/suspect/suspect_eunbi_p2.png
+SHA1-Digest: 8l40zW3B67IokA9aJST8fuXIgN8=
+
+Name: assets/resource/animations/char_face/ujin01.anim
+SHA1-Digest: 0yKnxMEEMSl6zRUUAwRy4RZIyhY=
+
+Name: assets/resource/animations/tutorial/tutorial17.anim
+SHA1-Digest: 1BIzrKpkjSQXVh68Geu1ad4Upa8=
+
+Name: assets/resource/images/EP_6/info/ep6_detail11.png
+SHA1-Digest: 2YFmlgjdZcukFozVE5N8Zelx1Zs=
+
+Name: assets/resource/animations/char_face/assets/kangchul01.png
+SHA1-Digest: z8Sr8u1YsDYv9R79XVdm4GMviaY=
+
+Name: assets/images/mainmenu/ui_main_epi_1.png
+SHA1-Digest: TnXCOrWJvbplWWzWXkagFN8fay0=
+
+Name: assets/images/mainmenu/ui_main_alert_2.png
+SHA1-Digest: mhxSLfKgg/+F1phXbl4fDpYAOZg=
+
+Name: assets/animations/buttons/sys_button/allow_right.anim
+SHA1-Digest: P4gzvMWlG1C3xk0eTvmLMHxYA/k=
+
+Name: assets/resource/animations/char_face/teagoon01.anim
+SHA1-Digest: C3lE8z8YxT5m6tfHn0N99k4AAkY=
+
+Name: assets/images/standard/ui_talk_cox_cur.png
+SHA1-Digest: wAqxUdKQfniaGzYDp/AsxN8wBv4=
+
+Name: assets/resource/images/EP_4/info/ep4_detail05.png
+SHA1-Digest: YQ+ldaZHake7bS0JUOnOAAkZo/w=
+
+Name: assets/images/shop/ui_shop_title.png
+SHA1-Digest: B5+oCJmFiXKxW6qqdh150Cf5RJA=
+
+Name: assets/resource/images/EP_add2/bg/add2_zoom01.png
+SHA1-Digest: GFpDfDb5umZkzrduAK3jZjDUTXw=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg01_index.png
+SHA1-Digest: U/r+OZHrygHOo45n5I9RWY682NE=
+
+Name: assets/save_version.txt
+SHA1-Digest: tlifxqsNyCzxIJnRwtQKuZToQQw=
+
+Name: assets/animations/buttons/infobox/assets/infobox_focus_choise1.p
+ ng
+SHA1-Digest: KMKS/ixQO2Yd16gzfsY3QsbWZJU=
+
+Name: assets/resource/images/Share/ui_move_left_50_2.png
+SHA1-Digest: 1+BbQARcLCxH1v9pFf5bVSj80q8=
+
+Name: assets/resource/animations/char_face/assets/sonhhee01.png
+SHA1-Digest: B4eUvWgaoJN2Ucvug+2q5ppdUxs=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_b
+ g3.png
+SHA1-Digest: XGyCERvPbebNFOhQJucisW2kK0s=
+
+Name: assets/resource/images/EP_add3/info/add3_icon07.png
+SHA1-Digest: fFdJ+p0tcswQ/EMlthk3Q/WIe7s=
+
+Name: assets/resource/images/EP_6/info/ep6_icon07.png
+SHA1-Digest: 208rj+GAG5OhaHEzxhAt8GQRu4Q=
+
+Name: assets/images/system/ui_sys_option_vib.png
+SHA1-Digest: kMhPk8OICHHvDwVdu6opj5RECH0=
+
+Name: assets/SaveDBNew.database
+SHA1-Digest: 8uwKzP6BI2oaLJntF6bf4SwwouM=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg02.png
+SHA1-Digest: hzUJcSHTav8FYeW5DBkmgd+QX0E=
+
+Name: assets/resource/images/EP_3/bg/ep3_bg2.png
+SHA1-Digest: 4aC4CJ7+5xn0YzTC8g9RG47Ofwc=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom02.png
+SHA1-Digest: LeoW4GLT1aewbEBIQQEDwGHiqyI=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep2_2.anim
+SHA1-Digest: yaRIa3UUHkNv1VuVGhMBxbt9+WQ=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep3_3.anim
+SHA1-Digest: kdrZccvD/A4lCde7jP+mFDUtPPE=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_slot_eff
+ ect1.png
+SHA1-Digest: i9yzKqJLgcIftIKzAxBI1HwxaqU=
+
+Name: assets/resource/animations/char_face/assets/ara01.png
+SHA1-Digest: 5Bbp9kS2hh8nKa0ssBwgtmhvOtY=
+
+Name: assets/images/interrogation/ui_question_p.png
+SHA1-Digest: A/UywEz1GVvaDtLRe8nl0sEQ1LY=
+
+Name: assets/images/standard/ui_std_suspect_n.png
+SHA1-Digest: iBsjk6SrxcySgu821VSzmyWFUOA=
+
+Name: assets/images/costume/ui_cos_icon_ass_a_1.png
+SHA1-Digest: HCmqMrIKllWhDR8lNw2WFclXUKc=
+
+Name: assets/images/mainmenu/ui_main_ach_24.png
+SHA1-Digest: jVEngXEf3JVinDBNYV8X9xsi2W8=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep2_ani3.anim
+SHA1-Digest: 73Ek7bCTcQjaR7qm7jI5kwB/mm4=
+
+Name: assets/resource/images/EP_5/suspect/profile_jaeuk.png
+SHA1-Digest: WflNIrUgiAVm/wZgpKUmp9jN6EY=
+
+Name: assets/resource/images/EP_3/info/ep3_detail07.png
+SHA1-Digest: MKzOQhRixJqwMcBfnd6q5wv234A=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_07.png
+SHA1-Digest: kp1PUcuz7Vyei+YJfjq+8+K348M=
+
+Name: assets/images/costume/ui_char_ass_a_pos1_4.png
+SHA1-Digest: L9+Ib/EKooW1HnjOy4YoQAhXd9k=
+
+Name: assets/images/costume/ui_cos_btn_ass_b_p.png
+SHA1-Digest: kE/mk6rUilsArFm3JG+1pOoQ/pE=
+
+Name: assets/resource/images/EP_1/bg/ep1_zoom03.png
+SHA1-Digest: 5q86j+3+5MfMQPlHwWJDhWAk/ug=
+
+Name: assets/resource/images/EP_add2/info/add2_detail03.png
+SHA1-Digest: hRAcOvBsvtCBfbKjky/X2EvGwQQ=
+
+Name: assets/resource/sounds/FX/snd_e06.wav
+SHA1-Digest: qYqdO94Amjne72Z25t2iJTVCWRc=
+
+Name: assets/resource/animations/room_ani/office/assets/office_assi_si
+ na_act.png
+SHA1-Digest: VIX8M0LdH/oINrKczIuyXNS1kJk=
+
+Name: assets/resource/images/Char/assistantB/char_assi_b_face03.png
+SHA1-Digest: sSlXCZmjME3CzaNSIhj+C9J9jtY=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sinae_p1.png
+SHA1-Digest: M+k304gF+S1z0azC48BW4GruZAg=
+
+Name: assets/resource/images/EP_6/info/ep6_icon01.png
+SHA1-Digest: vVHnud9iGrrAuyPZHyj3b/yatjU=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p1_eye.png
+SHA1-Digest: t5oxtk7ZS0b+tuAz1lPJWGvUGec=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom03.png
+SHA1-Digest: cRrxJ3Hy3yobamP/gYSTPYyTMpg=
+
+Name: assets/resource/images/EP_5/suspect/suspect_hyuna_p1_face02.png
+SHA1-Digest: tlCYbvOsXKxzFXn0WYEJxwgoqPo=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep3_ani03.png
+SHA1-Digest: V3Ip2K65zZncMjJnzq6BIWLB31E=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn015.png
+SHA1-Digest: dhFZ83HbRtuhIiCwBR67taTbyEQ=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom07.png
+SHA1-Digest: MXN4m0MRCymvZsGctuf7hi92k8c=
+
+Name: assets/animations/buttons/office_button/office_button_costume_re
+ lease.anim
+SHA1-Digest: NcQJDpqbt797oz+lhXRG/OCqS4k=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn29.png
+SHA1-Digest: dSgs4ki+/tVyF8/6v4LgzrcigL8=
+
+Name: assets/resource/images/EP_6/info/ep6_detail13.png
+SHA1-Digest: Mrg/plrJ/dt7boJktQINziHWk6E=
+
+Name: assets/images/inven/ui_inv_detail_bg.png
+SHA1-Digest: A+F9vWBbdOKoAAE8jjZWV8udQkw=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn01.png
+SHA1-Digest: SJkK1lDoXLiSizZ9lD7kvEi9Xtw=
+
+Name: assets/resource/animations/char_face/assets/minjae01.png
+SHA1-Digest: MUPH4XLQ32tfH1TqadWHwMnflw8=
+
+Name: assets/resource/sounds/FX/snd_f06.wav
+SHA1-Digest: UKym2T5ELlggccjCQCdKuv7nZCc=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn04.png
+SHA1-Digest: MAfGbK7DMPqAUke7d7KTCka2394=
+
+Name: assets/images/shop/ui_shop_select.png
+SHA1-Digest: iXX0a5cnhcZMGYiVrGA1wqH4Mo4=
+
+Name: assets/resource/images/EP_3/info/ep3_detail13.png
+SHA1-Digest: vb4DzfPQ8M1mmQuKOOObqwLx4ao=
+
+Name: assets/resource/animations/char_face/dojin01.anim
+SHA1-Digest: H/aJUGT0n4G4OFDENhs92qRNSmM=
+
+Name: assets/resource/animations/char_face/assets/dojin02.png
+SHA1-Digest: CSvmm4p8zg6U55XhpIuKc2RbZqg=
+
+Name: assets/animations/buttons/standard/assets/main_title_11.png
+SHA1-Digest: oMNlqSIBa5OMQ6IcTY4ffG7pt2A=
+
+Name: assets/resource/images/EP_3/bg/ep3_zoom01.png
+SHA1-Digest: R6xOSK1SyrtOi9/y3V0G1xkVnmU=
+
+Name: assets/resource/images/EP_4/info/ep4_detail11.png
+SHA1-Digest: gGxojpmio2Vifyukf6xLZvGAKpM=
+
+Name: assets/resource/images/EP_0/bg/ep0_zoom02.png
+SHA1-Digest: r7LNy5VLAY4KpXZDcATXb1jwGbo=
+
+Name: assets/resource/images/EP_2/info/ep2_detail10.png
+SHA1-Digest: nSux461h12Tc1kBByG/+t+J9HyM=
+
+Name: assets/resource/images/Char/assistantC/char_assi_c_face01.png
+SHA1-Digest: FKp+OiIiAmhbvE2QsyEKKPY+2tc=
+
+Name: assets/resource/images/EP_1/info/ep1_detail07.png
+SHA1-Digest: hJBk2cMaY51yqSt3xc7YTFlh688=
+
+Name: assets/images/mainmenu/ui_main_col_title.png
+SHA1-Digest: oqx00UGsT0/cKL+mrBOSsq7EQjI=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sinae_p1_face03.p
+ ng
+SHA1-Digest: umtuPyNy5Afod5XFeXv/ZlcciLE=
+
+Name: assets/resource/animations/tuto/tuto_ep2_02.anim
+SHA1-Digest: Xa88nS3DOLEhbhCGGYhXgl+GmFY=
+
+Name: assets/resource/images/EP_2/bg/ep2_bg_obj01.png
+SHA1-Digest: WLob3N2V+9bizBp8o5l3I5FTDnE=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep0_2.anim
+SHA1-Digest: JM70cgTI36pKXp/3gNL/dTrwajs=
+
+Name: assets/images/mainmenu/ui_main_memory_17.png
+SHA1-Digest: QfLzWabwlbHB3yxnBHLk1UX5ZXw=
+
+Name: assets/resource/images/EP_0/bg/ep0_01.png
+SHA1-Digest: CEftguk6GiP20rgkcdHaMWy5Nn0=
+
+Name: assets/sound/effect/snd_search.wav
+SHA1-Digest: /bV8nKri61eRvnsFY43gAoMeWlg=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg03_index.png
+SHA1-Digest: ebnI7oMWbfDaZNPfHMebEDwQaRw=
+
+Name: assets/resource/images/EP_add3/info/add3_detail04.png
+SHA1-Digest: O9xRJkLMRRtReaISoyiav0B2uXw=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_face04.png
+SHA1-Digest: 0d4LltHX/fuHCzIwWqSAoWeztMo=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_lcd3.anim
+SHA1-Digest: 68qLWiXqbbQB1Wvpt5IhFEacncU=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg05.png
+SHA1-Digest: CaTqceDot3pkcBtcjElrbn9+ZVQ=
+
+Name: assets/resource/animations/room_ani/office/project_cop.anim
+SHA1-Digest: cDVq7YuO1iLcYIlZ6GAfnMQ7CIU=
+
+Name: assets/images/system/ui_sys_option_bgm.png
+SHA1-Digest: Z4V1GoBRc69AqglJA3mtyhf8XsE=
+
+Name: assets/images/standard/ui_std_gameover_face4.png
+SHA1-Digest: rf71f8z/1JoK8jBx3E/W+9cFGcY=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep5_ani02.anim
+SHA1-Digest: F3/ScULzmyivm7Wna80UEWDAXw4=
+
+Name: assets/resource/animations/char_face/eunbi01.anim
+SHA1-Digest: Kup7NHsyhQ06j7xG5/+w1B3gtpI=
+
+Name: assets/images/inven/ui_inv_btn_slot.png
+SHA1-Digest: tDPleL9Hpms8KjC31gbZdhDJDWA=
+
+Name: assets/resource/images/EP_0/suspect/suspect_ara_p1_face04.png
+SHA1-Digest: 8aJ3KCgBIawKSP3ZrPAmfcH5ET4=
+
+Name: assets/images/mainmenu/ui_main_epi_ass_a.png
+SHA1-Digest: shl87+BrFdreF8+TWMMAnAjksHQ=
+
+Name: assets/resource/images/Char/miji/acter_miji_p3.png
+SHA1-Digest: bGw80NfIFJkkrZnngrViUxKRp9g=
+
+Name: assets/resource/images/Office/office_bg.png
+SHA1-Digest: RzhpDqezqVFVFT8lV1ZICQEbhGo=
+
+Name: assets/resource/images/EP_6/suspect/suspect_huigul_p1.png
+SHA1-Digest: jWKxszQuW60knKuu83YhpWaJib8=
+
+Name: assets/images/mainmenu/ui_main_epi_down_s.png
+SHA1-Digest: QtUYUzGaCocaymVJLJv2p2UpilA=
+
+Name: assets/resource/animations/tuto/assets/ep4_05.png
+SHA1-Digest: JjfA5+yGlzUWmiX1YzXIjsaAEEA=
+
+Name: assets/Icon.png
+SHA1-Digest: PYBYmnb9MCFgheyWrID1M3sKmLU=
+
+Name: assets/images/standard/ui_talk_box_touch.png
+SHA1-Digest: 8uxc/I1R9E3Z/V7JcpU5p4CkIhc=
+
+Name: assets/animations/buttons/sys_button/assets/allow_left_edge.png
+SHA1-Digest: tG8zLBGQT5tsoq5Cnus7Bk8ptL0=
+
+Name: assets/images/mainmenu/ui_main_ach_15.png
+SHA1-Digest: MLlXVYLuObKfT+s992kQyERsTN0=
+
+Name: assets/resource/images/EP_4/info/ep4_detail09.png
+SHA1-Digest: 6eoD3G0NNAQMaV5QN/gRo4hGtEo=
+
+Name: assets/images/standard/ui_help_hypnosis_s.png
+SHA1-Digest: W5ob1/4YE8yFUGe8zK92Fsqs6+A=
+
+Name: assets/resource/images/EP_3/info/ep3_icon04.png
+SHA1-Digest: 5VAGakqWOhcFirguzt9UDtJ3Aac=
+
+Name: assets/animations/buttons/question/assets/question_effect1.png
+SHA1-Digest: H7Loh3AKiRSY1dSH1vU+AKPhAU4=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_02.png
+SHA1-Digest: 1Kzu9ESB1VadkE0WwGRwt4ww8rE=
+
+Name: assets/images/system/ui_sys_retry_p.png
+SHA1-Digest: uPaM5amw1C8zLwGVHbIaGptenMk=
+
+Name: assets/resource/images/EP_add4/bg/add4_bg04.png
+SHA1-Digest: IFXOREQ07hXaA6ebwzJdtZWGL1w=
+
+Name: assets/resource/images/EP_6/info/ep6_icon14.png
+SHA1-Digest: i21c+aw9o5VY+Mz5e8rc3ndxw80=
+
+Name: assets/resource/images/EP_3/bg/ep3_bg2_index.png
+SHA1-Digest: 7O+aLH/huMV5ylBQr//BnE1Y64w=
+
+Name: assets/resource/images/EP_5/suspect/profile_kangchul.png
+SHA1-Digest: 4sW5PSYaGGyAKgtT++gueKZ4JUw=
+
+Name: assets/resource/images/EP_6/info/ep6_icon10.png
+SHA1-Digest: 16tQstMkF4WS1PpIuEQ/pE0k8Cw=
+
+Name: assets/resource/animations/room_ani/office/assets/w1108-h254.png
+SHA1-Digest: vrm3aaWh//Cz1If3h2cetawKR6I=
+
+Name: assets/resource/sounds/BGM/bgm_serch1.mp3
+SHA1-Digest: vQl16oJSHoa3QhDM6+5fCDaj5+M=
+
+Name: assets/resource/animations/room_ani/office/assets/cha03.png
+SHA1-Digest: O1TqDE6Cw5yoE3Hr985vdyZN1UY=
+
+Name: assets/images/costume/ui_char_hero_pos2_1.png
+SHA1-Digest: r3RZMbkFkhBugtfaBqY6e5TEtxo=
+
+Name: assets/resource/images/Char/assistantA/char_assi_a_face01.png
+SHA1-Digest: MmuIGw36o4p84XwFgzC3HLGBuOk=
+
+Name: assets/resource/animations/room_ani/office/office_char_yeji_act.
+ anim
+SHA1-Digest: 1aziusoixSui3JGoyhtbFju3PUY=
+
+Name: assets/resource/animations/char_face/ara02.anim
+SHA1-Digest: 1BWYXzYcmDq3ZFDSC6OlujosQUg=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep5_room_ani2.
+ png
+SHA1-Digest: JuaoCvwAk/gzb+LzjsAGF4/SUZ8=
+
+Name: assets/resource/animations/char_face/assets/rina02.png
+SHA1-Digest: DdlmAPXIZ8bvRaPgY6jG1dEfVgU=
+
+Name: assets/animations/buttons/infobox/infobox_slot_success.anim
+SHA1-Digest: C5ftsUuELuJzaAG76sUJXDoRfI8=
+
+Name: assets/resource/images/EP_add3/info/add3_detail10.png
+SHA1-Digest: FdfdJa4G8EqCfDbnXgkK1C6u86g=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep3_ani01.png
+SHA1-Digest: W3bgEIpz0b0x5mnKxDxgOCAzgpc=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_effect3.p
+ ng
+SHA1-Digest: 8+m8u4e4XFVmavHOxD7uIbeu96o=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg01_index.png
+SHA1-Digest: DzXuHYkwyhXgmLOCG7w6dC3xM/g=
+
+Name: assets/resource/images/EP_add4/info/add4_icon01.png
+SHA1-Digest: KoDGUBi7uWDCTwSntDbUmMfRz7M=
+
+Name: assets/resource/images/EP_5/suspect/suspect_ujin_p2.png
+SHA1-Digest: iy5xaHFqX2NiYc8q1AbN3eGaRuk=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_down.anim
+SHA1-Digest: ZktGoMhpMEzLKP3pgUj4yBoiSM0=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p1_face3.png
+SHA1-Digest: MSSjssp+4eGr1Z4OlMhuGfiyu8o=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep1_bg1_ani_li
+ ght.png
+SHA1-Digest: 7NcODx/iN+FVF2khRZqRWZyasIw=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_char_kkoma
+ .anim
+SHA1-Digest: yFuYS/njCsLRa+xU3n8NB/O3Qo4=
+
+Name: assets/resource/images/EP_5/suspect/suspect_hyuna_p1_face03.png
+SHA1-Digest: lXjeOP+/5x7V1odWKeJIUCcbcSg=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep6_2.anim
+SHA1-Digest: Ir0up3TskQBNYHslT1CdDNFgez4=
+
+Name: assets/images/shop/ui_shop_btn_p.png
+SHA1-Digest: Ue973sojRNTsu+O1r8pxCBWGt8Q=
+
+Name: assets/resource/animations/char_emotion/character_effect _miji01
+ .anim
+SHA1-Digest: JefvYk/5GhyKieJ+yvHWxpReBAM=
+
+Name: assets/images/costume/ui_cos_btn_s.png
+SHA1-Digest: MzLNOa41fS/61XnVZ6oJVdwu4GM=
+
+Name: assets/images/standard/ui_std_retry_p.png
+SHA1-Digest: OPsdtvAvQlCRQsqT8FSscp9Z1FM=
+
+Name: assets/resource/images/Char/cop/char_cop_p2.png
+SHA1-Digest: Y9f8wgqj5AoQr34teYTmcETtoe8=
+
+Name: assets/resource/images/EP_2/suspect/suspect_jitae_p1_face3.png
+SHA1-Digest: R0z3cDJjvEpQRacQf7dV3mVJENk=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire01.png
+SHA1-Digest: D9CPaok4nhjzOADl/0pFdqA168k=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg02_index.png
+SHA1-Digest: QYoHZmivEpB/+Wc80xB5x+ZhuGY=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg03.png
+SHA1-Digest: Hj82DkOoceFXWMFxmqQ/rixIflg=
+
+Name: assets/resource/animations/char_face/dojin02.anim
+SHA1-Digest: RGMKKYttYCY3COm91w1pgu7+B9M=
+
+Name: assets/images/office/ui_office_move_active.png
+SHA1-Digest: KITF5th3Tq59XiU4zCIYWFqDuy8=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face2.png
+SHA1-Digest: V0Y9GiocWgr3GjaQnn8y+Uvk2b0=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg2_obj02.png
+SHA1-Digest: 8zGuBw4MnJSz0Qk9YYvSUlYWJTw=
+
+Name: assets/images/standard/ui_std_simple_loading_symbol.png
+SHA1-Digest: 2PWkP6Z3snD77D4PBoLQrfa/xZg=
+
+Name: assets/resource/animations/room_ani/office/office_char_subin_act
+ 2.anim
+SHA1-Digest: 2mK76BrKK9E6R7HeSr7RuNlhDLQ=
+
+Name: assets/images/office/ui_office_move_base.png
+SHA1-Digest: j4loJiBExIz2Vj9P2g1OdcAsZrg=
+
+Name: assets/resource/animations/char_face/songhee02.anim
+SHA1-Digest: ZEbMKCixlCMO9f7HQpsH1601res=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg04_index.png
+SHA1-Digest: 8MGwVa4SqRU0w+ICBsgvYkKsS/0=
+
+Name: assets/images/mainmenu/ui_main_col_hidden_n.png
+SHA1-Digest: RSh1DZC3DafzyOnvdRyouuZd5U0=
+
+Name: assets/resource/animations/char_emotion/assets/acter_miji_p1_eff
+ ect.png
+SHA1-Digest: PA7xI27fbiGkF9Kcd7RPKmCdP5s=
+
+Name: assets/resource/animations/char_face/assets/huigul02.png
+SHA1-Digest: 4quMJINHwkEY2t9+1h2E4KzLtSE=
+
+Name: assets/images/mainmenu/ui_main_ach_4.png
+SHA1-Digest: RtZRGqfvIKL5XMXHoEv7T9+njrQ=
+
+Name: assets/animations/buttons/question/question_btn_2.anim
+SHA1-Digest: dVNI/kBMJN2MAwJJvrfEGYVs9HM=
+
+Name: assets/resource/images/Char/assistantB/char_assi_b.png
+SHA1-Digest: 6sNNBpmCz4IwglgTRymmupBzTiA=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd3_01.png
+SHA1-Digest: xwuCZQoTHiJqgK5PIy+gXH9T7/k=
+
+Name: assets/resource/animations/char_emotion/assets/acter_ryu_p1_effe
+ ct.png
+SHA1-Digest: PHn44V2R9XD4rgx7Xkq5PKuxVAA=
+
+Name: assets/images/mainmenu/ui_main_btn3.png
+SHA1-Digest: WeQLPakAdk2e5IHz57at/ZUppfE=
+
+Name: assets/resource/sounds/BGM/bgm_serch2.mp3
+SHA1-Digest: 0jgOdMP5x5nXsN6ZRyMlRJAlwyw=
+
+Name: assets/resource/images/EP_5/bg/ep5_zoom02.png
+SHA1-Digest: MIAK+KFWkZmL7iBoz/mFvLp+z2Y=
+
+Name: assets/resource/images/EP_1/info/ep1_detail02.png
+SHA1-Digest: 1HxO43LR9znA8uZh1xrhdl4hBKE=
+
+Name: assets/images/inven/ui_pop_no_btn_p.png
+SHA1-Digest: k7i9Cro6boLwjwfyEs6YZRA0xDU=
+
+Name: assets/resource/images/EP_add1/info/add1_detail07.png
+SHA1-Digest: 3QDaj7EKUXlId50ZDXN/z81iM4g=
+
+Name: assets/resource/animations/room_ani/office/assets/led_bar_green.
+ png
+SHA1-Digest: cG+EMVMylT/Eg9dFvQdloNtP21I=
+
+Name: assets/resource/animations/tutorial/tutorial03.anim
+SHA1-Digest: d9CAxEaKsVrY9hbFR+y+OCcniVE=
+
+Name: assets/images/costume/ui_cos_btn_ass_a_p.png
+SHA1-Digest: l8bN3r8zQMz0NRWefRf1MPuk1fM=
+
+Name: assets/Icon-Small-50.png
+SHA1-Digest: FjmFqIXbV4zxKXnkqu1Q5BJiADs=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_n
+ ot.png
+SHA1-Digest: GBQNKkJ1SnUCahOmvF8Y1Q2QmyU=
+
+Name: assets/resource/images/EP_4/info/ep4_detail02.png
+SHA1-Digest: J005Y9RZsWNFuKQWr05GIE5LM6g=
+
+Name: assets/images/mainmenu/ui_main_ach_1.png
+SHA1-Digest: 3s2wTUWVW0nnFGT7YCr4JXO7sKs=
+
+Name: assets/images/inven/ui_pop_info_combine_box.png
+SHA1-Digest: sUJ9JgDj9ynhD0CQQZzT4cgm5X8=
+
+Name: assets/resource/images/EP_add4/info/add4_detail02.png
+SHA1-Digest: pmREKlOXdcCE0AG/uJbumWIOLJU=
+
+Name: assets/resource/images/EP_3/suspect/suspect_songhee_eye.png
+SHA1-Digest: AHGiing4O6YiUqMDrm+WuVne+lQ=
+
+Name: assets/resource/animations/char_face/jitae02.anim
+SHA1-Digest: w+gdvCPzDemMAVWLt4g6vzJXQ3Y=
+
+Name: assets/resource/images/Share/ui_move_right_100_2.png
+SHA1-Digest: g9gHv+HvHmcrJEop5VrUBNiymAs=
+
+Name: assets/images/inven/ui_pop_yes_btn.png
+SHA1-Digest: oMfBGzsm6tQI1fw6mEvs56mmPQ4=
+
+Name: assets/resource/animations/tutorial/tutorial08.anim
+SHA1-Digest: TETOGhCCFCTOp/JbnYxbynWbXtg=
+
+Name: assets/resource/sounds/BGM/bgm_talk3.mp3
+SHA1-Digest: HQ1GSCemo7i/Eox8E32yNM2ssos=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire05.png
+SHA1-Digest: H4tyPhOvJprhQOHoLT0K1zezljo=
+
+Name: assets/images/standard/ui_std_chapter_act1.png
+SHA1-Digest: ci3d2rmXiyAQT+wmKeKqJ508n5k=
+
+Name: assets/resource/images/EP_6/info/ep6_detail05.png
+SHA1-Digest: 2g59706gP6rk4Q/sRRyfulhNkg0=
+
+Name: assets/resource/animations/room_ani/bg_ani/Episode1_cloud.anim
+SHA1-Digest: I+APZwInU8wGuQqTYnOWDTMRuc0=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep4_1.anim
+SHA1-Digest: k+6fHOwmIyybX9HKnYqz/rvR+Dw=
+
+Name: assets/images/costume/ui_cos_icon_ass_c_5.png
+SHA1-Digest: NYFUOP9Jkn7n/2JSrQm2O0SAotQ=
+
+Name: assets/animations/buttons/office_button/assets/office_icon_effec
+ t3.png
+SHA1-Digest: POyiKVdIoaHpWjKwO6ZPioij2L4=
+
+Name: assets/animations/buttons/infobox/infobox_detail_hit.anim
+SHA1-Digest: U39oxGRUROKFaajEzXyHaq93Qlc=
+
+Name: assets/resource/images/EP_2/suspect/profile_jitae.png
+SHA1-Digest: itU39p5EP74SG9QGcmQ85Z8Jnqo=
+
+Name: assets/resource/animations/char_face/assets/dasol01.png
+SHA1-Digest: rJdTJUTLn+lsq9U9O60Kylf3hjA=
+
+Name: assets/images/mainmenu/ui_main_col_btn4.png
+SHA1-Digest: BX+j0Fv6m8v5ChB3yr5S5RfJDIM=
+
+Name: assets/images/costume/ui_cos_title.png
+SHA1-Digest: tMxkiYYJcKeZOGnHhPvXyJuBBqA=
+
+Name: assets/resource/images/EP_5/suspect/suspect_dojin_p2.png
+SHA1-Digest: lrzlQrbKzP9onT1AdtBwbyJi710=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep4_3.anim
+SHA1-Digest: buXHZoP4/APT0p9gPtiOQTWPSkQ=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep5_3.anim
+SHA1-Digest: qOvk70zMNGdvm+mq6fD7FMEs2T0=
+
+Name: assets/resource/images/EP_add3/info/add3_detail12.png
+SHA1-Digest: JzkYEj8wYpdT09er0H9K/WQfrkQ=
+
+Name: assets/images/standard/ui_std_suspect_p.png
+SHA1-Digest: q+jijzD/VlYJb1LjogpU0jltVRQ=
+
+Name: assets/animations/buttons/office_button/assets/office_icon_move1
+ .png
+SHA1-Digest: EwRfSSVj3E6mtkvnHhHWTCqMgfQ=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg01.png
+SHA1-Digest: pY50oEwTwhqXNdfIPXNxeo6uoPE=
+
+Name: assets/resource/images/EP_add2/bg/add2_zoom02.png
+SHA1-Digest: /6MVtLShzbtq1n+oEkSQrzQOJXg=
+
+Name: assets/resource/images/Share/info/icon001.png
+SHA1-Digest: heiHWgIh4NX2RML+m1kvuTE8hMA=
+
+Name: assets/resource/images/EP_1/suspect/profile_dasol.png
+SHA1-Digest: WtUaZtsZYjHPu7VRciJ8ygzsnMU=
+
+Name: assets/Icon@2x.png
+SHA1-Digest: Kb1MBCmTU4m6e2RHejT0wOD2sUU=
+
+Name: assets/sound/effect/snd_inven_close.wav
+SHA1-Digest: Cbu6RNkTcODTvBzdDsOQNC8RnDo=
+
+Name: assets/HelloWorld.png
+SHA1-Digest: to5Y49ccFgZicvDeBqHx/Yyzsvo=
+
+Name: assets/images/standard/ui_std_hint_desc.png
+SHA1-Digest: Ru6J5ajyseU63R+RRolJOiG1VOQ=
+
+Name: assets/resource/images/EP_6/suspect/profile_huigul.png
+SHA1-Digest: 2NanpMG8fm3K1ILzQazPA83cXkc=
+
+Name: assets/resource/animations/room_ani/office/office_char_yeji.anim
+SHA1-Digest: tBF2ZnAL0dEPZGp6zoUGNWh3aB8=
+
+Name: assets/resource/images/Share/ui_move_right_75_2.png
+SHA1-Digest: rRI8SsAZYmPRPs5RUaVNQGj5YQw=
+
+Name: assets/animations/buttons/standard/assets/takl_press1.png
+SHA1-Digest: ekmFXJLbrNAHo4vAQ05UxEVcTDM=
+
+Name: assets/resource/images/EP_2/info/ep2_detail03.png
+SHA1-Digest: exmrNmmDKLiAS/51u56esCdW+OQ=
+
+Name: assets/resource/images/EP_add2/info/add2_detail06.png
+SHA1-Digest: oTfWI+iso5U2SVFcert+VSiJ+7c=
+
+Name: assets/resource/images/EP_add3/info/add3_detail06.png
+SHA1-Digest: TFXXvKKNKJh+W8WckR/F8NNsp1Q=
+
+Name: assets/resource/images/EP_0/info/ep0_detail02.png
+SHA1-Digest: jECXoMFYyouURXydHIv0n2nq0n0=
+
+Name: assets/resource/images/EP_1/bg/ep1_index.png
+SHA1-Digest: N33xn1s+jiZ4FzxMAy8siFUAzgc=
+
+Name: assets/images/office/ui_assistant_choice_b.png
+SHA1-Digest: N2Y2K2zj5bQkbHBqSF8XItxwvaA=
+
+Name: assets/resource/sounds/FX/snd_f04.wav
+SHA1-Digest: CW9Ed5UK6lQvm8nohuy/IoI/Qks=
+
+Name: assets/resource/images/EP_add3/suspect/profile_sinae.png
+SHA1-Digest: jHpAcZJwzBnb+d30SO1QtBIc1fw=
+
+Name: assets/images/standard/ui_std_hint_scr_bar.png
+SHA1-Digest: Eu+PNVMThKgCjNL2DR130ZBt+YQ=
+
+Name: assets/resource/images/EP_3/info/ep3_icon05.png
+SHA1-Digest: ZooJSiPflOnRqa0qIZZVm+5LUPQ=
+
+Name: assets/images/mainmenu/ui_main_memory_9.png
+SHA1-Digest: ywg/7imM3TaOR/hFULX8Y8KjE38=
+
+Name: assets/images/interrogation/ui_objection_index.png
+SHA1-Digest: A9C2isqa5b2bD2UFno/RfrC4wWw=
+
+Name: assets/resource/animations/char_face/assets/ryu001.png
+SHA1-Digest: gxcAiyLJ3USs6ruNVpP5mQ9FgyE=
+
+Name: assets/resource/images/EP_2/suspect/suspect_jitae_p1_eye.png
+SHA1-Digest: /nP7UmX6u7ldj97fI8VwglzuNSw=
+
+Name: assets/animations/buttons/standard/assets/font_info.png
+SHA1-Digest: NZFfl0eQ5i8l1r9ttwK+agOrl5U=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep2_ani2.anim
+SHA1-Digest: 9dh1mt3Jj15KFUJA1iQtoYIXtVo=
+
+Name: assets/resource/images/EP_3/info/ep1_icon013.png
+SHA1-Digest: Jh3FHVlD45OY86sXfFivU4EOQQU=
+
+Name: assets/resource/images/EP_5/info/ep5_icon04.png
+SHA1-Digest: n20ZTv+tfBC7Co+WbrVnl3qwtGI=
+
+Name: assets/resource/sounds/BGM/bgm_suspect2.mp3
+SHA1-Digest: C5NPSuk2eb0WBipMBo+ooS48Ad8=
+
+Name: assets/resource/animations/char_face/ara.anim
+SHA1-Digest: xOYiwhCJx+FT2c/KOaBjIURACZc=
+
+Name: assets/ResourceDB.database
+SHA1-Digest: EJLvTS/VfKp3NxNAl3QSpTWocvQ=
+
+Name: assets/resource/images/EP_3/bg/ep3_bg1_obj01.png
+SHA1-Digest: sGcHuHqg5WStBe3OfBz6I0KharA=
+
+Name: assets/resource/images/EP_3/suspect/suspect_kloe_p2.png
+SHA1-Digest: dV6qRkEBljVTqn/fVdq2tYQlmSU=
+
+Name: assets/images/system/ui_sys_home_p.png
+SHA1-Digest: zSZYrp62eByYoqPh5uU/VAHao7s=
+
+Name: assets/resource/images/EP_1/bg/ep1_bg_obj01.png
+SHA1-Digest: pTaDfFlzs8v+V8wqTQMQjqtU7x4=
+
+Name: assets/images/costume/ui_cos_icon_equip.png
+SHA1-Digest: oSfb/2F5m0D6dGElFvpTbfRmPnk=
+
+Name: assets/resource/animations/char_face/jitae01.anim
+SHA1-Digest: eOSyF5m1axf9/A/AtUPXosRkfGU=
+
+Name: assets/resource/images/EP_add1/bg/add1_zoom01.png
+SHA1-Digest: PG6Dsd+k+/x7Qf+PaliKFXc0ZhM=
+
+Name: assets/animations/buttons/standard/assets/main_title_2.png
+SHA1-Digest: u0DAiJcZZleGUr31l8hdb/ZpAIU=
+
+Name: assets/sound/effect/snd_popup1.wav
+SHA1-Digest: RoyQ6+cTh5SlQX5qJi/TJRq1dJY=
+
+Name: assets/images/mainmenu/ui_main_epi_5.png
+SHA1-Digest: SYB196WM2vKTokM+XEm1HstgF7E=
+
+Name: assets/resource/images/Char/assistantA/char_assi_a_face02.png
+SHA1-Digest: Wl1j7V7294fhjZqzXguTdx85aYo=
+
+Name: assets/resource/images/EP_add2/info/add2_detail05.png
+SHA1-Digest: SomOLWaeU4RRFkB7pIemC5ZGLdk=
+
+Name: assets/animations/buttons/standard/assets/main_title_13.png
+SHA1-Digest: Bz2E8ZMZiAbX7hkRP/4zEsVMW5g=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep1_bg1_water.
+ png
+SHA1-Digest: r8C26+UHBufMLFJN+hIHY4L/yno=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_minjae_p1.png
+SHA1-Digest: DTvfI2VWP/dbIk1clZjsbhJx8y4=
+
+Name: assets/resource/animations/char_face/assets/ara02.png
+SHA1-Digest: gCpL5jJt56fXqVgmiafyw1f0x20=
+
+Name: assets/resource/animations/room_ani/ui/assets/ui_allow_down.png
+SHA1-Digest: 2zzx9ATZtwH352mPj0MRgZGU010=
+
+Name: assets/images/costume/ui_char_ass_b_pos1_3.png
+SHA1-Digest: U8Ijcw48rerxVcGbsqZuvVY5hA4=
+
+Name: assets/resource/images/EP_5/info/ep5_icon02.png
+SHA1-Digest: UeaY97wU8erx5slwpZ01/Sn6P1M=
+
+Name: assets/CommonDB.database
+SHA1-Digest: D5oDBLMEzhrZdHYL4p+kpvOKYAo=
+
+Name: assets/resource/images/EP_0/info/ep0_icon07.png
+SHA1-Digest: /Yn9rwW7NMiNK1eS3tQ9XihlMG8=
+
+Name: assets/images/costume/ui_cos_btn_hero.png
+SHA1-Digest: tKPGy0jpbRwKPYeTIm7w8x832yM=
+
+Name: assets/resource/images/Share/info/icon005.png
+SHA1-Digest: MT843Ddkac9I/70uKUKfbN29+7U=
+
+Name: assets/images/standard/ui_std_hint_scr.png
+SHA1-Digest: 6bGiJ/d9Gf4ZEg3m7dS7iEgRSLU=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep4_01.png
+SHA1-Digest: u4vxJnVqTpuJzZjjBSB9QIVXzVg=
+
+Name: assets/resource/images/EP_2/bg/ep2_bg1_index.png
+SHA1-Digest: ekxEdjpzQXvqkoPL2SOp6aAS7Vs=
+
+Name: assets/resource/images/EP_6/info/ep6_icon09.png
+SHA1-Digest: IkXPrJr2EmugZKfr4HwTEnjCRJY=
+
+Name: assets/resource/images/Char/miji/acter_miji_p2.png
+SHA1-Digest: 4YbFTlCNMqsG57hGT9i3WB9FeD4=
+
+Name: assets/resource/images/EP_6/suspect/suspect_byungjun_p1_face01.p
+ ng
+SHA1-Digest: lubq4hdQfwYxfhSn+QVLdpK7OrQ=
+
+Name: assets/images/costume/ui_char_hero_pos1_5.png
+SHA1-Digest: YedWrVZfAQMzJBgW+unoKFGZ8/8=
+
+Name: assets/resource/animations/char_face/kloe02.anim
+SHA1-Digest: NCfNwo+3eJBRt4GY5DKW+0Bvj1g=
+
+Name: assets/resource/images/EP_4/bg/ep4_zoom01.png
+SHA1-Digest: 9J9txfGvQ7Zk6RR93OZK+KoxWXc=
+
+Name: assets/resource/images/Char/kkoma/acter_kkoma_p1_eye.png
+SHA1-Digest: IYj9yHDR3yJ8YIviosYqgBgZvo0=
+
+Name: assets/images/system/ui_sys_shop_p.png
+SHA1-Digest: dYIMSET6SdlDIOlU28FqguvZCl0=
+
+Name: assets/animations/buttons/direction/direction_use_item3.anim
+SHA1-Digest: a7TOFm714arDvLIY/ttpreJEQcU=
+
+Name: assets/resource/animations/tuto/assets/ep4_04.png
+SHA1-Digest: kO06PJOdQlGTIAkIN4rB1U/rrwU=
+
+Name: assets/resource/images/EP_3/suspect/suspect_jihae_p1_face3.png
+SHA1-Digest: 73XPsiAtqlP8Pv2dGlSDd4nZVTU=
+
+Name: assets/animations/buttons/standard/ani_std_suspect_s.anim
+SHA1-Digest: nBl4PwVNqx73+JNsumIbJBWbdRg=
+
+Name: assets/resource/images/EP_0/suspect/profile_ara.png
+SHA1-Digest: G73ZO8WWAQs20zyj+OcWZHetjbs=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg02.png
+SHA1-Digest: ovuKj99B7TAAnP7RvW2O1w2Zqds=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep0_03.png
+SHA1-Digest: OKJ+DweBY9iWEF0Mh6dYeVsLMlg=
+
+Name: assets/resource/images/EP_6/info/ep6_detail07.png
+SHA1-Digest: ArsG1tlMkZielAqATZeZPicrRMo=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_blood2.png
+SHA1-Digest: Mloflr0W9yWvO1d0fNUq/y22lBg=
+
+Name: assets/images/standard/ui_std_hint_bg.png
+SHA1-Digest: hQcfzxFH9vo4X9ftaboBMxRF6RY=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep1_01.png
+SHA1-Digest: Sx4YMj15AxKADrbChbMq/C43Kws=
+
+Name: assets/resource/images/EP_4/info/ep4_icon01.png
+SHA1-Digest: /JDJBvZo35dEWvIo+uUk/P+4LoI=
+
+Name: assets/images/mainmenu/ui_main_epi_clear.png
+SHA1-Digest: KX03diuaZKwyfCN1dWLjtSRVHwk=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_clock_sec.pn
+ g
+SHA1-Digest: F/P5WGx1UBiaoyDCd9nOH2evT+A=
+
+Name: assets/images/inven/ui_inv_btn_slot_p.png
+SHA1-Digest: K/lEjJuoBiuijH7Nk4GgYbuk060=
+
+Name: assets/resource/images/EP_5/info/ep5_detail12.png
+SHA1-Digest: 81/dl+LVmUfLpFmwaDcn2XngOPE=
+
+Name: assets/images/mainmenu/ui_main_ach_20.png
+SHA1-Digest: 00QjLdec0Gk9VTP00NnOAHNQXJY=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_q
+ uestion.png
+SHA1-Digest: Ti12WCBknC9E06C8yOHfw3pWQHA=
+
+Name: assets/resource/animations/char_face/assets/daegoon01.png
+SHA1-Digest: 7YRXPVmt6Lk9oPBypIzSzh9iv/g=
+
+Name: assets/resource/images/EP_2/info/ep2_icon02.png
+SHA1-Digest: HOu4QPEj2qn5sdXMfCJ5IAoQ9bs=
+
+Name: assets/images/costume/ui_cos_icon_ass_a_5.png
+SHA1-Digest: gFTNVMBXDen+yiHqNLZswcssEiY=
+
+Name: assets/images/mainmenu/ui_main_btn2_p.png
+SHA1-Digest: uc2OSCzbQVAz9o4UmYML/xHt4XY=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg3_index.png
+SHA1-Digest: y9M/d9fEwtgJX8lZPybDqBW2Ogg=
+
+Name: assets/resource/sounds/FX/snd_e04.wav
+SHA1-Digest: VcEe4UZY0GNtkEWbjzUD3mBMSNI=
+
+Name: assets/images/inven/ui_inv_com_msg.png
+SHA1-Digest: At0Wvqilubtc681lk0wP1FrlBXw=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_failed.p
+ ng
+SHA1-Digest: Mf3fPwMboT+gARryK8CER/LilyY=
+
+Name: assets/resource/images/EP_4/suspect/profile_rina.png
+SHA1-Digest: w4poc/wGm3kmHNg978a9j48Bffg=
+
+Name: assets/images/mainmenu/ui_main_alert_5.png
+SHA1-Digest: ce92I1qnmGhnnOhKbfDeGZKqSUA=
+
+Name: assets/resource/images/EP_3/suspect/suspect_jihae_p1_face1.png
+SHA1-Digest: tTQ3KJDsmMD2Ltu5N7sizmCHKYQ=
+
+Name: assets/resource/images/EP_add2/info/add2_icon02.png
+SHA1-Digest: 59QvtBEadHHybEZ/DJKuDEnKwlw=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_led.anim
+SHA1-Digest: puyhLPXF299yNN5OBZUp5C6ENUY=
+
+Name: assets/resource/images/Office/office_bg_index.png
+SHA1-Digest: MyDESKoqEln4IMo/AADAso96bBM=
+
+Name: assets/images/standard/ui_help_muscular_p.png
+SHA1-Digest: gycvw6Hsf1aZs6eNyD0Xm0qLZ1Q=
+
+Name: assets/images/inven/ui_pop_ok_btn.png
+SHA1-Digest: +NNOaE1NLN5lwGQb8trV3+2dVQM=
+
+Name: assets/resource/images/EP_5/info/ep5_icon10.png
+SHA1-Digest: HKR6w9a4slzj+ZYN0pgBJBF1tcg=
+
+Name: assets/resource/animations/tuto/tuto_ep7_01.anim
+SHA1-Digest: bqLcsZeJOhO9mwLgDky5BwPY+WI=
+
+Name: assets/animations/buttons/standard/assets/font_suspect.png
+SHA1-Digest: YuJ39MHGwRraA7TGlXQ/bJyDxu0=
+
+Name: assets/animations/buttons/standard/assets/main_title_7.png
+SHA1-Digest: vtYuF05jqRSD12TYTh3wNScDJLM=
+
+Name: assets/resource/images/EP_4/info/ep4_icon10.png
+SHA1-Digest: KVPuU/QdeRZLV4WbH7fnAqGWD9c=
+
+Name: assets/images/costume/ui_cos_icon_hero_5.png
+SHA1-Digest: EcV9B+4corKdmPZfh1iO/whWe4E=
+
+Name: assets/images/mainmenu/ui_main_ach_6.png
+SHA1-Digest: ndftYwwuvDHW4ft0fSxXvWJ5zOg=
+
+Name: assets/resource/animations/char_face/assets/jitae04.png
+SHA1-Digest: HhpjlN04ow9L4horSgiJRoP6G20=
+
+Name: assets/resource/animations/room_ani/ui/assets/alram_focus.png
+SHA1-Digest: jyu1b7zXaVUiiQPC1JL5d9wvSvs=
+
+Name: assets/images/mainmenu/ui_main_memory_1.png
+SHA1-Digest: ij4RTnPITLsG4o8ysj74NTq25Kw=
+
+Name: assets/images/inven/ui_pop_no_btn.png
+SHA1-Digest: ZoFazsqBFOqwb7kB/BKahNVcisc=
+
+Name: assets/resource/animations/room_ani/ui/assets/ui_allow_right.png
+SHA1-Digest: bTwlGqtZXQj1DVQEl6U55rzjXiI=
+
+Name: assets/resource/images/EP_1/bg/ep1_zoom02.png
+SHA1-Digest: QzOeU/wFAl5FDrg3NcGlruN1DxI=
+
+Name: assets/images/inven/ui_pop_bar01.png
+SHA1-Digest: fSMNdx3oJQyann0D5PycQtIM+t8=
+
+Name: assets/resource/animations/char_face/huijae02.anim
+SHA1-Digest: h8I4/CPF7ciAcTwgiJGvgRtgVOk=
+
+Name: assets/resource/images/EP_add3/info/add3_icon02.png
+SHA1-Digest: 5Fz08c3zITlfr9eXSp6R/ZZ4JJU=
+
+Name: assets/resource/animations/room_ani/ui/assets/ui_box.png
+SHA1-Digest: Edi1SDg+LkwdzmvkCAS8f3bKByo=
+
+Name: assets/resource/animations/room_ani/office/assets/office_assi_ye
+ ji.png
+SHA1-Digest: uy8dAFdQWECCLz1ysQ+/FtkqFbU=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep2_ani1.anim
+SHA1-Digest: kkT7Ing7x0y/PnQQNiCbBeQ31k8=
+
+Name: assets/animations/buttons/infobox/infobox_combine_hit.anim
+SHA1-Digest: fdeXHzHxcZRyKN5WpNx+2FJcUwI=
+
+Name: assets/images/mainmenu/ui_main_ach_p.png
+SHA1-Digest: T2ClgQNHO/kKTu2eAzHH+HjfbBw=
+
+Name: assets/images/costume/ui_cos_icon_ass_c_3.png
+SHA1-Digest: Xo43KwW6hMJLcWwn+Orwd4CRQEc=
+
+Name: assets/resource/animations/room_ani/bg_ani/Episode1_window.anim
+SHA1-Digest: iWdumk/9ojGyTijlENjsIsqCrXs=
+
+Name: assets/resource/animations/room_ani/office/office_char_yeji_act2
+ .anim
+SHA1-Digest: 1aziusoixSui3JGoyhtbFju3PUY=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg05_obj01.png
+SHA1-Digest: bz6D8PiFhTIz/81Bov4HchPRcIk=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep3_01.png
+SHA1-Digest: nLXxMkEfjHAsjp/yryopb10UgKk=
+
+Name: assets/images/inven/ui_inv_com_wrong_msg.png
+SHA1-Digest: PoMjR+WXLr5JL2dppTyJxvxUubo=
+
+Name: assets/animations/buttons/standard/assets/base_default.png
+SHA1-Digest: Q5AqgWWF+LNdax1OftkBG3wgaAQ=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep5_04.png
+SHA1-Digest: OdkoB4s0LulAn1fVPs/8NSmxCZs=
+
+Name: assets/resource/images/Share/ui_allow_left_75.png
+SHA1-Digest: FnJ3wLIv0TyAGPOJhVr1evbKA30=
+
+Name: assets/resource/images/EP_4/info/ep4_icon07.png
+SHA1-Digest: jRfPvkkLvqyDotIVJwV+i8wQyJ0=
+
+Name: assets/animations/buttons/question/objection_effect.anim
+SHA1-Digest: BUxhpxVFkdetX6brLkO1x5TL0Ug=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep6_01.png
+SHA1-Digest: W7LgIwuqkVjiVea4CTQiE7EYoEU=
+
+Name: assets/animations/buttons/standard/assets/main_title_5.png
+SHA1-Digest: uYFXiPm/o+Q7BJidAX7j/fq+6FQ=
+
+Name: assets/animations/buttons/standard/assets/main_title_12.png
+SHA1-Digest: oivuK87wJdg3fnaxmBK9Ucxks3I=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg4_index.png
+SHA1-Digest: 5tC1e8yTt/2pPJMwA2qoVNJdePA=
+
+Name: assets/resource/images/EP_3/info/ep3_icon11.png
+SHA1-Digest: Kg4Mex+bW2Wrb1Q2gbTcBqVIlRw=
+
+Name: assets/resource/images/Char/assistantB/char_assi_b_face02.png
+SHA1-Digest: P+2sV3WkPNIIAqvWZfa4mLsBkVw=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1_eye.png
+SHA1-Digest: 8Do2W5h5rsn6SnIh/0RMlubRh4E=
+
+Name: assets/resource/images/EP_1/info/ep1_detail08.png
+SHA1-Digest: Wcv6n9lmAJTGQuXE7lar9Nm3K/I=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn26.png
+SHA1-Digest: uolx3oM6x1LyUsXNAQQuoBH9Ji4=
+
+Name: assets/images/mainmenu/ui_main_memory_8.png
+SHA1-Digest: KDt0hrCAmoiqAxt/03KDwRKuQVg=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p2_eyeani.png
+SHA1-Digest: If/WthuBGVkDvXLvcXNAu0vnZkE=
+
+Name: assets/resource/images/EP_add3/info/add3_icon01.png
+SHA1-Digest: j5ogIdVs1rp5wUq6VuSshX3sRnc=
+
+Name: assets/resource/images/EP_0/suspect/suspect_jiyoun_p1_face01.png
+SHA1-Digest: ICOsCsdwZWzaTI8BdWdcuF1qBBA=
+
+Name: assets/images/costume/ui_cos_icon_ass_a_4.png
+SHA1-Digest: HCYq/lWufMh1QbqZz/1xoBbts7U=
+
+Name: assets/images/mainmenu/ui_main_memory_23.png
+SHA1-Digest: XRHf1EqaGPc+CG5XuWuCIX5wHaM=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: 7u4w3kXTbeGnsgpT1DekAacft0w=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_taegun_p1_face01.
+ png
+SHA1-Digest: iDNB0y2afG1HzIqpwc44eX8Xr94=
+
+Name: assets/resource/animations/char_face/jaemi01.anim
+SHA1-Digest: adtWh59Yjc1yGbzyPSeIrbLjFMo=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep1_2.anim
+SHA1-Digest: mRXgOzYg/Hkz/lx8Tsu8ItHCoBQ=
+
+Name: assets/images/costume/ui_cos_btn_ass_b.png
+SHA1-Digest: b1vtOWtEJkSBtbt1ufqtHuC+RaA=
+
+Name: assets/images/costume/ui_cos_icon_ass_b_2.png
+SHA1-Digest: CduaJ3RVOfo7LM47kqUsVs2wgOw=
+
+Name: assets/resource/images/EP_5/suspect/suspect_hyuna_p1_eye.png
+SHA1-Digest: OEbedIY/iRlKTvxeNkGImvScgFs=
+
+Name: assets/images/mainmenu/ui_main_title.png
+SHA1-Digest: FbUlCKGHr4cZ52YOJDx/bkF/2B8=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom06.png
+SHA1-Digest: So4LzGA8udTaEGPS+ZvA6kW0sfc=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn019.png
+SHA1-Digest: S2RQr+honMmRnZD97I5dmGvwF2s=
+
+Name: assets/images/standard/ui_std_inven_p.png
+SHA1-Digest: 0inGxWB8FaDUE7YpLWs/MoY2NE8=
+
+Name: assets/resource/animations/room_ani/office/office_char_hero_act.
+ anim
+SHA1-Digest: /LhZoyD0soszV8ETjd1nfVvbMjk=
+
+Name: assets/images/mainmenu/ui_main_memory_2.png
+SHA1-Digest: Vc/DsblQRJzEaQFvo6D57GpajD4=
+
+Name: assets/resource/animations/room_ani/office/office_char_sina.anim
+SHA1-Digest: vmL3Tl6h1OTzkpOqwiZSao2CMHQ=
+
+Name: assets/resource/images/EP_1/suspect/suspect_dasol_p1_face3.png
+SHA1-Digest: cYlSf5pMc30De72x664dDOulc1k=
+
+Name: assets/resource/images/EP_5/info/ep5_detail07.png
+SHA1-Digest: HtuxPDxpPuOi2TZpUvSLFN7REqY=
+
+Name: assets/sound/effect/snd_suspect1.wav
+SHA1-Digest: KFEO9+IqGp7QA5yhbRd3JLf60As=
+
+Name: assets/images/standard/ui_std_gameover_bg.png
+SHA1-Digest: z1pVtGhqvxBBqYUvA+apfn1htj8=
+
+Name: assets/resource/images/EP_0/info/ep0_icon05.png
+SHA1-Digest: 9ZNTVQY94gMtjSjwvll+QlN1+Ok=
+
+Name: assets/sound/effect/snd_help_eyes1.wav
+SHA1-Digest: ezVrZ2jBuQ104DoPYL+HWXix2PQ=
+
+Name: assets/images/mainmenu/ui_main_character.png
+SHA1-Digest: 1Gzs+sm6XePSbda6vfTqZdl+G7g=
+
+Name: assets/resource/images/Share/ui_move_left_75.png
+SHA1-Digest: DmOFKbULQ8gDP2UtrsGZmOpfNyo=
+
+Name: assets/images/costume/ui_char_hero_pos1_2.png
+SHA1-Digest: 9nEQf1UbHfloPlXThMmQQDCekis=
+
+Name: assets/Icon-Small.png
+SHA1-Digest: PX8bW4hqKyBnipMeNpwbFALa1dI=
+
+Name: assets/resource/animations/char_face/jihae02.anim
+SHA1-Digest: EvCPMMFjgVMwcusMud/Thpg4rY8=
+
+Name: assets/images/inven/ui_pop_info_combine_1.png
+SHA1-Digest: x7H3EbSx2UWQZVplt9ih/iik/uI=
+
+Name: assets/images/mainmenu/ui_main_epi_10.png
+SHA1-Digest: uIjIy06wVTKU2Ff4ELaMkYWgOlE=
+
+Name: assets/images/mainmenu/ui_main_col_title_memory.png
+SHA1-Digest: MU8el63QcHaB/1ClBRANELfLvdI=
+
+Name: assets/resource/images/EP_5/info/ep5_icon13.png
+SHA1-Digest: g4wugPHZoXB0jLliM83xsLxl3Gs=
+
+Name: assets/resource/images/EP_0/info/ep0_detail06.png
+SHA1-Digest: XEnCSf9vDH/5ZVylLK5voyATC4Y=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face1.png
+SHA1-Digest: 7TQOOf9hicPY0rBpPcP+aNBEGP4=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1_face05.png
+SHA1-Digest: 3/6F9Vy343dBoDAu9iuAz6qhgr4=
+
+Name: assets/images/mainmenu/ui_main_col_hidden.png
+SHA1-Digest: iSZU3QJBM+gNrAKBCMEzULCggT0=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom04.png
+SHA1-Digest: vn/eTbxUbjZmwTl08wn8+JThvkY=
+
+Name: assets/images/costume/ui_char_ass_b_pos1_5.png
+SHA1-Digest: fnr/AhBy6DHotZTzBPh+xc4k3rU=
+
+Name: assets/resource/animations/tutorial/tutorial07.anim
+SHA1-Digest: HgbUgTSrIcRgZLh8K/j3StCMCYQ=
+
+Name: assets/resource/images/EP_1/suspect/suspect_eunbi_p1_eyeani.png
+SHA1-Digest: xqunRAqPyev3UwsAWc013Ueyvlo=
+
+Name: assets/resource/animations/room_ani/office/office_char_sina_act2
+ .anim
+SHA1-Digest: sLB8bPaQ02wxEG/JYiYmtIL41ww=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg1.png
+SHA1-Digest: KVPndQSS0qas5Z/3nJ4l3IKdgEA=
+
+Name: assets/images/standard/ui_talk_box.png
+SHA1-Digest: y7ubu28VMpH2hvQSM7kS4SpJ1y4=
+
+Name: assets/images/costume/ui_cos_icon_hero_2.png
+SHA1-Digest: CduaJ3RVOfo7LM47kqUsVs2wgOw=
+
+Name: assets/images/standard/ui_std_chapter_act2.png
+SHA1-Digest: I8CoVNsvJ4rGMZdPbuFAWA47Cp4=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn27.png
+SHA1-Digest: nLfCPMOEl1HYP3TACX+1j9cyI1E=
+
+Name: assets/resource/images/Share/info/detail002.png
+SHA1-Digest: 1aGQ3KtbAEWwNL4W4Uh2Fx6ZDl8=
+
+Name: res/layout/game_demo.xml
+SHA1-Digest: LjZ4qFfv36FIwZdiFKMhUtfYaZs=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_lcd1.anim
+SHA1-Digest: 0PXjVxEDOF3/BgWffEivfFctnJs=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep2_03.png
+SHA1-Digest: eV+IVNoU1xaRCkw1Iy0vuG+RQq0=
+
+Name: assets/resource/images/EP_6/suspect/suspect_dongkun_p1_face01.pn
+ g
+SHA1-Digest: 30bO38AGO8ivSuboQHRcSCy/HwU=
+
+Name: assets/resource/animations/tuto/tuto_ep4_03.anim
+SHA1-Digest: BzXQJSIVT2RAR0bcLMLUYaPii7o=
+
+Name: assets/images/mainmenu/ui_main_epi_list.png
+SHA1-Digest: UDcfNi5oJjJcJ8S2d8Le2712MiI=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg02.png
+SHA1-Digest: mwjn8TuHUuBcYRsSYH8wq5TiTPw=
+
+Name: assets/images/inven/ui_inv_btn_com_p.png
+SHA1-Digest: 56+gS8s5lIk0xIwrLceSy42iq0M=
+
+Name: assets/resource/animations/room_ani/office/office_char_subin.ani
+ m
+SHA1-Digest: lCIEsgOvIceAxpJrC2fbptqi1HQ=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep6_1.anim
+SHA1-Digest: zVZ0OUoBpTvSXzYF0BzWgmuWZgk=
+
+Name: assets/resource/images/EP_1/info/ep1_detail06.png
+SHA1-Digest: ej+1X9HUi3tXCD/b9bSJEZj1OUo=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg01.png
+SHA1-Digest: yoMjxtaPbe8JiAjHIB5Ofxx2W1k=
+
+Name: assets/resource/sounds/FX/snd_e01.wav
+SHA1-Digest: NCC01Sjr9iGAJ3K1CEy2TmMJgRY=
+
+Name: assets/images/mainmenu/ui_main_epi_ass_c.png
+SHA1-Digest: gmcbfeXmCc/ENn0bBreJGluGO0c=
+
+Name: assets/images/interrogation/ui_suspect_btn.png
+SHA1-Digest: 6q/EJsl/Vtx+nzjsSRTxc0AlxAw=
+
+Name: assets/images/mainmenu/ui_main_memory_14.png
+SHA1-Digest: rKPRtJepw77AFXahiDtpWkpMV24=
+
+Name: assets/resource/images/EP_5/suspect/suspect_hyuna_p1.png
+SHA1-Digest: B08dpgMf7joSOnAv2PvV/C6BLtU=
+
+Name: assets/resource/images/EP_1/suspect/suspect_dasol_p1_eyeani2.png
+SHA1-Digest: VvYPFliu0pcBOH7BQDk92s/Izb4=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg02_index.png
+SHA1-Digest: wo3SVY5Ztx/Gw+S3yrCr5fTebes=
+
+Name: assets/resource/images/Char/huynjung/acter_huynjung_p1.png
+SHA1-Digest: 9paOv7bsTVD0GbmvIcSkgosgZ2g=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_effect2.
+ png
+SHA1-Digest: b0zsEMp9P9mNOm/QE75r/J3g0tY=
+
+Name: assets/animations/buttons/office_button/office_button_move_touch
+ .anim
+SHA1-Digest: 1bfkSuu+/lrMXOXpqmlFZll5uzc=
+
+Name: assets/animations/buttons/infobox/assets/move.png
+SHA1-Digest: 22X0I8KMx5kNEjtDwH0crusyrfU=
+
+Name: assets/resource/animations/room_ani/office/assets/office_char_he
+ ro.png
+SHA1-Digest: SVOBxphmaC6Mhs/7PU7dfS/2Hs4=
+
+Name: assets/app.config.txt
+SHA1-Digest: D+8/F8ALDrhQss9omPinPp+wEfc=
+
+Name: assets/images/system/ui_sys_cos_p.png
+SHA1-Digest: fEc160XG2fKWPkfKhvXTckH6TLs=
+
+Name: assets/images/costume/ui_char_ass_a_pos1_2.png
+SHA1-Digest: QfhsgSpmmZuT5ngip689VCar5LA=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sooyoun_p1_eye.pn
+ g
+SHA1-Digest: DOlZNlLHrWu/H4WSOtxYe2MPLgo=
+
+Name: assets/images/costume/ui_char_hero_pos1_4.png
+SHA1-Digest: xDiMZK2okooMqa9y8fy67BYVhy8=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg02_obj03.png
+SHA1-Digest: DqzWtcRNjPR4jsEn6oIxpn1TZSo=
+
+Name: assets/images/costume/ui_char_ass_c_pos1_3.png
+SHA1-Digest: CjKIevD2bwSZaCzNJdZ5+xEpVzk=
+
+Name: assets/images/standard/ui_std_inven.png
+SHA1-Digest: zwJE04LbsxGuEo2t7lDhgBPPXVI=
+
+Name: assets/resource/images/EP_5/bg/ep6_bg4_obj02.png
+SHA1-Digest: rEvg6a6z5xmlilzgbdmhgkeEmjg=
+
+Name: assets/resource/animations/char_face/assets/mirea01.png
+SHA1-Digest: LcsGELGnN9ulcFSbLS7ZBkkn7yM=
+
+Name: assets/images/mainmenu/ui_main_epi_title.png
+SHA1-Digest: 0FEuBP8XY2aCJPKaJKsbil+T3ac=
+
+Name: assets/animations/buttons/standard/assets/base2_default.png
+SHA1-Digest: MIoDfXqLFKxkosrUPjhzFbPxLyY=
+
+Name: assets/resource/images/EP_6/suspect/suspect_byungjun_p1.png
+SHA1-Digest: 7htq7JG2XKj1ubvKr07kNoRqQiw=
+
+Name: assets/images/mainmenu/ui_main_ach_19.png
+SHA1-Digest: GTjKPhn/OIu7fEnUK42RY6t2NZ0=
+
+Name: assets/images/office/ui_assistant_choice_b_info.png
+SHA1-Digest: rCCL1fn2TtbVZmrzjLRVkD4+pKI=
+
+Name: assets/images/system/ui_sys_cos.png
+SHA1-Digest: DY5+y5UXV20+pXrsuN6CFd+Mb9w=
+
+Name: assets/resource/animations/char_face/assets/rina01.png
+SHA1-Digest: Cgiisvjl0Bq/WjeOJf0oBs6J70s=
+
+Name: assets/resource/images/Char/assistantC/char_assi_c.png
+SHA1-Digest: wJVGng0Ip234sdeAWcsJ0Tf0iq8=
+
+Name: assets/resource/images/EP_add1/suspect/profile_taegun.png
+SHA1-Digest: 2Pz1PYRcmnNmARtdDm0xzTMckeg=
+
+Name: assets/sound/bgm/snd_interrogation.mp3
+SHA1-Digest: NRRkyttd4AW7jECDWgtXcm0ibJs=
+
+Name: assets/resource/animations/room_ani/office/assets/office_miji.pn
+ g
+SHA1-Digest: E7DIIgROz9yn//1vt82ndqmEPqM=
+
+Name: assets/resource/images/Char/kkoma/acter_kkoma_p1_face02.png
+SHA1-Digest: cKWF7wii7Eb5M7ktmnfVfmW9emI=
+
+Name: assets/resource/images/EP_0/info/ep0_icon01.png
+SHA1-Digest: oisscqws7RyuvmQYB4r4jjYE6AE=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p2.png
+SHA1-Digest: rt5PuX4kPwp/d6Mn+BAeIr+zfjo=
+
+Name: assets/animations/buttons/question/assets/question_bg1.png
+SHA1-Digest: F5P2BnAxMnizvWXeCJe5mMtAk9A=
+
+Name: assets/resource/images/Share/info/detail001.png
+SHA1-Digest: OCQKq7HyL7BGXFJGmMoTze5KJWw=
+
+Name: assets/resource/images/EP_3/bg/ep3_zoom02.png
+SHA1-Digest: N4qq6/LjNNUN3r/7l0NKikq8OcY=
+
+Name: assets/images/standard/ui_std_inven_n.png
+SHA1-Digest: q2cPVr97o6WqO/YbXUmNkfgoJkc=
+
+Name: assets/animations/buttons/standard/assets/main_title_9.png
+SHA1-Digest: uOOUFnUKPi1Z3IP4BRn37T+rHFs=
+
+Name: assets/images/standard/ui_std_decide_n.png
+SHA1-Digest: zfFYYBrO0nvjn5+Deu3n2Inqtbc=
+
+Name: assets/resource/images/EP_5/suspect/suspect_hyuna_p2.png
+SHA1-Digest: PbqY3CHQ1Bgf8cPOjt4YmJZApA4=
+
+Name: assets/images/interrogation/ui_question_empty.png
+SHA1-Digest: dSR/Fnm4y5hGYmu+1ctQ4YvdpYg=
+
+Name: assets/images/system/ui_sys_option_eff.png
+SHA1-Digest: okGy+Mb6XgmM5I16RhFHKamvi98=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire08.png
+SHA1-Digest: tCHj/HOFCTBC0GpVPUzg+Wsarv8=
+
+Name: assets/resource/images/EP_4/info/ep4_detail08.png
+SHA1-Digest: pSfVVAVGl9ph9jlvj8x0D6shifk=
+
+Name: assets/images/mainmenu/ui_main_epi_reset_p.png
+SHA1-Digest: 8LmaYgCT7mph8hlNKfRoxV/Sa8M=
+
+Name: assets/resource/images/EP_5/suspect/suspect_ujin_p1.png
+SHA1-Digest: jB0gxLXZbeI7WhmTm+/sHWbHiVM=
+
+Name: assets/images/office/ui_assistant_choice_c.png
+SHA1-Digest: vRqUppbihxk5324fyPRjfehnA1c=
+
+Name: assets/images/standard/ui_std_new.png
+SHA1-Digest: DtdIAjP2XNLD0xP5s9I65ljwnpA=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_film03.png
+SHA1-Digest: FIgkXKyZzt3EENd948KY7uO9tsw=
+
+Name: assets/resource/animations/char_face/assets/sooyoun01.png
+SHA1-Digest: eggW0CJR02/UCHWleAmBXo30VCU=
+
+Name: assets/resource/sounds/FX/snd_f01.wav
+SHA1-Digest: bf6kxikZtXuqQ0PcGdXnuSvA1wA=
+
+Name: assets/images/standard/ui_life.png
+SHA1-Digest: /NacrFAhXTw5boAWTRjwJemH3Ac=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn12.png
+SHA1-Digest: RbalY6SL5E4vHCLgVb7k/KUrsGo=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn08.png
+SHA1-Digest: kbxt28GLW6fKC3nWZZgjJQMUAtQ=
+
+Name: assets/resource/images/EP_6/suspect/suspect_huigul_p1_face01.png
+SHA1-Digest: NkVqvNqRrnAqRC+dB2+iuEIgNx4=
+
+Name: assets/resource/images/EP_6/suspect/suspect_huigul_p1_eye.png
+SHA1-Digest: MP6ke6fH3oIgSQ2l9Ibp2ME8Jhs=
+
+Name: assets/resource/images/EP_1/bg/ep1_bg_obj02.png
+SHA1-Digest: omkuc9QvXJuI3Wa5IvxJkgR+ICc=
+
+Name: assets/resource/images/EP_2/suspect/suspect_jitae_p1_face1.png
+SHA1-Digest: U4V4AHpf46YuFkVt2MlyaPp8WNk=
+
+Name: assets/resource/images/EP_3/suspect/suspect_kloe_p1.png
+SHA1-Digest: vmikMk82g/zVEcOxIjBVnrBplUU=
+
+Name: assets/resource/animations/guide_ani/assets/welcom_text.png
+SHA1-Digest: 0M+FWg802Bimy2P9pORKGtp+Ik0=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn28.png
+SHA1-Digest: EihutJuBm3C66ae957uyQEWfGDk=
+
+Name: assets/resource/images/EP_0/bg/ep0_02_index.png
+SHA1-Digest: cgY9M3SjaYk9K6B9hS+STbnNCx4=
+
+Name: assets/resource/images/EP_3/info/ep3_detail02.png
+SHA1-Digest: r2Afiw9JzfypxAwuklr0bCYN0Kw=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg00_index.png
+SHA1-Digest: am1+Ku2JrHMP0QjbBIi0i19YUx0=
+
+Name: assets/resource/images/Char/huynjung/acter_huynjung_p1_eye.png
+SHA1-Digest: v2Vno+1Ay//7+hAG4QEEy/3ZaO0=
+
+Name: assets/sound/effect/snd_dialog1.wav
+SHA1-Digest: LdlzsWoa289rHXx01t+2GHMrwT8=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_left2.anim
+SHA1-Digest: rCGTd0t2FGKwQJ9AF3Oi9lXz4u8=
+
+Name: assets/resource/images/EP_2/bg/ep2_zoom02.png
+SHA1-Digest: BRV07oZ1ByYSKrKypoodllscaNk=
+
+Name: assets/resource/images/EP_3/suspect/suspect_songhee_face3.png
+SHA1-Digest: wYR3+rxw6PjTjooXIjj7gpPy9iQ=
+
+Name: assets/resource/images/EP_1/suspect/suspect_dasol_p1_face1.png
+SHA1-Digest: R3cUiy/u8IV3CwMvff6oevM+ndg=
+
+Name: assets/images/costume/ui_cos_buy.png
+SHA1-Digest: HktmCGo7SAESPnDEuAReB3v+ZHA=
+
+Name: assets/animations/buttons/direction/assets/useitem_char_b.png
+SHA1-Digest: qOIcX2HLG5KxQK4KQflUFXVonvc=
+
+Name: assets/resource/animations/char_face/assets/huijae01.png
+SHA1-Digest: tzQwHhNQsEo6t9A4Kce9QasYE6c=
+
+Name: assets/resource/images/EP_5/suspect/profile_hyuna.png
+SHA1-Digest: g9f45WUXkU8R622isabzsP2xh6s=
+
+Name: assets/resource/animations/room_ani/bg_ani/ep0_ani1.anim
+SHA1-Digest: 8IlcS1f6aYErk+g/qDM45VtwOHI=
+
+Name: assets/resource/images/EP_4/suspect/suspect_huijae_p1_face2.png
+SHA1-Digest: lts5rgMIlnCKuZBSzDFrqpPwpkU=
+
+Name: assets/images/mainmenu/ui_main_memory_7.png
+SHA1-Digest: L/nFggEkGsO0VLjmXQEm85UFAUo=
+
+Name: assets/sound/effect/snd_title_touch.wav
+SHA1-Digest: Q6lz1V03VnNQyXHqmtYgN6/8n1I=
+
+Name: assets/resource/images/EP_0/bg/ep0_01_obj01.png
+SHA1-Digest: yYJJsfuDLCU573p4XnlA149Zros=
+
+Name: assets/images/mainmenu/ui_main_col_hidden_scr_bg.png
+SHA1-Digest: K6TfTHH4nH7luPCPUIRxsp9Ftfw=
+
+Name: assets/images/standard/ui_cursor_see.png
+SHA1-Digest: cTVoRc8x1vixvPv8Vs09HtFLvt4=
+
+Name: assets/images/standard/ui_std_clear_hero.png
+SHA1-Digest: kJdNn1zFugfEPDG04jCbgF6XG60=
+
+Name: assets/resource/animations/char_face/assets/byungjun01.png
+SHA1-Digest: UfO5X5slIKKg4KxdsRl3ydm8XWA=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn03.png
+SHA1-Digest: CilsAlKa2oViVgpk4x3K55N+PH0=
+
+Name: assets/resource/images/EP_3/bg/ep3_bg1_obj02.png
+SHA1-Digest: ZUYVC88XqAmI2gl3D70TSJc9WGw=
+
+Name: assets/animations/buttons/question/question_btn_1.anim
+SHA1-Digest: Sy0jzEC89XD5pHx45HeqJBDjzXM=
+
+Name: assets/images/system/ui_sys_option_text.png
+SHA1-Digest: ArB/QohtnMsT4YLaDpeM5fZlefE=
+
+Name: assets/resource/images/EP_2/info/ep2_detail05_suyon.png
+SHA1-Digest: ozTTUcrXEIcjnbqRJ8FIxXruqEo=
+
+Name: assets/images/interrogation/ui_suspect_gage_active.png
+SHA1-Digest: VA7VPvaM+C8xh9Ym6lOf6uvgs5I=
+
+Name: assets/resource/images/EP_5/info/ep5_icon07.png
+SHA1-Digest: iaQJMgZtQLtIcV5w6TnBpgjF0ig=
+
+Name: assets/images/mainmenu/ui_main_ach_11.png
+SHA1-Digest: TqzSYb5L56trg0XHzWdZ8gkKZmM=
+
+Name: assets/resource/animations/char_face/hyuna01.anim
+SHA1-Digest: +TQJhd6MOzK1ZaBlQp2UQrB3f8E=
+
+Name: assets/resource/images/EP_6/suspect/suspect_huigul_p1_face02.png
+SHA1-Digest: nYO+BAlo52Jw+FQN1RcC7+Tx12Q=
+
+Name: assets/SaveDB.database
+SHA1-Digest: 8uwKzP6BI2oaLJntF6bf4SwwouM=
+
+Name: assets/resource/images/EP_1/info/ep1_detail05.png
+SHA1-Digest: N2bdXgDeRwm99tCmwQ01U0ux0Tk=
+
+Name: assets/animations/buttons/direction/direction_use_item1.anim
+SHA1-Digest: 8xvG0jG4A38xcohfBH81qrlZxzU=
+
+Name: assets/resource/images/EP_6/suspect/suspect_jaemi_p1_face01.png
+SHA1-Digest: rgPN8oMJsyvxULspBc0kShS4/QI=
+
+Name: assets/animations/buttons/sys_button/allow_left.anim
+SHA1-Digest: IGP10HLNUJXxY0zqFPReO8PV4X4=
+
+Name: assets/images/mainmenu/ui_main_btn5.png
+SHA1-Digest: aS4yYWUbcRP99Vy90ZXLTLqsaiA=
+
+Name: assets/images/standard/ui_std_clear_text_w.png
+SHA1-Digest: 9j38/A21JFXg9ZwUf3b+XKvh8/s=
+
+Name: assets/resource/animations/char_face/mirae01.anim
+SHA1-Digest: Fa8E5BN0sRVlnDQ9FOXWYial09c=
+
+Name: assets/images/standard/ui_std_clear_bg.png
+SHA1-Digest: a8w3ZH7L7AghdlmMJ4FMj+IFuk0=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg2_obj01.png
+SHA1-Digest: WDzIoNkyCbQrVpIOkxhd8UOzxAQ=
+
+Name: assets/resource/images/EP_5/suspect/suspect_kangchul_p1_eye.png
+SHA1-Digest: 7oIgxbRkAi6w5xjNVTtljWFqazQ=
+
+Name: assets/resource/animations/char_emotion/emotion_suprise.anim
+SHA1-Digest: ATMmPTWmFnt/ed58cz6wks/6GPs=
+
+Name: assets/images/costume/ui_char_hero_pos2_3.png
+SHA1-Digest: 0E8vTI9RMRNrRC71hS6FZ+wmg1g=
+
+Name: assets/resource/images/EP_5/info/ep5_icon01.png
+SHA1-Digest: or+VB9oIE49MdMIp7bW2LMjEku8=
+
+Name: assets/resource/images/Char/ryu/acter_ryu_p2.png
+SHA1-Digest: B+PPxyNANKjFZY0+oHGiMVbe7rc=
+
+Name: assets/resource/images/EP_5/bg/ep5_bg06_obj01.png
+SHA1-Digest: pwn6Yh7oNgeW+sGtHfiSn7kFTO8=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_bg03.png
+SHA1-Digest: BBDmgOpAMn9m9nxbxJShO0jubu8=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd3_base.png
+SHA1-Digest: Ozh/x8AObA/Q4yZMJmPL2g7gJB4=
+
+Name: assets/resource/images/EP_5/suspect/suspect_kangchul_p2.png
+SHA1-Digest: 1lBtUMbR0Eu+QrFVLH8E+/FY+Bc=
+
+Name: assets/resource/animations/tutorial/assets/tuto_black.png
+SHA1-Digest: 3f0aFyfsySYQ9ybQMbXKhHHLUCc=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg2.png
+SHA1-Digest: kqqC2IQXbVxPAkwNhQx6gB6+hyQ=
+
+Name: assets/resource/images/Share/ui_move_right_100.png
+SHA1-Digest: g9gHv+HvHmcrJEop5VrUBNiymAs=
+
+Name: assets/images/costume/ui_char_ass_b_pos1_4.png
+SHA1-Digest: sT0orvjlrOjfhixVhqgQRSyt4Qc=
+
+Name: assets/animations/buttons/focus/focus_guide.anim
+SHA1-Digest: Ug0CqmVqqOhiKiYECrNPNBe3u6g=
+
+Name: assets/resource/images/EP_4/info/ep4_icon05.png
+SHA1-Digest: VA42dqcrbje5bmVcW7DIrlLnvxY=
+
+Name: assets/resource/animations/char_emotion/emotin_suprise.anim
+SHA1-Digest: jYiV6bzJrKiZnk/dmgCAtkwAzH4=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep0_ani01.png
+SHA1-Digest: I9mmyAe2PtseTZNbNscKVDJSssI=
+
+Name: assets/resource/images/Char/ryu/acter_ryu_p1.png
+SHA1-Digest: wvCQG2f0gw98CvHpwPOaLFtIBeg=
+
+Name: assets/images/mainmenu/ui_main_btn4.png
+SHA1-Digest: fO8mEM9soVq0/jABGS0FL2Uu4wg=
+
+Name: assets/resource/animations/room_ani/office/assets/w498-h105.png
+SHA1-Digest: vL7N5ShW3yJMLmVBDg+RuH2n4VA=
+
+Name: assets/resource/sounds/FX/snd_e05.wav
+SHA1-Digest: 04J0xyQiYEiwwzvP7hZ1zrC1eDo=
+
+Name: assets/resource/animations/room_ani/office/assets/w1124-h270.png
+SHA1-Digest: arzyc38ibWtQw29h43TYFwJnxhQ=
+
+Name: assets/resource/images/Char/assistantA/char_assi_a_face03.png
+SHA1-Digest: NATA2QyneOYtbijrGPlsCElvKec=
+
+Name: assets/resource/sounds/BGM/bgm_talk4.mp3
+SHA1-Digest: SfKSd5fLHrfM1TLxgs6c1wKXTWY=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep5_room_ani1.
+ png
+SHA1-Digest: 2DjfkwJqQmixP6Tt5rST78wGLrg=
+
+Name: assets/resource/images/EP_3/suspect/suspect_jihae.png
+SHA1-Digest: FSc25STwtxLAH3ApKcMjygJThbI=
+
+Name: assets/resource/images/EP_6/suspect/suspect_byungjun_p1_eye.png
+SHA1-Digest: NIn4A9rNPRneJTyV8xbeDmBqAEA=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep3_2.anim
+SHA1-Digest: P+DkYmw8mb0Trs3iTB/EJUYNbTQ=
+
+Name: assets/images/office/ui_office_move_touch.png
+SHA1-Digest: mLYNkckAG9yTLQxRv6sDvxxvAxg=
+
+Name: assets/images/mainmenu/ui_main_memory_19.png
+SHA1-Digest: o7txsxbJdTFSA9sOWh+z3bXEgKQ=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p2.png
+SHA1-Digest: p/9e9ywXEZrBHEXjptpTjdoHc68=
+
+Name: assets/animations/buttons/direction/assets/useitem_effect01.png
+SHA1-Digest: xRFPOpXgzeC6lbtx1GhCdU0LTPI=
+
+Name: assets/resource/animations/tutorial/assets/tuto_fcs.png
+SHA1-Digest: i92hfaIREkj8BEibe4PdX2ePSeg=
+
+Name: assets/resource/images/EP_add4/bg/add4_zoom02.png
+SHA1-Digest: IEwObbM59AOL2dVn5bkzoMI97m0=
+
+Name: assets/resource/sounds/FX/snd_f14.wav
+SHA1-Digest: d1rKRH+yeFOKFZZ6aAAIG5jU5CE=
+
+Name: assets/images/mainmenu/ui_main_ach_16.png
+SHA1-Digest: JZBaSPHQv6AUCfDrYZxx+a2c4PM=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_06.png
+SHA1-Digest: sLacWwwfmA7/4ObMRZ1MrGb8D/Y=
+
+Name: assets/resource/images/EP_5/suspect/suspect_kangchul_p1_face01.p
+ ng
+SHA1-Digest: edRDPYONP57rE9SSAB2wVoMV21Y=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep0_02.png
+SHA1-Digest: JIobEDFaU0VK9TF9WwhpmMM4Oq4=
+
+Name: assets/resource/animations/guide_ani/assets/ui_office_move_base.
+ png
+SHA1-Digest: ZJrKklo+nQBaz1XM6sS7cD/KQIM=
+
+Name: assets/images/office/ui_assistant_choice_complete_touch.png
+SHA1-Digest: /1BSPmBiYsPEoO/ZGwlg+G/Vcxo=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_clock2.ani
+ m
+SHA1-Digest: +BtKzMvEfDRVO/LPLhWoY61UeB4=
+
+Name: assets/images/mainmenu/ui_main_epi_play_p.png
+SHA1-Digest: UI0rSKzqr43QfddmsLRlP0TAoB0=
+
+Name: assets/resource/animations/room_ani/bg_ani/Episode1_fly.anim
+SHA1-Digest: HejeASN8IqxnngfjO9gYX7Nj6as=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg01_index.png
+SHA1-Digest: HCieVsH/jBtyHr0tvEjjI4fUWJE=
+
+Name: assets/sound/effect/snd_inven3.wav
+SHA1-Digest: OR7Af1X0/EksXb/e+40xRPort1Q=
+
+Name: assets/resource/images/EP_3/info/ep3_detail09.png
+SHA1-Digest: ZAmQFuLNK9/jaog1AcxjkAK8OBg=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_add1_04.png
+SHA1-Digest: 4vWo6gqf1WVDF7i0ODu07SvfaLg=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1_face04.png
+SHA1-Digest: a9SpmTi334HNvjj6zfkBAKX1vys=
+
+Name: assets/images/mainmenu/ui_main_memory_25.png
+SHA1-Digest: buDRwtPyHQgZ7opusWNdfXiRG3I=
+
+Name: assets/resource/animations/guide_ani/text_giveup.anim
+SHA1-Digest: eOBZGGTeI0MrRwgCBiUiSIDDm/g=
+
+Name: assets/resource/images/EP_3/info/ep3_icon09.png
+SHA1-Digest: OPbi6Yo4ZE79HSLs4qb+NIZ/A6U=
+
+Name: classes.dex
+SHA1-Digest: 1CRxGfBeWOuKhQ8IYzXY38mRN4Q=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep1_03.png
+SHA1-Digest: f6Ex7CYxQc0ncsogfNUNFFvwYdk=
+
+Name: assets/resource/images/EP_2/info/ep2_detail04.png
+SHA1-Digest: IswM2SE95CPqCFIwQTfM+hgIGzs=
+
+Name: assets/resource/images/EP_4/suspect/profile_huijae.png
+SHA1-Digest: vNx308VKLoertqQdjxfr2Lx0dV4=
+
+Name: assets/resource/images/EP_add3/info/add3_zoom05.png
+SHA1-Digest: hgKmJKxp6ICw0gzObHVqC3fIzLM=
+
+Name: assets/animations/buttons/standard/assets/main_title_6.png
+SHA1-Digest: jyu1b7zXaVUiiQPC1JL5d9wvSvs=
+
+Name: assets/images/mainmenu/ui_main_col_title_dress.png
+SHA1-Digest: oA1BcttPv/twMsld2WoRje7pvJ0=
+
+Name: assets/resource/animations/char_face/assets/jitae02.png
+SHA1-Digest: guIVMz6sxiXsIvnrNMAwhb5wDBA=
+
+Name: assets/resource/animations/char_face/assets/kangchul02.png
+SHA1-Digest: uOllh3ifi0VKm3r7KMVrZH7hQE0=
+
+Name: assets/sound/effect/snd_inven1.wav
+SHA1-Digest: 9ieawcaAkumPqQ3l3/a3sURG/b8=
+
+Name: lib/armeabi/libgame_logic.so
+SHA1-Digest: i/IkLIsyYDkHj0NQQTF9X9f8CPA=
+
+Name: assets/resource/animations/char_face/assets/dongkun02.png
+SHA1-Digest: 9cri9UkfGFjWSaNGuoBbhovyV5Q=
+
+Name: assets/Icon-Small@2x.png
+SHA1-Digest: 1NqvUuBC5vBXhMZ3PbVQ86z+Q3I=
+
+Name: assets/images/standard/ui_std_loading_min.png
+SHA1-Digest: AYi5KrSmuvje+qo2h3DUqdgRM7c=
+
+Name: assets/images/interrogation/ui_objection_index_choice.png
+SHA1-Digest: DdZKxfaaleNFbx/UPQFM31IlGTM=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1_face01.png
+SHA1-Digest: FO6IS4U+nZBxXdCOOjypx5uD0LE=
+
+Name: assets/animations/buttons/infobox/assets/infobox_button_effect1.
+ png
+SHA1-Digest: Z99XHvWz0unyxmlnUqOdTFLrbtU=
+
+Name: assets/resource/images/Share/info/icon002.png
+SHA1-Digest: wTeG9jlXJ3nx2oF5Gvy7SWCAtfE=
+
+Name: assets/resource/images/EP_3/bg/ep3_bg1_index.png
+SHA1-Digest: JlwaPpMfC+j1Fbdl+xm/Gv/az3U=
+
+Name: assets/resource/images/EP_6/suspect/suspect_jaemi_p1_face03.png
+SHA1-Digest: x3etz7xAF2V9aZ23lVycJoZ8OYE=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep1_02.png
+SHA1-Digest: xtonOAEV7mHaY/5nOFq8WhMoMTk=
+
+Name: assets/resource/images/EP_4/suspect/suspect_rina_p1.png
+SHA1-Digest: usgX7d7AdT1HWhbjeikgs+u7K6U=
+
+Name: assets/images/standard/ui_std_logo_company.png
+SHA1-Digest: Ll07J0p65NETd71Kmm5oFKQPdKA=
+
+Name: assets/images/interrogation/ui_pointout_btn_p.png
+SHA1-Digest: HpzQ9AQa+5zt9GHFTVj//DC8Kw0=
+
+Name: assets/resource/images/EP_add3/bg/add3_bg01.png
+SHA1-Digest: zmGFsLCEYgZRkZeakx5OJejLUOM=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_taegun_p1.png
+SHA1-Digest: JtPpPuE1IBrcuTOQ/uuRIR9XTUk=
+
+Name: assets/resource/images/EP_1/info/ep1_detail01.png
+SHA1-Digest: r5lVI/6pXZVw+XfnpL+5l9yv8IY=
+
+Name: assets/resource/images/EP_add3/info/add3_icon08.png
+SHA1-Digest: 5Oafeo7a/4GrwN40BhXWWnj1sSo=
+
+Name: assets/resource/animations/tuto/tuto_ep4_01.anim
+SHA1-Digest: M0MK5NCZoODmD9tCbm+FWpIqmU4=
+
+Name: assets/resource/images/EP_add4/info/add4_detail03.png
+SHA1-Digest: j93mNt/mJe9uQRxdSJVu58XYrP4=
+
+Name: assets/resource/images/Share/welcom-hd.png
+SHA1-Digest: ST4yLDGUpLj2WSFMgdAPh185JWs=
+
+Name: assets/images/mainmenu/ui_main_memory_18.png
+SHA1-Digest: ayME9Naw643BJ0/wMgyt8xGQchA=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_project.an
+ im
+SHA1-Digest: r0QQmEXDnkO7jwmTB4ZkljXEb50=
+
+Name: assets/resource/images/EP_add1/info/add1_icon07.png
+SHA1-Digest: FjwqtV3leJnao4GF5piOWB9C3N0=
+
+Name: assets/sound/effect/snd_inven2.wav
+SHA1-Digest: WLXbDQI+Sbfpo03J3faVBV+GvD8=
+
+Name: assets/resource/animations/char_face/ruy01.anim
+SHA1-Digest: 5ei/6OacwrpuimkWqBYuPleJGDU=
+
+Name: assets/images/standard/ui_std_close_p.png
+SHA1-Digest: aoNDGsHZ8P6mmvlle5CsXV0OF+M=
+
+Name: assets/images/standard/ui_std_gameover_text4.png
+SHA1-Digest: YLLNBW4YRRVN6P392TWLB20010U=
+
+Name: assets/resource/images/EP_4/info/ep4_icon11.png
+SHA1-Digest: Lq4sCF0a447TlPnKu5GqSXvItHg=
+
+Name: assets/resource/animations/tutorial/tutorial15.anim
+SHA1-Digest: lMKTF+nuwD1Q8/HodpAlxquN+x4=
+
+Name: assets/resource/images/EP_0/bg/ep0_zoom01.png
+SHA1-Digest: oCBvREseLut+/GOJ8nfUxm304sc=
+
+Name: assets/images/mainmenu/ui_main_ach_14.png
+SHA1-Digest: 4mrPXMLYt1jZZJix1YfkYVCSLZ8=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep0_ani02.png
+SHA1-Digest: 8qwA3D6oeQD9t5HmHATi5WHgdEs=
+
+Name: assets/resource/sounds/FX/snd_e08.wav
+SHA1-Digest: P84xSf09s4vtgq1vpj6F1I7YLWg=
+
+Name: assets/images/standard/ui_std_gameover_text2.png
+SHA1-Digest: BJtqC5vlUDeX/BvsGbBjH2IqAsc=
+
+Name: assets/resource/images/Share/cha_empty.png
+SHA1-Digest: jkuxgnD92ViRBaqzeiriYpfQq9w=
+
+Name: assets/images/interrogation/ui_suspect_gage_penalty.png
+SHA1-Digest: egPAkrs/VbRw0Zemqeqq2BC30Wc=
+
+Name: assets/resource/animations/intro_ani/op_ani_add1_2.anim
+SHA1-Digest: Ir0up3TskQBNYHslT1CdDNFgez4=
+
+Name: assets/resource/animations/char_face/songhee01.anim
+SHA1-Digest: 0+Hzc9mUqwVnup5qAphSyXLkAsA=
+
+Name: assets/resource/sounds/FX/snd_f15.wav
+SHA1-Digest: YQAvCzZQ7pDwd4c2bTI5bEfsdTY=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom05.png
+SHA1-Digest: hgKmJKxp6ICw0gzObHVqC3fIzLM=
+
+Name: assets/resource/animations/char_face/huigul02.anim
+SHA1-Digest: 5A7CNehSv3x5p48xr5Om5S5J37s=
+
+Name: assets/resource/images/EP_4/suspect/suspect_sangwoo_p1_face2.png
+SHA1-Digest: +m0dIYnRFMnRTGxul54DeCzZFDo=
+
+Name: assets/resource/images/EP_1/bg/ep1_bg.png
+SHA1-Digest: +LdJjr/BP0jg6hDz1AofgtFjfps=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_04.png
+SHA1-Digest: y9eHiYlSkTml46/tuIZrJ0jozd8=
+
+Name: assets/images/mainmenu/ui_main_ach_8.png
+SHA1-Digest: pBTa3YCgVSnP46SIPIlqzIjMz/s=
+
+Name: assets/images/inven/ui_inv_btn_com.png
+SHA1-Digest: 9Qd26+b3cnGfCO9DQQ/RU99Q5PI=
+
+Name: assets/resource/images/EP_4/bg/ep4_zoom02.png
+SHA1-Digest: AkQ4eyLibAewOXqsHihCr1ADj8M=
+
+Name: assets/images/mainmenu/ui_main_ach_10.png
+SHA1-Digest: h/566S7Gr4vsFYn440YCCiw7b44=
+
+Name: assets/resource/animations/tuto/tuto_ep2_01.anim
+SHA1-Digest: IH6Ps5li7xxrC8y3yscocsH3yc0=
+
+Name: assets/resource/animations/char_face/assets/sooyoun02.png
+SHA1-Digest: kJjnA7AH/x9RGUpY9WPfbMMAmZw=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom03.png
+SHA1-Digest: CJvvop+fw2mPevNhTOtN/vQOgxc=
+
+Name: assets/resource/images/EP_6/info/ep6_detail06.png
+SHA1-Digest: 9NWBrM+x5cZwWKijgyhqPT5iT1c=
+
+Name: assets/resource/images/EP_5/info/ep5_icon14.png
+SHA1-Digest: tafhLcJgsbOOxsgFV8Q01284NmE=
+
+Name: assets/resource/images/Share/ui_move_left_100.png
+SHA1-Digest: mlMgAqJ7mNwLCYFjz8oZKYPK3w8=
+
+Name: assets/resource/images/EP_6/suspect/suspect_dongkun_p1.png
+SHA1-Digest: 4Dl6lKNzwmZm+LNXs1HyZLbGRVU=
+
+Name: assets/resource/images/EP_6/info/ep6_detail04.png
+SHA1-Digest: PzFNTEAt2E24Xh1lkzSmU7GHkyU=
+
+Name: assets/images/inven/ui_pop_yes_shop_p.png
+SHA1-Digest: nzfP3DlBE3x6lvqWW6eLqb9WKrw=
+
+Name: assets/resource/animations/intro_ani/op_ani_add1_3.anim
+SHA1-Digest: iq2dy6TVTnO4xMWr5yfyE+HMh60=
+
+Name: assets/resource/animations/char_face/kangchul01.anim
+SHA1-Digest: OfNGKgYYMP+bOu2vjG14/XkM2Q0=
+
+Name: assets/images/costume/ui_char_hero_pos1_1.png
+SHA1-Digest: XidYASW9k/TK6aSkJTUEl+IxmKU=
+
+Name: assets/animations/buttons/standard/assets/base_none.png
+SHA1-Digest: xVUH4S5N7EeVOQDuhtnmcvr426g=
+
+Name: assets/resource/animations/room_ani/office/offcie_ani_clock1.ani
+ m
+SHA1-Digest: 6deLX/Bh+RKey2hrVXNh9vE6khM=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep4_02.png
+SHA1-Digest: pKNbKF0b5Wg0vUmtC6hiKQ5Ih9I=
+
+Name: assets/images/standard/ui_std_chapter_bg.png
+SHA1-Digest: x6ol1tHyF2rqzfWPM8FeMOAlANE=
+
+Name: assets/resource/animations/char_emotion/assets/emoticon01.png
+SHA1-Digest: MtpFboXgE0agGrxIoRcWnMpNkEs=
+
+Name: assets/images/standard/ui_std_retry.png
+SHA1-Digest: dlEPFcEqcaB8ZisDg7+P2jTV9hw=
+
+Name: assets/images/mainmenu/ui_main_ach_5.png
+SHA1-Digest: EgEcXcCZilVVhpoaZ0a6/vnMq8A=
+
+Name: assets/resource/images/EP_4/suspect/suspect_huijae_p1_eye.png
+SHA1-Digest: bVsvMpDaikWJsbvwxb1Ds1BNjGk=
+
+Name: assets/images/office/ui_assistant_choice_complete_base.png
+SHA1-Digest: zqfG5kany5p6D8fpPVMGn27RJdc=
+
+Name: assets/resource/images/EP_add3/info/add3_detail11.png
+SHA1-Digest: OAJgqWWtGXyQOJ4fPsPH9w5ilT0=
+
+Name: assets/images/system/ui_sys_shop.png
+SHA1-Digest: N5a0fYuGsc2JrAwvVv3rBMH1W+U=
+
+Name: assets/resource/images/Char/cop/char_cop_p1_face3_1.png
+SHA1-Digest: QjlAn79iXZf8Ez2R+tHU1EBQMto=
+
+Name: assets/resource/images/EP_6/info/ep6_detail01.png
+SHA1-Digest: GZquNZEkzj+hZ0kCibHj9Ia3DS0=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/window.png
+SHA1-Digest: SyM3mo3fUktjzbdOFpQoVZrzSa4=
+
+Name: assets/resource/images/EP_add2/bg/add2_bg05_index.png
+SHA1-Digest: CtN9hrLZcupUMv0osG/+kFObdg0=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep3_ani02.png
+SHA1-Digest: P5NMyud5wUlLIBrpFj6xdrZaeVA=
+
+Name: assets/resource/images/EP_2/info/ep2_icon05.png
+SHA1-Digest: zPhHe+TGCdcPnt5f+0gEBmqkG3c=
+
+Name: assets/resource/images/EP_6/info/ep6_icon05.png
+SHA1-Digest: BjVaoADrOsL2fLE0wUv1FoeV4AM=
+
+Name: assets/resource/images/EP_5/bg/ep5_zoom01.png
+SHA1-Digest: l4wYqEDVZizbPZQCpvRxmQft8KQ=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep5_2.anim
+SHA1-Digest: Aa+7iFqcoenfMeZlSDVDky4Uh7w=
+
+Name: assets/resource/images/EP_4/info/ep4_icon14.png
+SHA1-Digest: ecHisz96CR1v7b9GBijazcOTPEY=
+
+Name: assets/resource/images/EP_0/suspect/profile_jiyoun.png
+SHA1-Digest: PkMZsoLgUPcnHw9hACP+N2cLw4Y=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg2_index.png
+SHA1-Digest: oxKJrk6kIZsFFg5ACPFP5ADUDqQ=
+
+Name: assets/resource/images/Char/assistantC/char_assi_c_face02.png
+SHA1-Digest: m5Xt5qo1RZu344MM+Xf8PfRhbtU=
+
+Name: assets/images/standard/ui_std_loading_text.png
+SHA1-Digest: Uv4+LWY/IvjnpnRBnx6iZJ/jCIQ=
+
+Name: assets/Info.plist
+SHA1-Digest: 0nMQ68RTw5su9N+LaxjAjuW5/qw=
+
+Name: assets/images/mainmenu/ui_main_col_bg.png
+SHA1-Digest: GV21VDG8pAgY6F9UgzpS7Kvo7k8=
+
+Name: assets/images/mainmenu/ui_main_banner_open.png
+SHA1-Digest: LQ9k1OBUk/REyL+8eJSqrCQkFhQ=
+
+Name: assets/resource/images/EP_4/bg/ep4_zoom03.png
+SHA1-Digest: uaDXJVnB80UHpZg88ytxTEWgLmk=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep2_1.anim
+SHA1-Digest: F2q+6nTNoKtXlOdfa812TIvXuaM=
+
+Name: assets/images/costume/ui_char_ass_c_pos1_2.png
+SHA1-Digest: 19QWFn2WIy/OZLT4VmP2oHkLJsE=
+
+Name: assets/resource/images/EP_0/bg/ep0_01_index.png
+SHA1-Digest: TyS3FDk8TSmqzMJQNlLH8mO7mDY=
+
+Name: assets/images/costume/ui_char_ass_b_pos1_2.png
+SHA1-Digest: 7rabwgkKNWHkyDl1DlJnCPMmZDU=
+
+Name: assets/resource/animations/char_face/jiyoun01.anim
+SHA1-Digest: XiNmPXR3ZeqYtl86nqFAZKfiGYY=
+
+Name: assets/resource/images/EP_add2/info/add2_icon01.png
+SHA1-Digest: qImrtA7jy27eUWYzIkYGMkdpR44=
+
+Name: assets/resource/animations/room_ani/office/assets/office_assi_ye
+ ji_act.png
+SHA1-Digest: iXFmV/EAU7qtN3rFXSuYgHVclrw=
+
+Name: assets/animations/buttons/focus/assets/focus_guide.png
+SHA1-Digest: jeK4/EayW5AVj7qr5yXIntKqP2Q=
+
+Name: assets/resource/images/EP_6/suspect/suspect_huigul_p2.png
+SHA1-Digest: 4bbW+jFkceH66jrt54v74r7xhSk=
+
+Name: assets/images/system/ui_sys_option_on.png
+SHA1-Digest: ZIOFj5hkIq5DLOtJByAzPcGZu5o=
+
+Name: assets/resource/animations/char_face/assets/jiyoun02.png
+SHA1-Digest: 9dA3WwKuDKH1vHUmhGJJmBU3lnc=
+
+Name: assets/images/mainmenu/ui_main_alert_4.png
+SHA1-Digest: Bbt2JyTe0FZHzPXrOveWeRrOw2U=
+
+Name: assets/resource/images/EP_0/info/ep0_detail01.png
+SHA1-Digest: mFkZtieDB+7/jeGifuLLTP+S+NA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: IfGjikhWjyLauJRGNrbXhJg2NgU=
+
+Name: assets/resource/images/EP_5/suspect/suspect_ujin_p1_face01.png
+SHA1-Digest: j0O0t9V2zfHaF2rJ7qroNXmHYRM=
+
+Name: assets/images/mainmenu/ui_main_memory_15.png
+SHA1-Digest: fFl0YQYzcCWDCbpEi1vLJy6sp3c=
+
+Name: assets/resource/images/EP_4/bg/ep4_zoom06.png
+SHA1-Digest: dxY58p7g0U+7Myk0WsMGKd8oDwc=
+
+Name: assets/resource/images/EP_5/info/ep5_detail13.png
+SHA1-Digest: /2mgtLuwais0jxMrwpy54l6I39A=
+
+Name: assets/images/standard/ui_std_chapter_act3.png
+SHA1-Digest: 7Vm1OT7Wg/rcVkhnK5tjIbywEzI=
+
+Name: assets/resource/images/EP_6/info/ep6_icon04.png
+SHA1-Digest: qNGgG0oKSwpIi3vWEajLSfar/jY=
+
+Name: assets/resource/animations/char_face/sinae02.anim
+SHA1-Digest: d3sdhD8zphUU5YLUVd/hRaQMs64=
+
+Name: assets/images/mainmenu/ui_main_col_btn3.png
+SHA1-Digest: sabdBYFOoMP/gBJ/pDn5efOrbvU=
+
+Name: assets/resource/animations/char_face/eunbi02.anim
+SHA1-Digest: 62UvgJNQRapX93RZDEE4yGqsGl0=
+
+Name: assets/resource/images/Char/hero/char_hero_p1_face03.png
+SHA1-Digest: fX7aNOv8vH5euGEpG3NVveH4cUY=
+
+Name: assets/images/inven/ui_inv_com_success_msg.png
+SHA1-Digest: uSn1Y9cd0/LHlsC9csWLg+fhO0E=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ani_fire03.png
+SHA1-Digest: KwrPdjuOXVBhylXTDSGMFL4Id2A=
+
+Name: assets/resource/images/EP_add3/info/add3_detail05.png
+SHA1-Digest: oP955JTrUE4WT/koHP2vGhJgAuY=
+
+Name: assets/resource/images/EP_2/bg/ep2_bg1.png
+SHA1-Digest: EpztfFN3XPOXF0zdYJrtFFWaC+4=
+
+Name: assets/resource/images/EP_add2/info/add2_icon05.png
+SHA1-Digest: OLg7vRfhyVreS+92xZxTkjopsn4=
+
+Name: assets/images/inven/ui_pop_bar03.png
+SHA1-Digest: g2MuQI0GN6BWIXnmuAJ5tm1aGys=
+
+Name: assets/resource/images/EP_0/suspect/suspect_ara_p1_eye.png
+SHA1-Digest: ZKorcHJgBScvPgliH6luOqh14Qs=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn013.png
+SHA1-Digest: rEtiGAM5XVKiVsvn8n8DJD99218=
+
+Name: assets/images/mainmenu/ui_main_memory_20.png
+SHA1-Digest: p7olZ0snVV83uIG2kXwfD/jw8tw=
+
+Name: assets/sound/effect/snd_presented.wav
+SHA1-Digest: S23BoxXCHVMsgBn+k0S5js//BvE=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_add1_03.png
+SHA1-Digest: Ew4+44L0AH6WEj+x0Bbu25IuRnE=
+
+Name: assets/resource/images/EP_add1/info/add1_detail02.png
+SHA1-Digest: UUj1ik0CgA0ReE3sHQV1rGWcti8=
+
+Name: assets/sound/effect/snd_suspect2.wav
+SHA1-Digest: HDoOmUE9l2OcVhFxH4HiiieDDnQ=
+
+Name: assets/resource/animations/room_ani/office/office_char_hero.anim
+SHA1-Digest: xOChJ9aMBQq6ZdgyGEG5Dw6+FEA=
+
+Name: assets/resource/images/EP_2/info/ep2_detail08.png
+SHA1-Digest: 3ljFniEaISbaSkDlrWHK1Wi33yg=
+
+Name: assets/images/mainmenu/ui_main_epi_6.png
+SHA1-Digest: HFgo3gx+E/RjD6VbRG/Ek9ZIt7k=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep7_03.png
+SHA1-Digest: SBSgrg6uf4nZbqGaUmFsG9Ssh+U=
+
+Name: assets/iTunesArtwork
+SHA1-Digest: aUHj5b3DvHdve2xdq/f8Xa45Noo=
+
+Name: assets/resource/images/EP_add3/suspect/suspect_sooyoun_p1.png
+SHA1-Digest: Hiaf5VFc5eUf/gX7U3YI1yqO4YE=
+
+Name: assets/resource/images/EP_add1/info/add1_detail05.png
+SHA1-Digest: ACqySY/eMCypNHhF96rg6//Xg7Y=
+
+Name: assets/animations/buttons/standard/assets/font_choise.png
+SHA1-Digest: Dm8JI0tJOqGF+eGil91RGQYrt8k=
+
+Name: assets/resource/images/EP_6/bg/ep6_zoom07.png
+SHA1-Digest: 5SG7AKwgmvSQT98kp1oDDwrpRng=
+
+Name: assets/resource/images/EP_0/suspect/suspect_ara_p1_face03.png
+SHA1-Digest: 6OFQc5A3KUZpzCX74xZi7uBtgJI=
+
+Name: assets/resource/images/Char/kkoma/acter_kkoma_p1_face03.png
+SHA1-Digest: ciIvJ8PA5Fni+4bIukjIE0QxSyQ=
+
+Name: assets/images/standard/ui_cursor_move.png
+SHA1-Digest: dmTRMgqyxBsdTqPfzP9kZ91h31g=
+
+Name: assets/resource/animations/tutorial/assets/tuto_ttl.png
+SHA1-Digest: OoG5JusXBq13aCYiKtN9gwOBgOk=
+
+Name: assets/resource/images/EP_3/suspect/profile_jihae.png
+SHA1-Digest: A8wgZ7BBvpNOaiq5Qsp5nPmEtRo=
+
+Name: assets/resource/images/Char/assistantB/char_assi_b_eye.png
+SHA1-Digest: 8tM6OlG+fqj/w6Bwkvr8irgAj4s=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_taegun_p1_face02.
+ png
+SHA1-Digest: FqiZIoysccyLfMbLdONJnQ+HgK8=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/ep1_ani1_obj2.
+ png
+SHA1-Digest: 0JiVBZYiYU9bydd0ajl4RBbcdEc=
+
+Name: assets/resource/images/EP_4/bg/ep4_bg02_obj02.png
+SHA1-Digest: Yl6wZpC3Pqwng5gxIQ3dJqvqXVo=
+
+Name: assets/resource/animations/tutorial/tutorial09.anim
+SHA1-Digest: VsSUiYaFAp7luWRUrxfsF/8+R2A=
+
+Name: assets/resource/images/EP_3/info/ep3_icon06.png
+SHA1-Digest: 5k2KN8eBr/1RCt53kDUmQ+DRbgo=
+
+Name: assets/images/inven/ui_inv_btn_det_p.png
+SHA1-Digest: RRe5LOQ8abpqDypNjTOOE12CV6M=
+
+Name: assets/resource/animations/room_ani/office/assets/cha_ryu01.png
+SHA1-Digest: ruSw2Kkm0hKPEuLUyZWvnEyyhAY=
+
+Name: assets/resource/animations/char_face/ujin02.anim
+SHA1-Digest: qnze6TRfpJ4YBhScyxuLU4bcPDE=
+
+Name: assets/resource/images/EP_5/info/ep5_detail10.png
+SHA1-Digest: 6wt2Au4BiqLYMf6kQgDv2jfLStY=
+
+Name: assets/images/inven/ui_pop_bar02.png
+SHA1-Digest: UaaqbIcV7oerBf0l5Otpbz/DD38=
+
+Name: assets/resource/images/Char/assistantA/char_assi_a.png
+SHA1-Digest: mpI1acwgE14fgPvaB9HGwJ3jVaQ=
+
+Name: assets/images/mainmenu/ui_main_epi_lock.png
+SHA1-Digest: Vv0nDgGu8d0TUMz2px7dJ419NZs=
+
+Name: assets/resource/images/EP_add3/info/add3_icon03.png
+SHA1-Digest: G6HE8LdqONgQGWCX/WobuF86Vrg=
+
+Name: assets/animations/buttons/infobox/infobox_choise.anim
+SHA1-Digest: jvMvYX+X7OICLfXb//Ak5BxWht4=
+
+Name: assets/resource/animations/char_emotion/character_effect _ryu01.
+ anim
+SHA1-Digest: BnS+OGeihomHCS/g9cT2OdiswXg=
+
+Name: assets/animations/buttons/question/question_btn_3.anim
+SHA1-Digest: ittKHrvcJOE3yNWEBK5mhq7LYSo=
+
+Name: assets/images/inven/ui_inv_btn_det.png
+SHA1-Digest: dK7V3sZQ+EmZzLOjXTxo8oPJbKI=
+
+Name: assets/resource/animations/room_ani/office/assets/office_assi_si
+ na.png
+SHA1-Digest: 146OWE1bvgFrGLoD85KEOgnsMBY=
+
+Name: assets/resource/images/EP_add3/info/add3_detail08.png
+SHA1-Digest: ZeLDRPLSpScH6IpTVPBZzoRTrn4=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn02.png
+SHA1-Digest: UcPbuDQ7H8ASzsd+7zDZP5WJPtM=
+
+Name: assets/images/mainmenu/ui_main_btn3-hd.png
+SHA1-Digest: RX2+nrssCW04YkVF+Eqfk15Ui2A=
+
+Name: assets/resource/images/EP_0/suspect/suspect_ara_p1.png
+SHA1-Digest: DNKR2F2Z+kVfY7PTJA1N85oTgok=
+
+Name: assets/resource/images/EP_2/suspect/suspect_suyun_p1_eye.png
+SHA1-Digest: eL/Q3ws/Pf6PcN+0UIHCLjIOCro=
+
+Name: assets/resource/images/EP_add3/info/add3_icon05.png
+SHA1-Digest: VfX4hsCqBQ3iD3FZQoecikKONYQ=
+
+Name: assets/resource/images/EP_5/info/ep5_detail06.png
+SHA1-Digest: JcCHRSvYra1aPfTX541GNnod55M=
+
+Name: assets/images/mainmenu/ui_main_col_title_hidden.png
+SHA1-Digest: wM0VoAkvzUFP57gjuBIPbSaK7nA=
+
+Name: assets/resource/images/EP_6/suspect/suspect_jaemi_p1_face02.png
+SHA1-Digest: zap9mrguy89/oJ/AIAS4fdctk3o=
+
+Name: assets/resource/images/EP_5/suspect/suspect_dojin_p1_face02.png
+SHA1-Digest: dEwS0WcYYONartA6pwUQnDpocK8=
+
+Name: assets/images/costume/ui_char_ass_a_pos1_5.png
+SHA1-Digest: 8xCkajmcdgl8fvLWmqq4TvLC2KA=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_right.anim
+SHA1-Digest: rxts+IW0e4jQYiGsjcd9LTOrcSg=
+
+Name: assets/resource/animations/tuto/tuto_ep7_02.anim
+SHA1-Digest: NfZc5Pz1/sPQVB+Dzl/g6A2D6yc=
+
+Name: assets/resource/animations/room_ani/ui/alram.anim
+SHA1-Digest: vrIzRTa+nYtcw+1eWMEHJ1O2G8M=
+
+Name: assets/images/standard/ui_std_hint_bg_p.png
+SHA1-Digest: tQE8cgrZvugHS9X0lTOGlj6iO6Q=
+
+Name: resources.arsc
+SHA1-Digest: /yV9BNr0ISMTAEeghOjmcjZgdUw=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep1_1.anim
+SHA1-Digest: oAAbFsoQ0w4hl7NNmQEl+X8uQag=
+
+Name: assets/resource/animations/intro_ani/op_ani_add1_1.anim
+SHA1-Digest: CxINSDTKfJzD02/HIZkrHNkSULw=
+
+Name: assets/images/mainmenu/ui_main_ach_9.png
+SHA1-Digest: tD+JI2l+3O8C2jCYhaw2tqHtlBE=
+
+Name: assets/resource/animations/char_face/rina01.anim
+SHA1-Digest: oS8LWEcywMtS46WkTvHT9QKB6Cw=
+
+Name: assets/resource/animations/char_face/suenga02.anim
+SHA1-Digest: NEhQJkRr2p3rS2l7SrRuKD98cD8=
+
+Name: assets/resource/animations/char_face/assets/jiyoun01.png
+SHA1-Digest: IjLcvUFCpxnJ7US8JvrrWxMwLSw=
+
+Name: assets/resource/images/EP_add4/bg/add4_bg02.png
+SHA1-Digest: iJ+v0OMOt9ZnJ4hekHNZW2bhEnY=
+
+Name: assets/resource/images/EP_6/suspect/suspect_dongkun_p1_eye.png
+SHA1-Digest: TmolGso3O1FtlYIO35idTOFA2xI=
+
+Name: assets/resource/animations/room_ani/ui/assets/ui_allow_up.png
+SHA1-Digest: sI50PhD6byGrKTjVOd6o81qPPFY=
+
+Name: assets/resource/sounds/FX/snd_f03.wav
+SHA1-Digest: hcApZLOGVlHxdjtYXJ3QLMhAqPA=
+
+Name: assets/resource/images/EP_0/suspect/suspect_jiyoun_p1_face03.png
+SHA1-Digest: 0i7oF0R13S/DVCV4kUTLY+BswBA=
+
+Name: assets/resource/animations/room_ani/office/assets/led_lcd.png
+SHA1-Digest: vdJCQisd2KhYmNWL0vhPnBemCTI=
+
+Name: assets/resource/images/Char/huynjung/acter_huynjung_p1_face01.pn
+ g
+SHA1-Digest: uEWDXuqVscqm4dJRnOLBl/TOnKk=
+
+Name: assets/fonts/gothic_bold.ttf
+SHA1-Digest: D9CdsucONdTvjbhsXLRobPm9zNo=
+
+Name: assets/images/mainmenu/ui_main_memory_4.png
+SHA1-Digest: EcNAIpSGVI7skwa+oUuE7pIZGq8=
+
+Name: assets/resource/animations/char_emotion/emotion_question.anim
+SHA1-Digest: O7SEh/K+ZdZmr84sjD7UhXjX7qU=
+
+Name: assets/resource/images/EP_add1/suspect/suspect_mirae_p1_face02.p
+ ng
+SHA1-Digest: vk/y3oyFZ+t68A5eI6bQfsbQYiw=
+
+Name: assets/resource/images/Char/kkoma/acter_kkoma_p1.png
+SHA1-Digest: 9bIYFcnEIdBwDJxDcZwHwivPebA=
+
+Name: assets/animations/buttons/standard/assets/main_title_10.png
+SHA1-Digest: C/Jo4zwwzJ5HyzmM0ALDomMaUXU=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom01.png
+SHA1-Digest: l/Fgin/KItVqPoQ+gRx4dB2WZbw=
+
+Name: assets/resource/animations/intro_ani/assets/op_ani_ep4_05.png
+SHA1-Digest: sFQ5fI4Ab2JZfg9vQ/ZjeNxtYGc=
+
+Name: assets/resource/images/EP_2/bg/ep2_zoom03.png
+SHA1-Digest: OUT9gJNfO42mVIxnuQNvftBIlgA=
+
+Name: assets/resource/images/Char/kkoma/acter_kkoma_p1_face01.png
+SHA1-Digest: RD2gkIQSiwEVveODmqh62xRYP0w=
+
+Name: assets/resource/animations/room_ani/bg_ani/assets/cloud02.png
+SHA1-Digest: EaDUhkxVDWySuT7Y2HNQamaD8w8=
+
+Name: assets/resource/images/EP_2/info/ep2_icon09.png
+SHA1-Digest: c4J36UvqUhcSdOGdfrFsFBwVMdc=
+
+Name: assets/resource/animations/intro_ani/op_ani_ep6_3.anim
+SHA1-Digest: iq2dy6TVTnO4xMWr5yfyE+HMh60=
+
+Name: assets/resource/images/EP_3/suspect/suspect_jihae_p1_eye.png
+SHA1-Digest: Udy/bka+UMjgtFetMQg3x3q1N+Q=
+
+Name: assets/resource/animations/char_face/byungjun02.anim
+SHA1-Digest: cuXzZKzIZPKb6BKLXoiXOh6ROqI=
+
+Name: assets/resource/animations/tutorial/assets/tuto_lsn016.png
+SHA1-Digest: /VWx8TuS6tZ+vbWLcrYKolAyvxw=
+
+Name: assets/images/standard/ui_std_contine.png
+SHA1-Digest: sTBiaqndfbuI6kqP075QVt6fJ10=
+
+Name: assets/resource/images/Char/miji/acter_miji_p1_face03.png
+SHA1-Digest: VhfGGw2ZQofZUzm2Sbku/ajRdgI=
+
+Name: assets/images/standard/ui_std_main.png
+SHA1-Digest: s5McXrjdWaw7BrGBQt4Pw6o9lr8=
+
+Name: assets/resource/animations/char_face/assets/suenga01.png
+SHA1-Digest: 8/ObRk/UcdlFWCdgjjJLyLA4JJU=
+
+Name: assets/resource/images/EP_3/suspect/suspect_cloe_p1_eyeani.png
+SHA1-Digest: P1Bebpw8YPoH+ts8iSDYKW4M7GQ=
+
+Name: assets/animations/buttons/question/assets/question_effect2.png
+SHA1-Digest: lRro6xaVe0TDGXph+cPBipqXcqg=
+
+Name: assets/resource/animations/char_face/teagoon02.anim
+SHA1-Digest: r5FTPokb05EJ7058f1DQd7UnQpk=
+
+Name: assets/resource/images/Share/ui_move_right_50_2.png
+SHA1-Digest: p3vMU504AJPyuYa+qRO0LjFNrYo=
+
+Name: assets/resource/images/Char/huynjung/acter_huynjung_p1_face02.pn
+ g
+SHA1-Digest: qr/PO3HQ2IvltCX77+qn+8N1Y38=
+
+Name: assets/images/standard/ui_std_hint_more_p.png
+SHA1-Digest: I67ZgoLBLy14ux4QdnVwTDalp9U=
+
+Name: assets/resource/animations/intro_ani/assets/op__ani_clock_min.pn
+ g
+SHA1-Digest: cn/tSgso/u2JOZv8toVMW1uG4Wo=
+
+Name: assets/resource/images/EP_add1/bg/add1_bg02_obj01.png
+SHA1-Digest: BHlnIXFhFaoJ9JJwAgu/1NP73h8=
+
+Name: assets/resource/images/EP_5/bg/ep5_zoom03.png
+SHA1-Digest: eqIouhQTMlKnNhtnnNVD7yeMi+I=
+
+Name: assets/resource/animations/room_ani/office/assets/office_assi_su
+ bin.png
+SHA1-Digest: hqi5WIWMcgksh3e80PXyiUFZqM8=
+
+Name: assets/resource/animations/tutorial/tutorial11.anim
+SHA1-Digest: +zY0azxpdIOaMO6qrSlzoHnHtpE=
+
+Name: assets/resource/animations/char_face/assets/supect_btn_emotion_b
+ g1.png
+SHA1-Digest: sHjbdBCFXVrnuls75IzJ3MPDN5c=
+
+Name: assets/resource/animations/room_ani/ui/alram4.anim
+SHA1-Digest: vrIzRTa+nYtcw+1eWMEHJ1O2G8M=
+
+Name: assets/images/standard/ui_std_logo_monday.png
+SHA1-Digest: tYEWWYQrSpmf8XMZnyOW3bZTDh8=
+
+Name: assets/resource/images/EP_6/bg/ep6_bg1_index.png
+SHA1-Digest: Eb5gncM+QBnvP+B7lSm8JaTmHHE=
+
+Name: assets/images/mainmenu/ui_main_ach_22.png
+SHA1-Digest: LpLxOMHkpD6EvLjXKJOHtIKvatc=
+
+Name: assets/resource/animations/char_face/kangchul02.anim
+SHA1-Digest: ZN+41fFV7m0DRcCOlrJPGvecQwY=
+
+Name: assets/resource/images/EP_1/bg/ep1_zoom01.png
+SHA1-Digest: dnTMQ8MVveXa6W+8Xe4ynQG+TWU=
+
+Name: assets/images/costume/ui_cos_icon_hero_3.png
+SHA1-Digest: rQBF3Vy1FGtgJmNjG2Owj1Ay43k=
+
+Name: assets/resource/animations/room_ani/ui/Map_ui_allow_up.anim
+SHA1-Digest: q/w2BglZG2OYFY2QK9JCSOMSu1E=
+
+Name: assets/sound/effect/snd_btn1.wav
+SHA1-Digest: s/DuDaXpR/wJTqowh7Q0c+/G26g=
+
+Name: assets/resource/images/EP_5/suspect/suspect_kangchul_p1_face02.p
+ ng
+SHA1-Digest: GuSM57jldVaECj4EbtJdOZVsNhw=
+
+Name: assets/resource/images/EP_add1/info/add1_detail01.png
+SHA1-Digest: jkOZqt4WQ6Ox3hH7Oo0R3Kh89eA=
+
+Name: assets/resource/animations/char_face/jitae03.anim
+SHA1-Digest: y85ps/IFXPQIpqJ2BC1DAimhc4o=
+
+Name: assets/images/standard/ui_std_decide_p.png
+SHA1-Digest: qaW826yOd51vAIe7yodyoXTg+MA=
+
+Name: assets/resource/images/Share/ui_move_left_50.png
+SHA1-Digest: 1+BbQARcLCxH1v9pFf5bVSj80q8=
+
+Name: assets/resource/animations/room_ani/office/assets/lcd_kkoma01.pn
+ g
+SHA1-Digest: 8mOqvXNBnvDlzTXpywg+K39mX60=
+
+Name: assets/resource/sounds/BGM/bgm_office.mp3
+SHA1-Digest: HXMSZwTl+Gf7rvC2BLP8KP4M1tU=
+
+Name: assets/resource/images/EP_add3/bg/add3_zoom02.png
+SHA1-Digest: J+G3QRLlcmhaIcV1l9u3iNUdYUI=
+
+Name: assets/resource/animations/char_face/assets/sangwoo02.png
+SHA1-Digest: t6dOfLz11s96Y+SmIPF11K72Fz4=
+
+Name: assets/resource/animations/tuto/assets/ep4_01.png
+SHA1-Digest: WrqNeQCmu82bef3UdmszYCiKWM4=
+
+Name: assets/images/inven/ui_pop_yes_shop.png
+SHA1-Digest: jlzpq/O4prwH9pvpNGBiavAFEHg=
+
+Name: assets/images/costume/ui_cos_icon_ass_b_3.png
+SHA1-Digest: x7oAadZ+XnTwwCC14P+6km2Xe1M=
+
+Name: assets/resource/images/Char/ryu/acter_ryu_p1_face02.png
+SHA1-Digest: k8OqXvINqk7KwqfavYqAccG/GRA=
+
+Name: assets/resource/images/EP_add1/info/add1_detail08.png
+SHA1-Digest: 7fWswM0YpPheGGDzWxwAwECNG/8=
+
+Name: assets/resource/images/EP_0/suspect/suspect_jiyoun_p1_face04.png
+SHA1-Digest: mg0IYrvPcHFvkhrS0WwoG1/OKi8=
+
