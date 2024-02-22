@@ -1,3 +1,4 @@
 *.apk
 build/
 dist/
+*.idb
